@@ -1,0 +1,401 @@
+product_id,product_name,category,subcategory,list_price,supplier_id,launch_date
+P00001,Southern Co Phone 763,Electronics,Phones,437.87,S020,2023-10-17
+P00002,Zentro Laptop 890,Electronics,Laptops,2787.24,S018,2024-04-17
+P00003,Novi Headphones 698,Electronics,Audio,385.77,S025,2024-10-16
+P00004,Harbour Case 181,Electronics,Accessories,50.3,S018,2023-02-13
+P00005,Apexa Shirt 507,Apparel,Menswear,21.32,S004,2023-03-14
+P00006,Vantage Dress 918,Apparel,Womenswear,32.17,S008,2023-07-31
+P00007,Novi Sneakers 240,Apparel,Footwear,42.8,S002,2023-04-08
+P00008,Harbour Toaster 314,Home,Kitchen,229.07,S008,2023-03-18
+P00009,Harbour Bookshelf 970,Home,Furniture,94.61,S024,2024-08-09
+P00010,Vantage Candle 853,Home,Decor,66.23,S012,2024-10-04
+P00011,Zentro Shirt 726,Apparel,Menswear,31.16,S013,2023-10-21
+P00012,Vantage Lamp 865,Home,Decor,55.07,S012,2024-07-16
+P00013,Novi Sneakers 114,Apparel,Footwear,158.21,S007,2024-08-24
+P00014,Vantage Chair 649,Home,Furniture,1415.44,S013,2024-09-24
+P00015,Novi Shirt 297,Apparel,Menswear,77.47,S023,2023-12-16
+P00016,Vantage Earbuds 182,Electronics,Audio,63.93,S020,2024-06-26
+P00017,Southern Co Skirt 588,Apparel,Womenswear,209.71,S020,2024-05-07
+P00018,Harbour Smartphone 230,Electronics,Phones,723.45,S007,2023-01-09
+P00019,Lumen Chair 583,Home,Furniture,193.51,S018,2024-05-05
+P00020,Harbour Sneakers 233,Apparel,Footwear,232.64,S012,2023-11-12
+P00021,Willow Kettle 216,Home,Kitchen,59.28,S003,2022-12-21
+P00022,Zentro Shirt 373,Apparel,Menswear,36.85,S016,2024-01-07
+P00023,Lumen Cushion 973,Home,Decor,52.31,S011,2024-07-17
+P00024,Lumen Candle 628,Home,Decor,18.03,S016,2024-03-25
+P00025,Apexa Kettle 529,Home,Kitchen,$16.96,S012,2024-07-21
+P00026,Apexa Earbuds 608,Electronics,Audio,188.5,S015,2023-06-29
+P00027,Southern Co Jeans 654,Apparel,Menswear,83.05,S008,2024-05-13
+P00028,Vantage Smartphone 487,Electronics,Phones,692.87,S014,2023-08-21
+P00029,Willow Speaker 826,Electronics,Audio,106.22,S019,2023-10-08
+P00030,Orbit Sandals 552,Apparel,Footwear,224.28,S019,2023-11-03
+P00031,Apexa Kettle 566,Home,Kitchen,227.82,S021,2024-02-07
+P00032,Lumen Lamp 164,Home,Decor,13.69,S022,2023-03-23
+P00033,Novi Cable 608,electronics ,Accessories,11.48,S009,2023-11-26
+P00034,Zentro Shirt 767,Apparel,Menswear,39.86,S023,2024-10-22
+P00035,Vantage Hoodie 473,Apparel,Menswear,123.13,S010,2023-06-24
+P00036,Zentro Speaker 207,Electronics,Audio,203.57,S013,2024-02-20
+P00037,Novi Ultrabook 504,Electronics,Laptops,$2626.32,S020,2024-01-09
+P00038,Kora Dress 734,Apparel,Womenswear,104.03,S019,2024-02-04
+P00039,Kora Headphones 706,Electronics,Audio,226.88,S006,2023-05-22
+P00040,Southern Co Runners 249,Apparel,Footwear,54.35,S011,2023-03-27
+P00041,Willow Jeans 280,Apparel,Menswear,175.75,S021,2023-04-20
+P00042,Willow Chair 502,Home,Furniture,121.16,S022,2024-02-01
+P00043,Orbit Toaster 137,Home,Kitchen,$19.69,S011,2023-12-02
+P00044,Lumen Cable 262,Electronics,Accessories,14.54,S007,2023-02-06
+P00045,Harbour Sofa 273,Home,Furniture,91.19,S008,2024-06-18
+P00046,Lumen Cookware Set 543,Home,Kitchen,110.24,S001,2024-09-04
+P00047,Orbit Hoodie 867,Apparel,Menswear,34.16,S016,2023-10-09
+P00048,Harbour Adapter 785,Electronics,Accessories,52.88,S016,2024-09-22
+P00049,Vantage Runners 892,Apparel,Footwear,79.45,S009,2023-01-20
+P00050,Orbit Speaker 790,Electronics,Audio,147.78,S018,2023-03-16
+P00051,Lumen Soundbar 374,Electronics,Audio,156.94,S015,2024-08-09
+P00052,Orbit Phone 548,Electronics,Phones,470.45,S022,2023-10-27
+P00053,Novi Kettle 997,Home,Kitchen,21.44,S023,2023-08-19
+P00054,Harbour Sneakers 404,Apparel,Footwear,55.76,S008,2024-06-20
+P00055,Harbour Toaster 721,Home,Kitchen,16.32,S012,2024-01-12
+P00056,Kora Cookware Set 106,Home,Kitchen,114.85,S011,2024-04-21
+P00057,Southern Co Jeans 741,Apparel,Menswear,93.73,S025,2023-04-20
+P00058,Harbour Coat 784,Apparel,Womenswear,62.85,S017,2023-02-08
+P00059,Apexa Soundbar 660,Electronics,Audio,281.62,S020,2023-12-15
+P00060,Orbit Ultrabook 758,Electronics,Laptops,715.3,S021,2023-12-29
+P00061,Willow Runners 474,Apparel,Footwear,112.64,S025,2024-08-18
+P00062,Willow Coat 759,Apparel,Womenswear,39.92,S025,2023-05-27
+P00063,Novi Dress 367,Apparel,Womenswear,45.91,S002,2023-11-12
+P00064,Vantage Toaster 986,Home,Kitchen,79.33,S022,2023-12-12
+P00065,Apexa Boots 166,Apparel,Footwear,249.47,S020,2023-08-05
+P00066,Novi Blouse 821,Apparel,Womenswear,75.77,S007,2023-01-24
+P00067,Apexa Dress 149,Apparel,Womenswear,143.77,S010,2023-01-04
+P00068,Novi Adapter 707,Electronics,Accessories,13.12,S020,2023-06-21
+P00069,Novi Phone 765,Electronics,Phones,1051.23,S019,2024-01-31
+P00070,Orbit Hoodie 310,Apparel,Menswear,22.27,S003,2023-08-24
+P00071,Lumen Headphones 955,Electronics,Audio,408.6,S013,2024-05-01
+P00072,Harbour Hoodie 460,Apparel,Menswear,21.34,S018,2023-02-14
+P00073,Apexa Sofa 473,Home,Furniture,572.87,S022,2023-11-01
+P00074,Kora Adapter 368,Electronics,Accessories,83.35,S018,2023-09-15
+P00075,Zentro Smartphone 594,Electronics,Phones,522.33,S023,2023-03-06
+P00076,Zentro Case 407,Electronics,Accessories,12.35,S012,2023-06-18
+P00077,Southern Co Adapter 673,Electronics,Accessories,$74.36,S008,2023-05-09
+P00078,Lumen Sneakers 616,Apparel,Footwear,$51.68,S005,2022-12-04
+P00079,Vantage Blouse 154,Apparel,Womenswear,107.38,S010,2023-11-20
+P00080,Willow Kettle 220,Home,Kitchen,81.3,S003,2024-02-20
+P00081,Kora Sneakers 598,Apparel,Footwear,45.36,S001,2024-04-04
+P00082,Lumen Hoodie 408,Apparel,Menswear,80.64,S012,2024-01-12
+P00083,Willow Toaster 552,Home,Kitchen,391.71,S014,2022-12-16
+P00084,Apexa Earbuds 311,Electronics,Audio,453.95,S015,2024-03-19
+P00085,Kora Phone 984,Electronics,Phones,1351.48,S019,2024-06-04
+P00086,Southern Co Laptop 369,Electronics,Laptops,1641.75,S022,2024-05-17
+P00087,Zentro Blender 411,Home,Kitchen,44.92,S022,2024-10-31
+P00088,Apexa Jacket 811,Apparel,Menswear,68.68,S015,2023-05-03
+P00089,Orbit Earbuds 953,Electronics,Audio,131.11,S025,2023-09-16
+P00090,Harbour Blouse 911,Apparel,Womenswear,141.06,S007,2023-04-30
+P00091,Zentro Speaker 387,electronics ,Audio,66.05,S003,2024-01-07
+P00092,Harbour Sandals 560,Apparel,Footwear,239.15,S024,2024-01-03
+P00093,Willow Hoodie 764,Apparel,Menswear,21.64,S003,2024-04-10
+P00094,Novi Jeans 158,Apparel,Menswear,34.34,S025,2023-12-19
+P00095,Vantage Cable 142,Electronics,Accessories,36.05,S002,2023-03-16
+P00096,Zentro Sandals 154,Apparel,Footwear,82.15,S023,2023-07-02
+P00097,Willow Jacket 540,Apparel,Menswear,31.52,S010,2024-05-24
+P00098,Lumen Laptop 200,Electronics,Laptops,601.54,S011,2023-03-09
+P00099,Zentro Ultrabook 347,Electronics,Laptops,601.14,S013,2024-10-12
+P00100,Kora Cushion 801,Home,Decor,$32.16,S012,2023-03-24
+P00101,Apexa Rug 637,Home,Decor,20.24,S007,2023-02-01
+P00102,Lumen Boots 305,Apparel,Footwear,143.71,S019,2024-03-15
+P00103,Lumen Charger 544,Electronics,Accessories,100.94,S012,2023-03-08
+P00104,Vantage Cushion 142,Home,Decor,15.03,S008,2024-07-28
+P00105,Novi Blender 938,Home,Kitchen,341.43,S005,2023-04-10
+P00106,Novi Cookware Set 657,Home,Kitchen,21.85,S012,2024-05-16
+P00107,Apexa Jeans 718,Apparel,Menswear,69.85,S022,2023-11-22
+P00108,Novi Case 656,Electronics,Accessories,83.36,S012,2024-07-11
+P00109,Willow Ultrabook 361,Electronics,Laptops,1973.57,S007,2024-05-12
+P00110,Willow Candle 642,Home,Decor,34.24,S023,2022-12-13
+P00111,Vantage Hoodie 233,Apparel,Menswear,44.26,S008,2023-10-15
+P00112,Vantage Earbuds 294,Electronics,Audio,203.51,S013,2024-01-17
+P00113,Orbit Charger 874,Electronics,Accessories,22.02,S001,2023-06-05
+P00114,Kora Blouse 248,Apparel,Womenswear,20.93,S017,2023-06-13
+P00115,Kora Speaker 842,electronics ,Audio,272.17,S008,2024-08-07
+P00116,Orbit Sofa 213,Home,Furniture,456.08,S020,2024-07-24
+P00117,Novi Blender 814,Home,Kitchen,158.44,S013,2024-08-09
+P00118,Willow Toaster 114,Home,Kitchen,15.21,S014,2022-12-07
+P00119,Kora Shirt 614,Apparel,Menswear,72.26,S023,2024-08-30
+P00120,Orbit Sneakers 658,Apparel,Footwear,109.13,S005,2024-04-24
+P00121,Lumen Blouse 218,Apparel,Womenswear,22.58,S008,2024-03-06
+P00122,Harbour Sneakers 116,Apparel,Footwear,191.36,S002,2023-09-12
+P00123,Orbit Ultrabook 854,Electronics,Laptops,856.8,S007,2023-08-26
+P00124,Harbour Jeans 456,Apparel,Menswear,67.49,S019,2023-07-16
+P00125,Vantage Phone 340,Electronics,Phones,961.7,S019,2023-06-18
+P00126,Willow Coat 562,Apparel,Womenswear,54.66,S024,2024-10-24
+P00127,Kora Case 484,Electronics,Accessories,72.29,S011,2023-01-14
+P00128,Novi Speaker 455,Electronics,Audio,445.02,S005,2023-07-13
+P00129,Kora Ultrabook 338,Electronics,Laptops,755.24,S005,2023-07-13
+P00130,Zentro Coat 920,Apparel,Womenswear,156.88,S007,2024-06-06
+P00131,Orbit Speaker 679,Electronics,Audio,142.75,S022,2023-08-07
+P00132,Kora Lamp 766,Home,Decor,40.56,S017,2023-06-09
+P00133,Willow Blouse 499,APPAREL,Womenswear,130.74,S003,2023-05-06
+P00134,Willow Adapter 817,Electronics,Accessories,85.92,S013,2024-08-24
+P00135,Lumen Blouse 509,Apparel,Womenswear,32.65,S001,2024-06-07
+P00136,Willow Phone 746,Electronics,Phones,503.48,S024,2023-02-19
+P00137,Harbour Rug 412,Home,Decor,29.12,S016,2023-09-29
+P00138,Southern Co Dress 640,Apparel,Womenswear,53.35,S015,2023-01-17
+P00139,Novi Blender 403,Home,Kitchen,73.6,S010,2024-02-22
+P00140,Kora Laptop 246,Electronics,Laptops,734.28,S008,2023-07-11
+P00141,Novi Coat 753,Apparel,Womenswear,45.14,S007,2024-06-16
+P00142,Novi Blouse 892,Apparel,Womenswear,121.82,S009,2024-04-21
+P00143,Willow Lamp 530,Home,Decor,17.29,S014,2024-09-23
+P00144,Lumen Dress 140,Apparel,Womenswear,$37.26,S001,2023-11-30
+P00145,Apexa Blouse 705,Apparel,Womenswear,199.56,S013,2023-02-22
+P00146,Zentro Charger 365,Electronics,Accessories,18.73,S008,2023-05-16
+P00147,Vantage Adapter 194,Electronics,Accessories,88.33,S025,2023-08-30
+P00148,Willow Blouse 164,Apparel,Womenswear,196.55,S011,2024-07-28
+P00149,Apexa Jeans 482,APPAREL,Menswear,39.04,S003,2023-04-10
+P00150,Orbit Smartphone 587,Electronics,Phones,785.52,S014,2024-07-09
+P00151,Lumen Sofa 195,Home,Furniture,168.07,S022,2024-02-13
+P00152,Southern Co Cushion 366,Home,Decor,73.21,S022,2024-02-16
+P00153,Zentro Soundbar 127,Electronics,Audio,$119.73,S020,2024-10-02
+P00154,Apexa Skirt 208,APPAREL,Womenswear,191.22,S006,2023-02-13
+P00155,Kora Laptop 259,Electronics,Laptops,700.35,S022,2023-08-27
+P00156,Zentro Sneakers 504,Apparel,Footwear,86.75,S005,2024-05-14
+P00157,Zentro Adapter 616,Electronics,Accessories,58.41,S022,2023-05-29
+P00158,Kora Runners 323,Apparel,Footwear,108.04,S009,2024-05-14
+P00159,Novi Toaster 166,Home,Kitchen,25.96,S023,2024-10-30
+P00160,Vantage Kettle 541,Home,Kitchen,87.24,S012,2023-10-28
+P00161,Orbit Laptop 424,Electronics,Laptops,1371.26,S004,2024-02-24
+P00162,Zentro Lamp 533,Home,Decor,131.81,S021,2023-01-04
+P00163,Kora Case 962,Electronics,Accessories,15.02,S006,2024-07-09
+P00164,Apexa Smartphone 206,Electronics,Phones,264.34,S004,2023-01-30
+P00165,Willow Blouse 164,Apparel,Womenswear,43.24,S012,2022-12-23
+P00166,Lumen Jeans 268,Apparel,Menswear,64.35,S021,2022-12-10
+P00167,Orbit Chair 433,Home,Furniture,880.64,S012,2023-03-25
+P00168,Zentro Cookware Set 406,Home,Kitchen,343.58,S014,2024-09-27
+P00169,Novi Adapter 691,Electronics,Accessories,23.42,S016,2024-09-25
+P00170,Vantage Candle 290,Home,Decor,85.78,S006,2023-01-25
+P00171,Apexa Case 777,Electronics,Accessories,29.69,S001,2023-10-12
+P00172,Willow Coat 155,Apparel,Womenswear,39.22,S010,2023-12-17
+P00173,Lumen Charger 808,Electronics,Accessories,13.78,S016,2023-11-20
+P00174,Kora Cushion 386,Home,Decor,121.39,S011,2023-06-12
+P00175,Kora Speaker 691,Electronics,Audio,$139.43,S015,2024-09-12
+P00176,Lumen Phone 408,Electronics,Phones,1458.34,S014,2024-06-30
+P00177,Willow Hoodie 624,Apparel,Menswear,88.74,S002,2022-12-11
+P00178,Lumen Cushion 773,Home,Decor,112.11,S007,2022-12-08
+P00179,Vantage Cushion 254,Home,Decor,42.17,S008,2024-02-23
+P00180,Willow Cookware Set 763,Home,Kitchen,52.15,S010,2024-01-24
+P00181,Zentro Cushion 630,Home,Decor,45.79,S013,2023-06-13
+P00182,Willow Lamp 681,Home,Decor,31.13,S011,2024-03-07
+P00183,Lumen Skirt 332,Apparel,Womenswear,53.22,S004,2023-04-02
+P00184,Novi Charger 689,Electronics,Accessories,52.52,S019,2023-07-26
+P00185,Orbit Kettle 823,Home,Kitchen,16.04,S005,2024-07-11
+P00186,Vantage Sandals 321,Apparel,Footwear,$200.3,S023,2023-07-23
+P00187,Orbit Jacket 788,Apparel,Menswear,26.58,S004,2024-04-19
+P00188,Apexa Ultrabook 918,Electronics,Laptops,1696.5,S019,2024-06-13
+P00189,Southern Co Cookware Set 791,Home,Kitchen,94.8,S024,2023-09-21
+P00190,Harbour Cable 662,Electronics,Accessories,18.85,S002,2024-03-22
+P00191,Southern Co Rug 495,Home,Decor,140.61,S018,2023-10-17
+P00192,Novi Case 886,Electronics,Accessories,27.02,S025,2023-09-01
+P00193,Zentro Ultrabook 861,Electronics,Laptops,1188.92,S022,2024-03-17
+P00194,Kora Chair 540,Home,Furniture,394.73,S012,2023-08-17
+P00195,Orbit Headphones 462,Electronics,Audio,98.86,S023,2023-01-03
+P00196,Willow Soundbar 979,Electronics,Audio,392.54,S001,2023-05-30
+P00197,Apexa Coat 194,Apparel,Womenswear,125.13,S013,2023-08-21
+P00198,Lumen Chair 679,Home,Furniture,161.77,S016,2024-04-13
+P00199,Lumen Speaker 425,Electronics,Audio,80.4,S011,2024-04-15
+P00200,Apexa Cable 873,Electronics,Accessories,75.98,S015,2024-07-07
+P00201,Novi Kettle 508,Home,Kitchen,15.39,S020,2024-07-30
+P00202,Orbit Cushion 796,Home,Decor,14.54,S016,2024-08-13
+P00203,Lumen Coat 357,APPAREL,Womenswear,50.96,S005,2023-01-09
+P00204,Zentro Earbuds 657,Electronics,Audio,125.69,S022,2023-01-18
+P00205,Harbour Smartphone 943,Electronics,Phones,1544.04,S004,2023-09-16
+P00206,Vantage Earbuds 895,Electronics,Audio,83.24,S006,2023-07-26
+P00207,Vantage Soundbar 617,Electronics,Audio,54.15,S005,2024-07-15
+P00208,Lumen Sneakers 550,Apparel,Footwear,112.44,S008,2023-07-10
+P00209,Novi Ultrabook 121,Electronics,Laptops,1639.85,S025,2024-10-10
+P00210,Southern Co Blouse 754,Apparel,Womenswear,25.13,S003,2022-12-19
+P00211,Apexa Boots 259,Apparel,Footwear,72.58,S011,2024-06-08
+P00212,Novi Coat 417,Apparel,Womenswear,100.26,S009,2023-04-30
+P00213,Willow Soundbar 941,Electronics,Audio,380.81,S011,2024-01-30
+P00214,Kora Cookware Set 820,Home,Kitchen,191.51,S005,2023-11-24
+P00215,Apexa Blender 612,Home,Kitchen,312.76,S022,2023-01-30
+P00216,Novi Kettle 579,Home & Living,Kitchen,25.29,S008,2024-09-15
+P00217,Apexa Headphones 178,Electronics,Audio,46.15,S011,2023-03-17
+P00218,Vantage Laptop 686,Electronics,Laptops,633.08,S019,2023-04-05
+P00219,Novi Lamp 158,Home,Decor,15.76,S022,2024-04-28
+P00220,Orbit Jacket 836,Apparel,Menswear,65.36,S002,2024-08-29
+P00221,Southern Co Case 628,Electronics,Accessories,26.65,S007,2024-03-17
+P00222,Vantage Blouse 774,Apparel,Womenswear,67.0,S018,2023-12-12
+P00223,Lumen Sneakers 662,Apparel,Footwear,79.64,S006,2023-08-05
+P00224,Vantage Candle 177,Home,Decor,13.8,S009,2024-07-01
+P00225,Novi Adapter 154,Electronics,Accessories,15.46,S010,2023-07-01
+P00226,Willow Candle 687,Home,Decor,14.5,S005,2023-12-23
+P00227,Zentro Phone 956,Electronics,Phones,518.45,S025,2023-01-03
+P00228,Orbit Blouse 298,Apparel,Womenswear,31.72,S012,2023-07-31
+P00229,Apexa Runners 105,Apparel,Footwear,68.72,S015,2023-05-29
+P00230,Southern Co Laptop 738,Electronics,Laptops,2150.08,S012,2024-10-14
+P00231,Willow Speaker 434,Electronics,Audio,45.73,S013,2023-08-26
+P00232,Apexa Jacket 781,Apparel,Menswear,50.18,S003,2023-04-03
+P00233,Zentro Rug 778,Home,Decor,45.71,S007,2024-08-01
+P00234,Southern Co Skirt 607,Apparel,Womenswear,42.54,S016,2023-07-17
+P00235,Kora Lamp 108,Home,Decor,11.96,S006,2023-09-10
+P00236,Orbit Toaster 254,Home,Kitchen,135.13,S021,2023-02-17
+P00237,Orbit Jacket 855,Apparel,Menswear,56.17,S024,2023-12-05
+P00238,Novi Kettle 626,Home,Kitchen,31.18,S012,2024-06-18
+P00239,Novi Smartphone 902,electronics ,Phones,882.59,S003,2024-01-16
+P00240,Apexa Ultrabook 258,electronics ,Laptops,1150.7,S002,2024-07-30
+P00241,Zentro Desk 409,Home,Furniture,995.93,S010,2024-05-14
+P00242,Novi Kettle 338,Home,Kitchen,50.58,S024,2023-09-01
+P00243,Orbit Adapter 129,Electronics,Accessories,16.66,S024,2023-07-01
+P00244,Novi Dress 203,Apparel,Womenswear,$25.87,S012,2023-08-26
+P00245,Zentro Sandals 965,Apparel,Footwear,50.26,S019,2024-08-21
+P00246,Orbit Sofa 996,Home,Furniture,373.91,S012,2024-10-02
+P00247,Novi Boots 521,APPAREL,Footwear,84.77,S024,2024-09-02
+P00248,Southern Co Hoodie 253,Apparel,Menswear,117.58,S021,2022-12-17
+P00249,Southern Co Jacket 360,Apparel,Menswear,59.82,S025,2023-01-02
+P00250,Kora Hoodie 625,Apparel,Menswear,47.9,S012,2024-08-04
+P00251,Apexa Sneakers 982,Apparel,Footwear,72.96,S003,2023-04-23
+P00252,Orbit Chair 422,Home,Furniture,450.1,S017,2024-01-20
+P00253,Orbit Jeans 440,Apparel,Menswear,51.62,S024,2023-04-20
+P00254,Willow Adapter 396,Electronics,Accessories,26.45,S007,2023-12-22
+P00255,Kora Cable 361,Electronics,Accessories,41.01,S017,2024-03-01
+P00256,Southern Co Toaster 410,Home,Kitchen,44.65,S002,2024-02-10
+P00257,Kora Blender 550,Home,Kitchen,20.7,S019,2022-12-25
+P00258,Kora Ultrabook 605,electronics ,Laptops,834.99,S019,2023-05-23
+P00259,Southern Co Phone 972,Electronics,Phones,403.15,S024,2024-06-27
+P00260,Southern Co Coat 147,Apparel,Womenswear,99.46,S017,2023-01-10
+P00261,Zentro Soundbar 928,Electronics,Audio,115.79,S015,2022-12-17
+P00262,Novi Bookshelf 711,Home,Furniture,89.57,S023,2023-10-05
+P00263,Kora Case 235,Electronics,Accessories,10.68,S022,2024-05-18
+P00264,Lumen Earbuds 104,Electronics,Audio,141.2,S015,2023-05-01
+P00265,Orbit Candle 988,Home,Decor,24.49,S010,2023-03-17
+P00266,Southern Co Speaker 244,Electronics,Audio,83.18,S011,2023-05-09
+P00267,Apexa Case 316,Electronics,Accessories,34.35,S025,2024-09-09
+P00268,Willow Soundbar 268,Electronics,Audio,405.86,S024,2023-09-13
+P00269,Southern Co Laptop 205,Electronics,Laptops,2320.8,S003,2024-02-03
+P00270,Orbit Smartphone 607,Electronics,Phones,611.4,S016,2022-12-15
+P00271,Willow Smartphone 940,Electronics,Phones,771.72,S010,2024-08-04
+P00272,Lumen Soundbar 814,Electronics,Audio,55.12,S006,2023-03-26
+P00273,Vantage Smartphone 756,Electronics,Phones,$423.85,S022,2024-09-16
+P00274,Novi Blouse 516,Apparel,Womenswear,69.67,S011,2023-07-07
+P00275,Harbour Runners 202,Apparel,Footwear,54.31,S010,2023-04-28
+P00276,Harbour Jeans 515,Apparel,Menswear,21.84,S025,2023-11-02
+P00277,Lumen Charger 616,electronics ,Accessories,17.03,S005,2023-11-23
+P00278,Kora Blouse 951,APPAREL,Womenswear,25.23,S005,2024-01-23
+P00279,Lumen Bookshelf 320,Home,Furniture,856.86,S003,2023-09-21
+P00280,Harbour Bookshelf 670,Home,Furniture,1028.95,S009,2024-01-06
+P00281,Kora Smartphone 283,Electronics,Phones,556.5,S014,2024-02-17
+P00282,Willow Speaker 136,Electronics,Audio,536.52,S006,2023-06-26
+P00283,Southern Co Adapter 449,Electronics,Accessories,21.17,S002,2024-03-29
+P00284,Willow Adapter 205,Electronics,Accessories,80.13,S008,2024-09-21
+P00285,Willow Dress 749,Apparel,Womenswear,148.01,S014,2024-09-14
+P00286,Willow Jeans 457,Apparel,Menswear,69.58,S020,2023-12-26
+P00287,Zentro Phone 359,Electronics,Phones,281.08,S008,2023-04-28
+P00288,Zentro Shirt 966,Apparel,Menswear,37.5,S005,2024-08-27
+P00289,Zentro Blouse 586,Apparel,Womenswear,160.04,S021,2024-08-05
+P00290,Willow Laptop 948,Electronics,Laptops,2195.63,S016,2024-08-05
+P00291,Kora Chair 448,Home,Furniture,824.38,S014,2022-12-27
+P00292,Orbit Smartphone 733,Electronics,Phones,1518.41,S020,2023-11-29
+P00293,Orbit Rug 351,Home,Decor,34.42,S010,2024-06-18
+P00294,Kora Ultrabook 169,Electronics,Laptops,688.96,S015,2023-05-06
+P00295,Zentro Bookshelf 850,Home,Furniture,295.76,S016,2024-09-02
+P00296,Novi Candle 285,Home,Decor,15.32,S008,2022-12-19
+P00297,Kora Cushion 697,Home,Decor,18.08,S024,2023-03-03
+P00298,Willow Cookware Set 144,Home,Kitchen,33.51,S009,2024-07-17
+P00299,Zentro Blender 233,Home,Kitchen,18.61,S015,2024-02-20
+P00300,Willow Runners 662,Apparel,Footwear,109.34,S020,2024-06-13
+P00301,Orbit Cookware Set 686,Home,Kitchen,228.38,S022,2023-08-22
+P00302,Willow Headphones 181,Electronics,Audio,102.62,S012,2024-05-27
+P00303,Harbour Coat 863,APPAREL,Womenswear,57.15,S010,2024-03-19
+P00304,Vantage Skirt 264,Apparel,Womenswear,73.09,S016,2024-03-22
+P00305,Zentro Chair 245,Home & Living,Furniture,542.76,S011,2023-04-16
+P00306,Apexa Hoodie 251,Apparel,Menswear,97.7,S018,2023-01-16
+P00307,Orbit Shirt 629,Apparel,Menswear,30.22,S013,2023-10-27
+P00308,Southern Co Sandals 492,Apparel,Footwear,103.56,S007,2022-12-06
+P00309,Southern Co Cable 928,Electronics,Accessories,33.48,S011,2022-12-21
+P00310,Novi Headphones 304,Electronics,Audio,199.27,S018,2023-08-13
+P00311,Southern Co Coat 115,Apparel,Womenswear,22.59,S012,2023-11-21
+P00312,Orbit Jeans 154,Apparel,Menswear,56.86,S021,2023-04-06
+P00313,Vantage Adapter 912,Electronics,Accessories,50.06,S011,2023-12-18
+P00314,Harbour Hoodie 667,Apparel,Menswear,131.24,S008,2024-03-03
+P00315,Vantage Jeans 936,Apparel,Menswear,85.75,S025,2023-06-27
+P00316,Kora Case 830,electronics ,Accessories,28.76,S010,2023-11-13
+P00317,Lumen Jacket 578,APPAREL,Menswear,100.9,S006,2023-09-10
+P00318,Vantage Boots 278,Apparel,Footwear,51.13,S010,2023-08-21
+P00319,Apexa Adapter 758,Electronics,Accessories,64.04,S007,2023-10-04
+P00320,Zentro Candle 238,Home,Decor,133.17,S008,2024-06-16
+P00321,Kora Cushion 269,Home,Decor,22.01,S023,2023-06-11
+P00322,Vantage Coat 257,Apparel,Womenswear,109.27,S019,2024-02-25
+P00323,Orbit Charger 449,Electronics,Accessories,32.83,S007,2024-05-12
+P00324,Kora Blouse 594,Apparel,Womenswear,27.14,S021,2023-06-27
+P00325,Lumen Desk 315,Home,Furniture,98.2,S020,2023-09-21
+P00326,Vantage Sneakers 502,Apparel,Footwear,183.93,S011,2023-04-07
+P00327,Kora Kettle 263,Home,Kitchen,34.02,S005,2024-05-24
+P00328,Lumen Blouse 316,APPAREL,Womenswear,51.21,S023,2023-05-25
+P00329,Zentro Boots 428,Apparel,Footwear,71.98,S004,2024-10-22
+P00330,Lumen Adapter 431,Electronics,Accessories,21.23,S023,2024-05-20
+P00331,Novi Toaster 428,Home,Kitchen,201.08,S013,2023-08-20
+P00332,Harbour Speaker 997,electronics ,Audio,418.73,S012,2023-08-30
+P00333,Orbit Sandals 553,Apparel,Footwear,211.53,S020,2024-02-24
+P00334,Lumen Chair 114,Home,Furniture,101.48,S015,2023-12-03
+P00335,Lumen Earbuds 505,Electronics,Audio,152.55,S015,2023-05-17
+P00336,Southern Co Sandals 197,Apparel,Footwear,191.49,S018,2024-05-28
+P00337,Novi Ultrabook 792,Electronics,Laptops,2035.53,S025,2023-07-23
+P00338,Orbit Blender 382,Home,Kitchen,$309.44,S004,2024-01-25
+P00339,Orbit Ultrabook 665,Electronics,Laptops,906.78,S024,2024-01-04
+P00340,Kora Cushion 366,Home,Decor,45.19,S006,2024-07-06
+P00341,Vantage Headphones 665,Electronics,Audio,67.86,S024,2023-05-16
+P00342,Lumen Lamp 712,Home,Decor,95.72,S017,2024-06-20
+P00343,Apexa Toaster 980,Home,Kitchen,27.24,S007,2023-01-27
+P00344,Willow Skirt 709,Apparel,Womenswear,27.98,S025,2023-04-11
+P00345,Willow Kettle 407,Home,Kitchen,33.39,S025,2023-10-05
+P00346,Apexa Toaster 488,Home,Kitchen,64.74,S018,2024-05-08
+P00347,Harbour Candle 620,Home,Decor,81.73,S010,2023-06-04
+P00348,Orbit Case 103,Electronics,Accessories,16.98,S015,2023-09-29
+P00349,Orbit Dress 287,Apparel,Womenswear,216.9,S006,2023-02-12
+P00350,Southern Co Ultrabook 180,Electronics,Laptops,2089.33,S004,2024-01-30
+P00351,Zentro Boots 312,Apparel,Footwear,161.95,S005,2024-07-04
+P00352,Zentro Earbuds 530,Electronics,Audio,121.43,S019,2023-03-09
+P00353,Vantage Blouse 220,Apparel,Womenswear,93.3,S025,2024-07-09
+P00354,Lumen Dress 930,Apparel,Womenswear,52.61,S002,2024-05-13
+P00355,Novi Hoodie 971,Apparel,Menswear,99.41,S003,2024-01-17
+P00356,Lumen Dress 266,Apparel,Womenswear,32.35,S011,2023-12-13
+P00357,Zentro Toaster 290,Home,Kitchen,40.14,S023,2023-10-21
+P00358,Orbit Cookware Set 346,Home,Kitchen,37.07,S003,2024-05-07
+P00359,Novi Coat 561,Apparel,Womenswear,27.65,S011,2023-01-21
+P00360,Apexa Blouse 458,Apparel,Womenswear,152.32,S007,2024-10-08
+P00361,Vantage Cushion 489,Home,Decor,15.5,S020,2024-07-12
+P00362,Apexa Ultrabook 865,Electronics,Laptops,2465.44,S007,2023-03-19
+P00363,Southern Co Laptop 871,electronics ,Laptops,$852.04,S022,2023-10-19
+P00364,Kora Ultrabook 783,Electronics,Laptops,1556.72,S016,2024-08-04
+P00365,Zentro Sandals 195,Apparel,Footwear,172.51,S019,2022-12-20
+P00366,Lumen Shirt 574,Apparel,Menswear,137.28,S025,2023-05-30
+P00367,Zentro Cookware Set 658,Home,Kitchen,244.39,S008,2024-01-10
+P00368,Zentro Boots 552,Apparel,Footwear,62.49,S017,2023-11-14
+P00369,Orbit Cable 848,Electronics,Accessories,42.54,S020,2022-12-30
+P00370,Willow Candle 762,Home,Decor,19.51,S008,2023-07-16
+P00371,Vantage Blender 402,Home,Kitchen,88.87,S020,2023-12-20
+P00372,Willow Adapter 925,electronics ,Accessories,60.12,S004,2022-12-14
+P00373,Kora Jeans 692,Apparel,Menswear,43.35,S012,2024-09-13
+P00374,Willow Case 470,Electronics,Accessories,12.63,S016,2023-02-28
+P00375,Southern Co Soundbar 639,Electronics,Audio,86.32,S010,2023-09-01
+P00376,Willow Soundbar 370,Electronics,Audio,437.7,S007,2023-05-12
+P00377,Apexa Cushion 364,Home,Decor,24.9,S017,2023-01-17
+P00378,Orbit Jacket 297,Apparel,Menswear,21.1,S023,2023-06-22
+P00379,Harbour Jacket 526,Apparel,Menswear,68.99,S002,2023-12-21
+P00380,Kora Toaster 127,Home,Kitchen,284.41,S022,2024-01-29
+P00381,Orbit Dress 423,Apparel,Womenswear,192.89,S019,2023-10-21
+P00382,Apexa Lamp 770,Home,Decor,104.52,S019,2023-02-21
+P00383,Southern Co Cookware Set 468,Home,Kitchen,31.26,S020,2023-04-22
+P00384,Apexa Skirt 124,Apparel,Womenswear,34.78,S009,2023-01-01
+P00385,Zentro Jeans 434,Apparel,Menswear,95.18,S019,2023-01-22
+P00386,Southern Co Lamp 504,Home,Decor,36.31,S002,2023-08-11
+P00387,Novi Toaster 852,Home,Kitchen,29.77,S021,2024-09-22
+P00388,Kora Lamp 226,Home,Decor,47.92,S007,2022-12-22
+P00389,Harbour Ultrabook 842,Electronics,Laptops,2410.97,S009,2023-04-02
+P00390,Zentro Sofa 180,Home,Furniture,148.83,S005,2024-08-09
+P00391,Novi Sandals 178,APPAREL,Footwear,45.71,S002,2024-10-11
+P00392,Zentro Ultrabook 621,Electronics,Laptops,2145.8,S003,2023-05-09
+P00393,Lumen Coat 376,Apparel,Womenswear,$90.79,S016,2023-12-30
+P00394,Southern Co Boots 502,Apparel,Footwear,151.87,S018,2024-03-04
+P00395,Novi Smartphone 478,Electronics,Phones,595.6,S020,2023-05-05
+P00396,Apexa Hoodie 321,Apparel,Menswear,28.02,S020,2023-03-23
+P00397,Willow Chair 680,Home,Furniture,210.59,S022,2023-02-23
+P00398,Novi Charger 376,Electronics,Accessories,66.93,S019,2024-06-03
+P00399,Harbour Hoodie 200,Apparel,Menswear,90.87,S008,2022-12-13
+P00400,Southern Co Jacket 598,Apparel,Menswear,37.81,S008,2023-08-24

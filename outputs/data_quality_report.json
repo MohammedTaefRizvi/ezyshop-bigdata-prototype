@@ -1,0 +1,103 @@
+{
+  "tables": {
+    "customers": {
+      "input": 5050,
+      "output": 4990,
+      "rejected": {
+        "unparseable_signup_date": 0,
+        "gdpr_erasure": 10
+      },
+      "deduplicated": 50
+    },
+    "products": {
+      "input": 400,
+      "output": 400,
+      "rejected": {
+        "unknown_category": 0,
+        "invalid_price": 0
+      },
+      "deduplicated": 0
+    },
+    "orders": {
+      "input": 323259,
+      "output": 317201,
+      "rejected": {
+        "missing_customer_id": 960,
+        "unparseable_timestamp": 0,
+        "future_timestamp": 160,
+        "non_positive_quantity": 638,
+        "unknown_product": 0,
+        "price_outlier": 319,
+        "gdpr_erasure": 780
+      },
+      "deduplicated": 3201
+    },
+    "clickstream": {
+      "input": 441104,
+      "output": 434394,
+      "rejected": {
+        "malformed_json": 1304,
+        "unparseable_timestamp": 0,
+        "gdpr_erasure": 963
+      },
+      "deduplicated": 4443
+    },
+    "reviews": {
+      "input": 33699,
+      "output": 33279,
+      "rejected": {
+        "empty_text": 338,
+        "gdpr_erasure": 82
+      },
+      "deduplicated": 0
+    },
+    "social_posts": {
+      "input": 20663,
+      "output": 20663,
+      "rejected": {
+        "no_product_mention": 0
+      },
+      "deduplicated": 0
+    },
+    "inventory": {
+      "input": 1200,
+      "output": 1195,
+      "rejected": {
+        "invalid_on_hand": 5
+      },
+      "deduplicated": 0
+    },
+    "suppliers": {
+      "input": 25,
+      "output": 25,
+      "rejected": {},
+      "deduplicated": 0,
+      "imputed_lead_time": 2
+    },
+    "campaigns": {
+      "input": 31,
+      "output": 31,
+      "rejected": {},
+      "deduplicated": 0
+    }
+  },
+  "sentiment_validation": {
+    "reviews_with_rating": 30682,
+    "exact_label_agreement": 0.811,
+    "polarity_agreement_excl_3_star": 0.995,
+    "corr_sentiment_vs_rating": 0.882
+  },
+  "gdpr_suppressed_customers": 10,
+  "timings_s": {
+    "customers": 0.05,
+    "products": 0.01,
+    "orders": 1.24,
+    "clickstream": 8.21,
+    "reviews": 1.33,
+    "social_posts": 1.01,
+    "inventory": 0.02,
+    "suppliers": 0.01,
+    "campaigns": 0.01
+  },
+  "seconds": 11.96
+}

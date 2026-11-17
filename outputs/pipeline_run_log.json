@@ -1,0 +1,455 @@
+{
+  "scale": "small",
+  "timings": {
+    "bronze": 1.4,
+    "silver": 16.1,
+    "gold": 1.2,
+    "ml_demand_forecast": 4.6,
+    "inventory_planning": 0.1,
+    "ml_recommendations": 7.8,
+    "ml_churn": 1.8,
+    "stream_produce": 1.8,
+    "streaming": 2.3,
+    "bronze_stream_archive": 0.4,
+    "reconciliation": 0.5,
+    "benchmark": 124.5,
+    "gdpr": 0.1,
+    "report": 1.1
+  },
+  "bronze": {
+    "tables": {
+      "customers": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "products": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "orders": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "campaigns": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "inventory_snapshot": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "suppliers": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "reviews": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "social_posts": {
+        "files": 1,
+        "rows_ingested": 0,
+        "files_skipped": 1
+      },
+      "clickstream": {
+        "files": 120,
+        "rows_ingested": 0,
+        "files_skipped": 120
+      }
+    },
+    "raw_mb": 168.3,
+    "bronze_mb": 17.4,
+    "compression_ratio": 9.7,
+    "seconds": 1.43
+  },
+  "silver": {
+    "tables": {
+      "customers": {
+        "input": 5050,
+        "output": 4991,
+        "rejected": {
+          "unparseable_signup_date": 0,
+          "gdpr_erasure": 9
+        },
+        "deduplicated": 50
+      },
+      "products": {
+        "input": 400,
+        "output": 400,
+        "rejected": {
+          "unknown_category": 0,
+          "invalid_price": 0
+        },
+        "deduplicated": 0
+      },
+      "orders": {
+        "input": 323259,
+        "output": 317337,
+        "rejected": {
+          "missing_customer_id": 960,
+          "unparseable_timestamp": 0,
+          "future_timestamp": 160,
+          "non_positive_quantity": 638,
+          "unknown_product": 0,
+          "price_outlier": 319,
+          "gdpr_erasure": 644
+        },
+        "deduplicated": 3201
+      },
+      "clickstream": {
+        "input": 441104,
+        "output": 434434,
+        "rejected": {
+          "malformed_json": 1304,
+          "unparseable_timestamp": 0,
+          "gdpr_erasure": 923
+        },
+        "deduplicated": 4443
+      },
+      "reviews": {
+        "input": 33699,
+        "output": 33292,
+        "rejected": {
+          "empty_text": 338,
+          "gdpr_erasure": 69
+        },
+        "deduplicated": 0
+      },
+      "social_posts": {
+        "input": 20663,
+        "output": 20663,
+        "rejected": {
+          "no_product_mention": 0
+        },
+        "deduplicated": 0
+      },
+      "inventory": {
+        "input": 1200,
+        "output": 1195,
+        "rejected": {
+          "invalid_on_hand": 5
+        },
+        "deduplicated": 0
+      },
+      "suppliers": {
+        "input": 25,
+        "output": 25,
+        "rejected": {},
+        "deduplicated": 0,
+        "imputed_lead_time": 2
+      },
+      "campaigns": {
+        "input": 31,
+        "output": 31,
+        "rejected": {},
+        "deduplicated": 0
+      }
+    },
+    "sentiment_validation": {
+      "reviews_with_rating": 30692,
+      "exact_label_agreement": 0.811,
+      "polarity_agreement_excl_3_star": 0.995,
+      "corr_sentiment_vs_rating": 0.882
+    },
+    "gdpr_suppressed_customers": 9,
+    "timings_s": {
+      "customers": 0.19,
+      "products": 0.02,
+      "orders": 1.98,
+      "clickstream": 11.28,
+      "reviews": 1.56,
+      "social_posts": 0.94,
+      "inventory": 0.03,
+      "suppliers": 0.02,
+      "campaigns": 0.02
+    },
+    "seconds": 16.15
+  },
+  "gold": {
+    "tables": {
+      "daily_sales": {
+        "rows": 7300,
+        "seconds": 0.182
+      },
+      "funnel_daily": {
+        "rows": 122,
+        "seconds": 0.234
+      },
+      "product_performance": {
+        "rows": 400,
+        "seconds": 0.116
+      },
+      "customer_360": {
+        "rows": 4991,
+        "seconds": 0.287
+      },
+      "category_sentiment_daily": {
+        "rows": 4367,
+        "seconds": 0.043
+      },
+      "campaign_performance": {
+        "rows": 31,
+        "seconds": 0.045
+      }
+    },
+    "seconds": 1.19
+  },
+  "ml_demand_forecast": {
+    "level": "sub-category x week",
+    "series": 10,
+    "train_weeks": 87,
+    "holdout_weeks": 12,
+    "model_wape": 0.0648,
+    "model_accuracy": 0.9352,
+    "baseline_naive_accuracy": 0.9117,
+    "baseline_seasonal_naive_accuracy": 0.8001,
+    "baseline_moving_avg4_accuracy": 0.9044,
+    "baseline_ewma_accuracy": 0.9105,
+    "target_accuracy": 0.9,
+    "features_used": [
+      "lag1",
+      "lag2",
+      "lag3",
+      "lag4",
+      "roll4",
+      "roll12",
+      "lag52",
+      "lvl_ewm",
+      "woy_sin",
+      "woy_cos",
+      "month",
+      "bf_days",
+      "xmas_days",
+      "boxing_days",
+      "eofy_days",
+      "campaign_days",
+      "other_campaign_days",
+      "lag1_campaign_days",
+      "t",
+      "sub_code"
+    ],
+    "meets_target": true,
+    "accuracy_by_subcategory": {
+      "Accessories": 0.9321,
+      "Audio": 0.9347,
+      "Decor": 0.9314,
+      "Footwear": 0.9423,
+      "Furniture": 0.8461,
+      "Kitchen": 0.9287,
+      "Laptops": 0.917,
+      "Menswear": 0.9512,
+      "Phones": 0.9197,
+      "Womenswear": 0.9491
+    },
+    "future_weeks": [
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+    ]
+  },
+  "inventory_planning": {
+    "products": 400,
+    "reorder_now": 47,
+    "stock_outs": 0
+  },
+  "ml_recommendations": {
+    "train_interactions": 157865,
+    "test_users": 2688,
+    "cutoff": "2026-09-02",
+    "als": {
+      "precision@10": 0.0746,
+      "recall@10": 0.1985,
+      "hit_rate@10": 0.5052,
+      "ndcg@10": 0.15
+    },
+    "popularity_baseline": {
+      "precision@10": 0.0245,
+      "recall@10": 0.0621,
+      "hit_rate@10": 0.2128,
+      "ndcg@10": 0.0435
+    },
+    "precision_lift_vs_baseline": 2.0449,
+    "target_lift": 0.25,
+    "meets_target": true,
+    "customers_scored": 4885,
+    "model_version": "als-202611171410"
+  },
+  "ml_churn": {
+    "as_of_cutoff": "2026-08-02",
+    "horizon_days": 90,
+    "customers_labelled": 3852,
+    "churn_rate": 0.2334,
+    "roc_auc": 0.9489,
+    "pr_auc": 0.915,
+    "baseline_recency_only_roc_auc": 0.9245,
+    "top_decile_precision": 0.9896,
+    "top_decile_lift": 4.24,
+    "top_features": [
+      {
+        "feature": "sessions_30d",
+        "auc_drop": 0.1264
+      },
+      {
+        "feature": "recency_days",
+        "auc_drop": 0.0645
+      },
+      {
+        "feature": "product_views_30d",
+        "auc_drop": 0.0313
+      },
+      {
+        "feature": "orders_365d",
+        "auc_drop": 0.0038
+      },
+      {
+        "feature": "avg_discount",
+        "auc_drop": 0.0013
+      },
+      {
+        "feature": "orders_90d",
+        "auc_drop": 0.001
+      },
+      {
+        "feature": "orders_prev_90d",
+        "auc_drop": 0.0009
+      },
+      {
+        "feature": "review_count",
+        "auc_drop": 0.0005
+      }
+    ],
+    "scored_customers": 3958,
+    "high_risk_customers": 735
+  },
+  "stream_produce": {
+    "events_produced": 40002,
+    "seconds": 1.83,
+    "events_per_sec": 21867,
+    "viral_product": "P00203",
+    "faulty_product": "P00266"
+  },
+  "streaming": {
+    "received": 40002,
+    "duplicates": 359,
+    "processed": 39497,
+    "late_dropped": 146,
+    "backordered_units": 908,
+    "micro_batches": 31,
+    "processing_events_per_sec": 38617,
+    "produce_to_process_latency_p50_s": 2.0,
+    "produce_to_process_latency_p95_s": 2.18,
+    "design_insight_latency_s": 181,
+    "latency_budget_s": 300,
+    "alerts_by_type": {
+      "CART_ABANDONMENT_SPIKE": 3,
+      "LOW_STOCK": 41,
+      "NEGATIVE_REVIEW_BURST": 4,
+      "TRENDING_PRODUCT": 2
+    },
+    "within_budget": true
+  },
+  "bronze_stream_archive": {
+    "clickstream": 37458,
+    "orders": 2180,
+    "inventory": 39,
+    "reviews": 325
+  },
+  "reconciliation": {
+    "raw_records": 40002,
+    "unique_events": 39643,
+    "duplicates_removed": 359,
+    "batch_events": 39643,
+    "stream_events": 39497,
+    "events_only_in_batch": 146,
+    "batch_revenue": 561531.83,
+    "stream_revenue": 558160.95,
+    "windows_with_corrections": 31,
+    "windows": 40,
+    "stream_revenue_completeness": 0.994
+  },
+  "benchmark": {
+    "events": 1000003,
+    "partitions": 8,
+    "cpu_count": 12,
+    "runs": [
+      {
+        "strategy": "naive row-at-a-time",
+        "workers": 1,
+        "seconds": 2.626,
+        "events_per_sec": 380757
+      },
+      {
+        "strategy": "vectorised micro-batch",
+        "workers": 1,
+        "seconds": 3.884,
+        "events_per_sec": 257485
+      },
+      {
+        "strategy": "parallel map-reduce",
+        "workers": 1,
+        "seconds": 4.2,
+        "events_per_sec": 238109,
+        "matches_single_process": true
+      },
+      {
+        "strategy": "parallel map-reduce",
+        "workers": 2,
+        "seconds": 3.734,
+        "events_per_sec": 267844,
+        "matches_single_process": true
+      },
+      {
+        "strategy": "parallel map-reduce",
+        "workers": 4,
+        "seconds": 4.003,
+        "events_per_sec": 249801,
+        "matches_single_process": true
+      },
+      {
+        "strategy": "parallel map-reduce",
+        "workers": 8,
+        "seconds": 4.468,
+        "events_per_sec": 223834,
+        "matches_single_process": true
+      },
+      {
+        "strategy": "native columnar engine (DuckDB, all cores)",
+        "workers": 12,
+        "seconds": 0.633,
+        "events_per_sec": 1580334,
+        "matches_single_process": true
+      }
+    ],
+    "best_events_per_sec": 1580334,
+    "target_tps": 10000,
+    "headroom_vs_target": 158.03,
+    "note": "Single-machine numbers. Production scales horizontally by adding partitions and consumers; each event at 10k TPS is ~1.7 KB (Assessment 2), i.e. ~17 MB/s ingest."
+  },
+  "gdpr": {
+    "customer_key": "009d1b9eed0c01d7",
+    "removed_from_serving": true,
+    "verified": "recommendations + profile deleted; key on suppression list for next Silver rebuild"
+  },
+  "total_seconds": 162.7,
+  "report": {
+    "charts": [
+      "01_weekly_revenue.png",
+      "02_demand_forecast.png",
+      "03_recommender_eval.png",
+      "04_churn.png",
+      "05_streaming.png",
+      "06_benchmark.png",
+      "07_data_quality.png"
+    ]
+  }
+}

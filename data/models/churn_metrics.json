@@ -1,0 +1,47 @@
+{
+  "as_of_cutoff": "2026-08-02",
+  "horizon_days": 90,
+  "customers_labelled": 3852,
+  "churn_rate": 0.2334,
+  "roc_auc": 0.9489,
+  "pr_auc": 0.915,
+  "baseline_recency_only_roc_auc": 0.9245,
+  "top_decile_precision": 0.9896,
+  "top_decile_lift": 4.24,
+  "top_features": [
+    {
+      "feature": "sessions_30d",
+      "auc_drop": 0.1264
+    },
+    {
+      "feature": "recency_days",
+      "auc_drop": 0.0645
+    },
+    {
+      "feature": "product_views_30d",
+      "auc_drop": 0.0313
+    },
+    {
+      "feature": "orders_365d",
+      "auc_drop": 0.0038
+    },
+    {
+      "feature": "avg_discount",
+      "auc_drop": 0.0013
+    },
+    {
+      "feature": "orders_90d",
+      "auc_drop": 0.001
+    },
+    {
+      "feature": "orders_prev_90d",
+      "auc_drop": 0.0009
+    },
+    {
+      "feature": "review_count",
+      "auc_drop": 0.0005
+    }
+  ],
+  "scored_customers": 3958,
+  "high_risk_customers": 735
+}

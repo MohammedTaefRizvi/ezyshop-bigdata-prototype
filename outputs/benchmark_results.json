@@ -1,0 +1,58 @@
+{
+  "events": 1000003,
+  "partitions": 8,
+  "cpu_count": 12,
+  "runs": [
+    {
+      "strategy": "naive row-at-a-time",
+      "workers": 1,
+      "seconds": 2.626,
+      "events_per_sec": 380757
+    },
+    {
+      "strategy": "vectorised micro-batch",
+      "workers": 1,
+      "seconds": 3.884,
+      "events_per_sec": 257485
+    },
+    {
+      "strategy": "parallel map-reduce",
+      "workers": 1,
+      "seconds": 4.2,
+      "events_per_sec": 238109,
+      "matches_single_process": true
+    },
+    {
+      "strategy": "parallel map-reduce",
+      "workers": 2,
+      "seconds": 3.734,
+      "events_per_sec": 267844,
+      "matches_single_process": true
+    },
+    {
+      "strategy": "parallel map-reduce",
+      "workers": 4,
+      "seconds": 4.003,
+      "events_per_sec": 249801,
+      "matches_single_process": true
+    },
+    {
+      "strategy": "parallel map-reduce",
+      "workers": 8,
+      "seconds": 4.468,
+      "events_per_sec": 223834,
+      "matches_single_process": true
+    },
+    {
+      "strategy": "native columnar engine (DuckDB, all cores)",
+      "workers": 12,
+      "seconds": 0.633,
+      "events_per_sec": 1580334,
+      "matches_single_process": true
+    }
+  ],
+  "best_events_per_sec": 1580334,
+  "target_tps": 10000,
+  "headroom_vs_target": 158.03,
+  "note": "Single-machine numbers. Production scales horizontally by adding partitions and consumers; each event at 10k TPS is ~1.7 KB (Assessment 2), i.e. ~17 MB/s ingest."
+}

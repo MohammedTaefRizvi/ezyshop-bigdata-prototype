@@ -1,0 +1,7 @@
+# generated data (re-create with: python run_all.py)
+data/
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/

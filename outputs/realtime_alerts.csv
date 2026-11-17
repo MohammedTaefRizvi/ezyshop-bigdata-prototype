@@ -1,0 +1,51 @@
+alert_id,alert_type,severity,window_start,entity,message,created_at
+LOW_STOCK:2026-11-18 00:38:00:P00289,LOW_STOCK,high,2026-11-18 00:38:00,P00289,Live stock 14 at/below reorder point 15 - raise purchase order,2026-11-17T14:10:55.936609+00:00
+LOW_STOCK:2026-11-18 00:39:00:P00054,LOW_STOCK,high,2026-11-18 00:39:00,P00054,Live stock 8 at/below reorder point 9 - raise purchase order,2026-11-17T14:10:55.976618+00:00
+LOW_STOCK:2026-11-18 00:40:00:P00136,LOW_STOCK,high,2026-11-18 00:40:00,P00136,Live stock 14 at/below reorder point 14 - raise purchase order,2026-11-17T14:10:55.976659+00:00
+LOW_STOCK:2026-11-18 00:40:00:P00151,LOW_STOCK,high,2026-11-18 00:40:00,P00151,Live stock 6 at/below reorder point 6 - raise purchase order,2026-11-17T14:10:55.976688+00:00
+LOW_STOCK:2026-11-18 00:40:00:P00207,LOW_STOCK,high,2026-11-18 00:40:00,P00207,Live stock 12 at/below reorder point 12 - raise purchase order,2026-11-17T14:10:55.976800+00:00
+LOW_STOCK:2026-11-18 00:41:00:P00087,LOW_STOCK,high,2026-11-18 00:41:00,P00087,Live stock 22 at/below reorder point 23 - raise purchase order,2026-11-17T14:10:56.020219+00:00
+LOW_STOCK:2026-11-18 00:41:00:P00358,LOW_STOCK,high,2026-11-18 00:41:00,P00358,Live stock 12 at/below reorder point 12 - raise purchase order,2026-11-17T14:10:56.020269+00:00
+LOW_STOCK:2026-11-18 00:41:00:P00336,LOW_STOCK,high,2026-11-18 00:41:00,P00336,Live stock 8 at/below reorder point 9 - raise purchase order,2026-11-17T14:10:56.020331+00:00
+LOW_STOCK:2026-11-18 00:41:00:P00220,LOW_STOCK,high,2026-11-18 00:41:00,P00220,Live stock 13 at/below reorder point 13 - raise purchase order,2026-11-17T14:10:56.020394+00:00
+LOW_STOCK:2026-11-18 00:42:00:P00086,LOW_STOCK,high,2026-11-18 00:42:00,P00086,Live stock 9 at/below reorder point 10 - raise purchase order,2026-11-17T14:10:56.068940+00:00
+LOW_STOCK:2026-11-18 00:42:00:P00070,LOW_STOCK,high,2026-11-18 00:42:00,P00070,Live stock 8 at/below reorder point 8 - raise purchase order,2026-11-17T14:10:56.068973+00:00
+LOW_STOCK:2026-11-18 00:42:00:P00270,LOW_STOCK,high,2026-11-18 00:42:00,P00270,Live stock 13 at/below reorder point 13 - raise purchase order,2026-11-17T14:10:56.068990+00:00
+LOW_STOCK:2026-11-18 00:42:00:P00190,LOW_STOCK,high,2026-11-18 00:42:00,P00190,Live stock 8 at/below reorder point 8 - raise purchase order,2026-11-17T14:10:56.069014+00:00
+LOW_STOCK:2026-11-18 00:42:00:P00142,LOW_STOCK,high,2026-11-18 00:42:00,P00142,Live stock 3 at/below reorder point 3 - raise purchase order,2026-11-17T14:10:56.069035+00:00
+LOW_STOCK:2026-11-18 00:43:00:P00156,LOW_STOCK,high,2026-11-18 00:43:00,P00156,Live stock 11 at/below reorder point 11 - raise purchase order,2026-11-17T14:10:56.112796+00:00
+LOW_STOCK:2026-11-18 00:44:00:P00300,LOW_STOCK,high,2026-11-18 00:44:00,P00300,Live stock 57 at/below reorder point 57 - raise purchase order,2026-11-17T14:10:56.161221+00:00
+LOW_STOCK:2026-11-18 00:44:00:P00177,LOW_STOCK,high,2026-11-18 00:44:00,P00177,Live stock 3 at/below reorder point 3 - raise purchase order,2026-11-17T14:10:56.161297+00:00
+LOW_STOCK:2026-11-18 00:44:00:P00049,LOW_STOCK,high,2026-11-18 00:44:00,P00049,Live stock 15 at/below reorder point 15 - raise purchase order,2026-11-17T14:10:56.210472+00:00
+LOW_STOCK:2026-11-18 00:45:00:P00022,LOW_STOCK,high,2026-11-18 00:45:00,P00022,Live stock 20 at/below reorder point 21 - raise purchase order,2026-11-17T14:10:56.210600+00:00
+LOW_STOCK:2026-11-18 00:45:00:P00393,LOW_STOCK,high,2026-11-18 00:45:00,P00393,Live stock 1 at/below reorder point 2 - raise purchase order,2026-11-17T14:10:56.210639+00:00
+LOW_STOCK:2026-11-18 00:45:00:P00017,LOW_STOCK,high,2026-11-18 00:45:00,P00017,Live stock 39 at/below reorder point 40 - raise purchase order,2026-11-17T14:10:56.210665+00:00
+LOW_STOCK:2026-11-18 00:45:00:P00168,LOW_STOCK,high,2026-11-18 00:45:00,P00168,Live stock 10 at/below reorder point 11 - raise purchase order,2026-11-17T14:10:56.210705+00:00
+LOW_STOCK:2026-11-18 00:45:00:P00144,LOW_STOCK,high,2026-11-18 00:45:00,P00144,Live stock 21 at/below reorder point 21 - raise purchase order,2026-11-17T14:10:56.210741+00:00
+LOW_STOCK:2026-11-18 00:46:00:P00310,LOW_STOCK,high,2026-11-18 00:46:00,P00310,Live stock 14 at/below reorder point 14 - raise purchase order,2026-11-17T14:10:56.262319+00:00
+LOW_STOCK:2026-11-18 00:46:00:P00041,LOW_STOCK,high,2026-11-18 00:46:00,P00041,Live stock 13 at/below reorder point 13 - raise purchase order,2026-11-17T14:10:56.262418+00:00
+LOW_STOCK:2026-11-18 00:47:00:P00387,LOW_STOCK,high,2026-11-18 00:47:00,P00387,Live stock 14 at/below reorder point 14 - raise purchase order,2026-11-17T14:10:56.323354+00:00
+LOW_STOCK:2026-11-18 00:47:00:P00203,LOW_STOCK,high,2026-11-18 00:47:00,P00203,Live stock 18 at/below reorder point 18 - raise purchase order,2026-11-17T14:10:56.323381+00:00
+TRENDING_PRODUCT:2026-11-18 00:47:00:P00203,TRENDING_PRODUCT,opportunity,2026-11-18 00:47:00,P00203,"13% of product views (92 in 1 min) vs usual 0.2% (26x) - push promotion, check stock",2026-11-17T14:10:56.509619+00:00
+LOW_STOCK:2026-11-18 00:48:00:P00157,LOW_STOCK,high,2026-11-18 00:48:00,P00157,Live stock 6 at/below reorder point 6 - raise purchase order,2026-11-17T14:10:56.385338+00:00
+TRENDING_PRODUCT:2026-11-18 00:48:00:P00203,TRENDING_PRODUCT,opportunity,2026-11-18 00:48:00,P00203,"14% of product views (109 in 1 min) vs usual 2.7% (5x) - push promotion, check stock",2026-11-17T14:10:56.575301+00:00
+LOW_STOCK:2026-11-18 00:50:00:P00342,LOW_STOCK,high,2026-11-18 00:50:00,P00342,Live stock 121 at/below reorder point 122 - raise purchase order,2026-11-17T14:10:56.507712+00:00
+LOW_STOCK:2026-11-18 00:52:00:P00182,LOW_STOCK,high,2026-11-18 00:52:00,P00182,Live stock 6 at/below reorder point 7 - raise purchase order,2026-11-17T14:10:56.633151+00:00
+NEGATIVE_REVIEW_BURST:2026-11-18 00:52:00:P00266,NEGATIVE_REVIEW_BURST,high,2026-11-18 00:52:00,P00266,"9 negative reviews in 1 min - check product batch, pause ads",2026-11-17T14:10:56.750282+00:00
+LOW_STOCK:2026-11-18 00:53:00:P00263,LOW_STOCK,high,2026-11-18 00:53:00,P00263,Live stock 12 at/below reorder point 13 - raise purchase order,2026-11-17T14:10:56.692716+00:00
+LOW_STOCK:2026-11-18 00:53:00:P00320,LOW_STOCK,high,2026-11-18 00:53:00,P00320,Live stock 15 at/below reorder point 15 - raise purchase order,2026-11-17T14:10:56.692773+00:00
+NEGATIVE_REVIEW_BURST:2026-11-18 00:53:00:P00266,NEGATIVE_REVIEW_BURST,high,2026-11-18 00:53:00,P00266,"14 negative reviews in 1 min - check product batch, pause ads",2026-11-17T14:10:56.881008+00:00
+LOW_STOCK:2026-11-18 00:54:00:P00279,LOW_STOCK,high,2026-11-18 00:54:00,P00279,Live stock 2 at/below reorder point 2 - raise purchase order,2026-11-17T14:10:56.747842+00:00
+NEGATIVE_REVIEW_BURST:2026-11-18 00:54:00:P00266,NEGATIVE_REVIEW_BURST,high,2026-11-18 00:54:00,P00266,"14 negative reviews in 1 min - check product batch, pause ads",2026-11-17T14:10:56.881278+00:00
+NEGATIVE_REVIEW_BURST:2026-11-18 00:55:00:P00266,NEGATIVE_REVIEW_BURST,high,2026-11-18 00:55:00,P00266,"9 negative reviews in 1 min - check product batch, pause ads",2026-11-17T14:10:56.966464+00:00
+LOW_STOCK:2026-11-18 00:56:00:P00232,LOW_STOCK,high,2026-11-18 00:56:00,P00232,Live stock 3 at/below reorder point 3 - raise purchase order,2026-11-17T14:10:56.878907+00:00
+LOW_STOCK:2026-11-18 00:57:00:P00018,LOW_STOCK,high,2026-11-18 00:57:00,P00018,Live stock 7 at/below reorder point 7 - raise purchase order,2026-11-17T14:10:56.964205+00:00
+LOW_STOCK:2026-11-18 00:58:00:P00282,LOW_STOCK,high,2026-11-18 00:58:00,P00282,Live stock 6 at/below reorder point 6 - raise purchase order,2026-11-17T14:10:56.964380+00:00
+LOW_STOCK:2026-11-18 00:58:00:P00346,LOW_STOCK,high,2026-11-18 00:58:00,P00346,Live stock 5 at/below reorder point 6 - raise purchase order,2026-11-17T14:10:57.024570+00:00
+LOW_STOCK:2026-11-18 00:59:00:P00326,LOW_STOCK,high,2026-11-18 00:59:00,P00326,Live stock 5 at/below reorder point 5 - raise purchase order,2026-11-17T14:10:57.088103+00:00
+CART_ABANDONMENT_SPIKE:2026-11-18 01:00:00:checkout,CART_ABANDONMENT_SPIKE,high,2026-11-18 01:00:00,checkout,Abandonment 87% across 125 carts - check payment service,2026-11-17T14:10:57.310625+00:00
+CART_ABANDONMENT_SPIKE:2026-11-18 01:01:00:checkout,CART_ABANDONMENT_SPIKE,high,2026-11-18 01:01:00,checkout,Abandonment 88% across 149 carts - check payment service,2026-11-17T14:10:57.402513+00:00
+CART_ABANDONMENT_SPIKE:2026-11-18 01:02:00:checkout,CART_ABANDONMENT_SPIKE,high,2026-11-18 01:02:00,checkout,Abandonment 84% across 150 carts - check payment service,2026-11-17T14:10:57.511514+00:00
+LOW_STOCK:2026-11-18 01:03:00:P00039,LOW_STOCK,high,2026-11-18 01:03:00,P00039,Live stock 26 at/below reorder point 26 - raise purchase order,2026-11-17T14:10:57.398372+00:00
+LOW_STOCK:2026-11-18 01:04:00:P00206,LOW_STOCK,high,2026-11-18 01:04:00,P00206,Live stock 26 at/below reorder point 27 - raise purchase order,2026-11-17T14:10:57.507361+00:00
+LOW_STOCK:2026-11-18 01:05:00:P00239,LOW_STOCK,high,2026-11-18 01:05:00,P00239,Live stock 9 at/below reorder point 9 - raise purchase order,2026-11-17T14:10:57.595763+00:00

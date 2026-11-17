@@ -1,0 +1,22 @@
+{
+  "train_interactions": 157865,
+  "test_users": 2688,
+  "cutoff": "2026-09-02",
+  "als": {
+    "precision@10": 0.0746,
+    "recall@10": 0.1985,
+    "hit_rate@10": 0.5052,
+    "ndcg@10": 0.15
+  },
+  "popularity_baseline": {
+    "precision@10": 0.0245,
+    "recall@10": 0.0621,
+    "hit_rate@10": 0.2128,
+    "ndcg@10": 0.0435
+  },
+  "precision_lift_vs_baseline": 2.0449,
+  "target_lift": 0.25,
+  "meets_target": true,
+  "customers_scored": 4885,
+  "model_version": "als-202611171410"
+}

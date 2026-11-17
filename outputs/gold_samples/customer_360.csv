@@ -1,0 +1,501 @@
+customer_key,segment,city,age_band,marketing_opt_in,tenure_days,recency_days,frequency,monetary,avg_order_value,favourite_category,avg_discount,review_count,avg_review_sentiment,sessions_30d,cart_sessions_30d,r_score,f_score,m_score
+0788be3a91fbc574,Generalist,Sydney,45-54,True,596,,0,0.0,,,,0,,0,0,1,1,1
+6dd1fd647e8cc8f4,Home Maker,Newcastle,18-24,True,1227,,0,0.0,,,,0,,0,0,1,1,1
+2cb51d167863617b,Home Maker,Adelaide,35-44,True,40,,0,0.0,,,,0,,0,0,1,1,1
+2444e9a4b7c2322c,Fashionista,Melbourne,45-54,False,1033,,0,0.0,,,,0,,0,0,1,1,1
+f673fb07c1a98ffa,Bargain Hunter,Sydney,45-54,True,31,,0,0.0,,,,0,,0,0,1,1,1
+5594d5a8fd7a66a7,Fashionista,Sydney,18-24,True,1120,,0,0.0,,,,0,,0,0,1,1,1
+85dce01162c9835d,Generalist,Melbourne,45-54,True,1521,,0,0.0,,,,0,,0,0,1,1,1
+33444f110cffb96f,Generalist,Hobart,45-54,True,264,,0,0.0,,,,0,,0,0,1,1,1
+6bea8c4a4dede89b,Tech Enthusiast,Melbourne,45-54,True,308,,0,0.0,,,,0,,0,0,1,1,1
+b6f0ed0679e95a89,Bargain Hunter,Hobart,35-44,False,202,,0,0.0,,,,0,,0,0,1,1,1
+c39ce0ec762c377d,Tech Enthusiast,Gold Coast,45-54,True,1412,,0,0.0,,,,0,,0,0,1,1,1
+990d4c3df79442d9,Home Maker,Canberra,45-54,False,190,,0,0.0,,,,0,,0,0,1,1,1
+e2bab58d16585789,Generalist,Brisbane,55-64,True,321,,0,0.0,,,,0,,0,0,1,1,1
+97a250b6eef4eac4,Fashionista,Gold Coast,45-54,True,94,,0,0.0,,,,0,,0,0,1,1,1
+01405a46a639d4de,Generalist,Melbourne,35-44,True,767,,0,0.0,,,,0,,0,0,1,1,1
+43f0164b8c75813c,Tech Enthusiast,Gold Coast,18-24,True,484,,0,0.0,,,,0,,0,0,1,1,1
+b627927c6848e1fc,Tech Enthusiast,Sydney,55-64,True,184,,0,0.0,,,,0,,0,0,1,1,1
+a2d6cb617272f291,Tech Enthusiast,Melbourne,35-44,False,775,,0,0.0,,,,0,,0,0,1,1,1
+feaa51f0779710f2,Tech Enthusiast,Sydney,55-64,False,1424,,0,0.0,,,,0,,0,0,1,1,1
+e8fa1bc58799049d,Generalist,Brisbane,45-54,True,981,,0,0.0,,,,0,,0,0,1,1,1
+6fd8c83ead309732,Home Maker,Sydney,35-44,True,39,,0,0.0,,,,0,,0,0,1,1,1
+4d90f58d16bc139f,Tech Enthusiast,Sydney,25-34,False,292,,0,0.0,,,,0,,0,0,1,1,1
+e39418e5fe829c05,Tech Enthusiast,Perth,25-34,False,455,,0,0.0,,,,0,,0,0,1,1,1
+9df88691b66b717d,Tech Enthusiast,Melbourne,35-44,True,326,,0,0.0,,,,0,,0,0,1,1,1
+967743d2f23d22d9,Fashionista,Melbourne,45-54,False,1064,,0,0.0,,,,0,,0,0,1,1,1
+b96fe6092032e441,Generalist,Melbourne,25-34,True,832,,0,0.0,,,,0,,0,0,1,1,1
+bde50fe5410287d0,Tech Enthusiast,Melbourne,35-44,True,417,,0,0.0,,,,0,,0,0,1,1,1
+26d85b8087369bea,Bargain Hunter,Darwin,55-64,False,42,,0,0.0,,,,0,,3,1,1,1,1
+b220858a9108f001,Bargain Hunter,Sydney,45-54,True,208,,0,0.0,,,,0,,0,0,1,1,1
+26f0c1272ee11732,Generalist,Sydney,45-54,True,1614,,0,0.0,,,,0,,0,0,1,1,1
+8796949301be2d33,Home Maker,Hobart,25-34,True,1595,,0,0.0,,,,0,,0,0,1,1,1
+f843803d9e43d8f9,Fashionista,Sydney,18-24,True,1568,,0,0.0,,,,0,,0,0,1,1,1
+757d3855e2ccec01,Fashionista,Melbourne,45-54,True,687,,0,0.0,,,,0,,0,0,1,1,1
+994ae6b2e8ec39e2,Fashionista,Melbourne,25-34,True,867,,0,0.0,,,,0,,0,0,1,1,1
+f7f09c6d595a4e47,Generalist,Adelaide,35-44,True,285,,0,0.0,,,,0,,0,0,1,1,1
+67bc3eb9b4c92a78,Fashionista,Gold Coast,18-24,True,138,,0,0.0,,,,0,,1,1,1,1,1
+fa472c57a4d50976,Bargain Hunter,Darwin,45-54,False,37,,0,0.0,,,,0,,4,3,1,1,1
+bcd2427ed5c8a554,Home Maker,Brisbane,35-44,False,179,,0,0.0,,,,0,,0,0,1,1,1
+d6870bbea32ef7f6,Fashionista,Sydney,45-54,True,982,,0,0.0,,,,0,,0,0,1,1,1
+527090cf6604e335,Tech Enthusiast,Melbourne,35-44,False,95,,0,0.0,,,,0,,2,0,1,1,1
+6324432ce018e01b,Tech Enthusiast,Brisbane,18-24,True,822,,0,0.0,,,,0,,0,0,1,1,1
+17ed3f862dd02b3c,Home Maker,Sydney,25-34,False,1378,,0,0.0,,,,0,,0,0,1,1,1
+0797f762c89fb92e,Tech Enthusiast,Sydney,35-44,True,1539,,0,0.0,,,,0,,0,0,1,1,1
+e0f91fdbacb9720e,Generalist,Sydney,25-34,True,74,,0,0.0,,,,0,,1,1,1,1,1
+d2c4e3bc1f5d63f4,Bargain Hunter,Adelaide,45-54,True,237,,0,0.0,,,,0,,0,0,1,1,1
+18f2969e61bc2790,Generalist,Hobart,35-44,True,324,,0,0.0,,,,0,,0,0,1,1,1
+fb8cf71ffb247661,Generalist,Newcastle,35-44,True,445,,0,0.0,,,,0,,0,0,1,1,1
+0e8ce61b54cd5bf6,Tech Enthusiast,Gold Coast,25-34,True,1508,,0,0.0,,,,0,,0,0,1,1,1
+4a61efb7b5ed77ca,Fashionista,Melbourne,45-54,True,1332,,0,0.0,,,,0,,0,0,1,1,1
+533394d863914dbe,Fashionista,Sydney,35-44,True,770,,0,0.0,,,,0,,0,0,1,1,1
+b5d414c4fabec4e9,Fashionista,Perth,35-44,False,321,,0,0.0,,,,0,,0,0,1,1,1
+617966f2dd6a05c2,Tech Enthusiast,Canberra,25-34,False,1552,,0,0.0,,,,0,,0,0,1,1,1
+72e9e814657e569a,Bargain Hunter,Melbourne,45-54,False,1311,,0,0.0,,,,0,,0,0,1,1,1
+557fb48a0a4ea1a1,Fashionista,Darwin,35-44,True,1124,,0,0.0,,,,0,,0,0,1,1,1
+3138c228922c3ace,Generalist,Brisbane,25-34,False,1687,,0,0.0,,,,0,,0,0,1,1,1
+a447eefab1b68ad6,Home Maker,Hobart,25-34,True,46,,0,0.0,,,,0,,5,1,1,1,1
+8039a3b76094f4de,Fashionista,Perth,25-34,True,158,,0,0.0,,,,0,,0,0,1,1,1
+2030e62d2d83f06c,Home Maker,Sydney,35-44,False,32,,0,0.0,,,,0,,5,2,1,1,1
+4d4d17a1fda177d2,Fashionista,Melbourne,35-44,True,1655,,0,0.0,,,,0,,0,0,1,1,1
+33b5447e0072977b,Bargain Hunter,Melbourne,35-44,True,1769,,0,0.0,,,,0,,0,0,1,1,1
+e4167c74b2ac71a6,Fashionista,Newcastle,25-34,False,116,,0,0.0,,,,0,,0,0,1,1,1
+8cd64cdf783ceb96,Home Maker,Gold Coast,45-54,True,78,,0,0.0,,,,0,,2,1,1,1,1
+985ab2df0faf25d5,Bargain Hunter,Gold Coast,35-44,True,589,,0,0.0,,,,0,,0,0,1,1,1
+f61f9cb24be893d1,Home Maker,Canberra,18-24,True,31,,0,0.0,,,,0,,0,0,1,1,1
+35f792f9e204ec3a,Home Maker,Melbourne,45-54,False,56,,0,0.0,,,,0,,0,0,1,1,1
+bf9f482db1890e93,Fashionista,Sydney,25-34,True,40,,0,0.0,,,,0,,1,0,1,1,1
+8c32c793bd900958,Home Maker,Brisbane,45-54,True,856,,0,0.0,,,,0,,0,0,1,1,1
+1a2b2be844462941,Generalist,Gold Coast,18-24,False,1326,,0,0.0,,,,0,,0,0,1,1,1
+f44a8f6fc80156ec,Fashionista,Sydney,25-34,True,1274,,0,0.0,,,,0,,0,0,1,1,1
+995e91a03ebc1367,Bargain Hunter,Sydney,55-64,True,1471,,0,0.0,,,,0,,0,0,1,1,1
+bbafbd97bd0b1515,Home Maker,Sydney,25-34,True,259,,0,0.0,,,,0,,0,0,1,1,1
+107dd157ec42e3f2,Tech Enthusiast,Darwin,18-24,True,32,,0,0.0,,,,0,,3,1,1,1,1
+d20d9b177c610177,Generalist,Melbourne,25-34,True,144,,0,0.0,,,,0,,2,0,1,1,1
+a93236370d97cef1,Bargain Hunter,Sydney,45-54,True,588,,0,0.0,,,,0,,0,0,1,1,1
+a43e12ce0ff981a2,Bargain Hunter,Sydney,35-44,False,1584,,0,0.0,,,,0,,0,0,1,1,1
+76f3929f37e29d9b,Generalist,Perth,35-44,False,266,,0,0.0,,,,0,,0,0,1,1,1
+6f1ebdb2ebcecca5,Fashionista,Perth,35-44,True,101,,0,0.0,,,,0,,0,0,1,1,1
+da1fff5b207af2c5,Fashionista,Sydney,45-54,True,157,,0,0.0,,,,0,,0,0,1,1,1
+e6543275af551085,Home Maker,Melbourne,45-54,False,40,,0,0.0,,,,0,,3,1,1,1,1
+ddc352ca5a97afef,Bargain Hunter,Sydney,35-44,True,1123,,0,0.0,,,,0,,0,0,1,1,1
+8598c2b7e4e694c8,Home Maker,Melbourne,25-34,True,1818,,0,0.0,,,,0,,0,0,1,1,1
+6d57cad4fc8c7d9f,Fashionista,Melbourne,45-54,True,243,,0,0.0,,,,0,,1,0,1,1,1
+63e0e5a923469020,Home Maker,Perth,35-44,False,1255,,0,0.0,,,,0,,0,0,1,1,1
+f1276e80e34526bf,Generalist,Newcastle,35-44,True,43,,0,0.0,,,,0,,1,1,1,1,1
+11cbd34ee44a4642,Generalist,Brisbane,45-54,True,1055,,0,0.0,,,,0,,0,0,1,1,1
+cd017140f620d539,Tech Enthusiast,Gold Coast,25-34,True,83,,0,0.0,,,,0,,1,0,1,1,1
+e691a84f1097c989,Home Maker,Sydney,35-44,False,1466,,0,0.0,,,,0,,0,0,1,1,1
+b25eec6d83bcea14,Fashionista,Melbourne,45-54,True,1352,,0,0.0,,,,0,,0,0,1,1,1
+9206c3f0624b1918,Generalist,Sydney,35-44,True,1193,,0,0.0,,,,0,,0,0,1,1,1
+f9eb7b896f8a2840,Generalist,Melbourne,18-24,True,1212,,0,0.0,,,,0,,0,0,1,1,1
+bdc049920398ed62,Home Maker,Melbourne,35-44,False,253,,0,0.0,,,,0,,0,0,1,1,1
+cfab2d6a1dec53a1,Fashionista,Melbourne,45-54,False,1576,,0,0.0,,,,0,,0,0,1,1,1
+d7b9c6db7bc3f581,Generalist,Darwin,35-44,False,1124,,0,0.0,,,,0,,0,0,1,1,1
+c7aa7c79e3cc8790,Fashionista,Melbourne,65+,True,1781,,0,0.0,,,,0,,0,0,1,1,1
+2be11987253fdcc6,Generalist,Sydney,45-54,False,1283,,0,0.0,,,,0,,0,0,1,1,1
+c5db09d13f59ad1c,Generalist,Brisbane,35-44,True,34,,0,0.0,,,,0,,1,0,1,1,1
+2c58088d69a31511,Home Maker,Brisbane,45-54,True,36,,0,0.0,,,,0,,0,0,1,1,1
+766d961f1b198235,Tech Enthusiast,Newcastle,35-44,True,606,,0,0.0,,,,0,,0,0,1,1,1
+798d39b2d68fba3b,Home Maker,Canberra,35-44,True,728,,0,0.0,,,,0,,0,0,1,1,1
+e96ee06622d09b42,Fashionista,Gold Coast,45-54,True,368,,0,0.0,,,,0,,0,0,1,1,1
+4c69e7ff6d91ad6f,Home Maker,Melbourne,25-34,True,695,,0,0.0,,,,0,,0,0,1,1,1
+f5219af83f58ef4e,Home Maker,Newcastle,45-54,True,1473,,0,0.0,,,,0,,0,0,1,1,1
+095321fcc53b19ff,Tech Enthusiast,Adelaide,25-34,True,588,,0,0.0,,,,0,,0,0,1,1,1
+1b1554a45925663a,Bargain Hunter,Sydney,45-54,True,1808,,0,0.0,,,,0,,0,0,1,1,1
+67e57110ab85591e,Home Maker,Brisbane,18-24,True,409,,0,0.0,,,,0,,0,0,1,1,1
+731ae1bc6c677a81,Generalist,Sydney,55-64,True,31,,0,0.0,,,,0,,0,0,1,1,1
+3150b07b2d782110,Fashionista,Canberra,25-34,False,142,,0,0.0,,,,0,,0,0,1,1,1
+33e7ae2fe101b45c,Tech Enthusiast,Melbourne,25-34,True,396,,0,0.0,,,,0,,0,0,1,1,1
+bdb40fc6265b4c3a,Bargain Hunter,Melbourne,35-44,False,84,,0,0.0,,,,0,,0,0,1,1,1
+fe1a07a6a21e190a,Fashionista,Canberra,25-34,True,344,,0,0.0,,,,0,,0,0,1,1,1
+94a42cc701b7824a,Generalist,Brisbane,35-44,True,290,,0,0.0,,,,0,,0,0,1,1,1
+e85b03fee389334e,Bargain Hunter,Newcastle,25-34,True,1196,,0,0.0,,,,0,,0,0,1,1,1
+41259bcdcfda7800,Fashionista,Perth,18-24,True,1721,,0,0.0,,,,0,,0,0,1,1,1
+ada6ce8d26ca240a,Home Maker,Adelaide,18-24,False,1578,,0,0.0,,,,0,,0,0,1,1,1
+f24b2a984174a85f,Home Maker,Newcastle,35-44,True,1425,,0,0.0,,,,0,,0,0,1,1,1
+a6a82584ef2dcd3e,Bargain Hunter,Melbourne,35-44,True,202,,0,0.0,,,,0,,0,0,1,1,1
+cdba7e3e88d19035,Fashionista,Adelaide,18-24,True,112,,0,0.0,,,,0,,0,0,1,1,1
+4d395b0f96c307b8,Generalist,Canberra,18-24,True,1307,,0,0.0,,,,0,,0,0,1,1,1
+798b89cfb5d528cc,Generalist,Melbourne,45-54,True,1118,,0,0.0,,,,0,,0,0,1,1,1
+9a3234f488ad6e9d,Fashionista,Sydney,35-44,True,809,,0,0.0,,,,0,,0,0,1,1,1
+8da53c644169c22c,Fashionista,Gold Coast,45-54,True,856,,0,0.0,,,,0,,0,0,1,1,1
+c30d5c33beacd6da,Generalist,Melbourne,45-54,True,41,,0,0.0,,,,0,,0,0,1,1,1
+658c18945154abc0,Generalist,Adelaide,45-54,True,63,,0,0.0,,,,0,,0,0,1,1,1
+9c399242f323e7cf,Bargain Hunter,Sydney,25-34,True,1703,,0,0.0,,,,0,,0,0,1,1,1
+326887b51ad6bf86,Generalist,Melbourne,35-44,True,305,,0,0.0,,,,0,,0,0,1,1,1
+1551a2a32f66a9fb,Home Maker,Sydney,25-34,True,122,,0,0.0,,,,0,,0,0,1,1,1
+bd73704fa5125869,Generalist,Newcastle,25-34,True,60,60.0,1,11.63,11.63,Home,0.226,0,,0,0,2,1,1
+9104097a84f36bbc,Generalist,Adelaide,25-34,False,53,0.0,1,16.04,16.04,Home,0.0,0,,1,1,5,1,1
+532f776d6d78410b,Home Maker,Hobart,45-54,True,1675,693.0,1,16.32,16.32,Home,0.0,0,,0,0,1,1,1
+cf526146a4f4a9cb,Bargain Hunter,Sydney,55-64,True,1565,663.0,1,16.46,16.46,Electronics,0.033,0,,0,0,1,1,1
+7826122dc92168ad,Fashionista,Sydney,18-24,False,89,4.0,1,18.08,18.08,Home,0.0,0,,1,1,4,1,1
+e180c609b1f19731,Generalist,Perth,55-64,True,1492,672.0,1,21.1,21.1,Apparel,0.0,1,-0.698,0,0,1,1,1
+27de603279975603,Generalist,Newcastle,35-44,True,1258,727.0,1,21.1,21.1,Apparel,0.0,0,,0,0,1,1,1
+cab911d6d1526b44,Generalist,Darwin,25-34,True,1025,729.0,1,24.9,24.9,Home,0.0,0,,0,0,1,1,1
+8d2539353b640abd,Bargain Hunter,Brisbane,65+,True,1383,715.0,1,26.46,26.46,Apparel,0.225,0,,0,0,1,1,1
+63b43de25d2a488c,Fashionista,Brisbane,25-34,True,181,158.0,1,32.35,32.35,Apparel,0.0,0,,0,0,2,1,1
+912c223ccd61642b,Home Maker,Melbourne,18-24,False,227,215.0,1,35.61,35.61,Apparel,0.034,0,,0,0,2,1,1
+973ccd74b938f3f4,Bargain Hunter,Newcastle,35-44,True,212,208.0,1,37.54,37.54,Electronics,0.085,0,,0,0,2,1,1
+9c598127ab83537e,Generalist,Melbourne,35-44,True,136,42.0,1,37.81,37.81,Apparel,0.0,0,,2,1,3,1,1
+1ef36daaeb49880f,Fashionista,Canberra,65+,True,651,621.0,1,37.84,37.84,Apparel,0.166,0,,0,0,1,1,1
+1e562ee4f4f14b19,Fashionista,Melbourne,25-34,False,51,6.0,1,39.04,39.04,Apparel,0.0,1,-0.9,1,1,4,1,1
+dff89c489d379c0e,Home Maker,Sydney,18-24,True,672,573.0,1,41.4,41.4,Home,0.0,0,,0,0,1,1,1
+4c2e3579d2ca1c4d,Generalist,Sydney,35-44,False,89,50.0,1,42.2,42.2,Apparel,0.0,0,,1,0,2,1,1
+d6f3b170a17b5730,Generalist,Newcastle,18-24,False,536,533.0,1,42.8,42.8,Apparel,0.0,0,,0,0,1,1,1
+cbd97001b5ed5247,Home Maker,Gold Coast,65+,False,1241,728.0,1,43.4,43.4,Home,0.094,0,,0,0,1,1,1
+3de3acbac2037bfb,Bargain Hunter,Adelaide,45-54,True,982,723.0,1,45.19,45.19,Home,0.0,0,,0,0,1,1,1
+c95473472b6c6a3a,Generalist,Brisbane,18-24,True,1604,708.0,1,45.36,45.36,Apparel,0.0,0,,0,0,1,1,1
+6fa3a9b8d8bb3d0a,Home Maker,Brisbane,18-24,False,393,393.0,1,45.36,45.36,Apparel,0.0,0,,0,0,1,1,1
+d79f4357428203ee,Bargain Hunter,Sydney,35-44,False,162,38.0,2,48.82,24.41,Apparel,0.0,0,,2,0,3,1,1
+e566e6cf7f49fa84,Home Maker,Sydney,45-54,True,166,92.0,2,49.93,24.97,Home,0.049,0,,4,1,2,1,1
+59c9384968fcd354,Bargain Hunter,Sydney,25-34,True,1426,707.0,1,51.92,51.92,Home,0.0,0,,0,0,1,1,1
+c244dbc00cda6363,Generalist,Newcastle,55-64,True,1457,709.0,1,52.31,52.31,Home,0.0,0,,0,0,1,1,1
+fa21f8a0e15743ae,Generalist,Sydney,45-54,True,35,16.0,2,54.25,27.13,Apparel,0.0,0,,4,2,3,1,1
+1efbaaff4990ba0a,Fashionista,Sydney,65+,False,525,300.0,1,56.74,56.74,Apparel,0.17,0,,0,0,2,1,1
+bd69901ef9abfd31,Tech Enthusiast,Melbourne,45-54,True,530,473.0,1,58.04,58.04,Electronics,0.0,0,,0,0,1,1,1
+d84c7d2d50450043,Generalist,Perth,18-24,False,47,40.0,1,58.82,58.82,Home,0.037,1,0.866,1,0,3,1,1
+ba55c3184c5105f9,Fashionista,Sydney,45-54,True,66,54.0,1,58.91,58.91,Apparel,0.0,0,,2,0,2,1,1
+5ae7c531a59ead78,Bargain Hunter,Newcastle,25-34,False,1050,688.0,1,59.55,59.55,Electronics,0.199,1,0.872,0,0,1,1,1
+6a6a276673962a5f,Fashionista,Newcastle,25-34,True,1658,680.0,1,60.1,60.1,Electronics,0.102,0,,0,0,1,1,1
+5090706aaa904fc8,Bargain Hunter,Adelaide,25-34,True,998,718.0,1,60.62,60.62,Apparel,0.178,0,,0,0,1,1,1
+62a7f568200c5e73,Bargain Hunter,Brisbane,45-54,False,551,545.0,2,62.14,31.07,Apparel,0.028,0,,0,0,1,1,1
+106175aa5a0361bf,Home Maker,Sydney,25-34,True,62,30.0,1,62.32,62.32,Apparel,0.0,0,,1,0,3,1,1
+6b359143f064d568,Home Maker,Canberra,35-44,True,989,644.0,1,62.62,62.62,Apparel,0.1,1,0.0,0,0,1,1,1
+2591353ac2867a32,Home Maker,Perth,35-44,True,848,674.0,1,65.07,65.07,Home,0.18,0,,0,0,1,1,1
+08277394f51dd998,Fashionista,Perth,35-44,True,436,411.0,1,65.24,65.24,Home,0.008,0,,0,0,1,1,1
+5daa520ae34cba82,Generalist,Brisbane,18-24,False,156,127.0,1,66.93,66.93,Electronics,0.0,1,0.0,0,0,2,1,1
+56339eeebfbe14c6,Fashionista,Gold Coast,25-34,True,400,398.0,1,68.2,68.2,Apparel,0.185,0,,0,0,1,1,1
+3f88b0733f000079,Tech Enthusiast,Brisbane,35-44,True,572,536.0,2,68.23,34.12,Electronics,0.228,0,,0,0,1,1,1
+770f5eefb0a35795,Tech Enthusiast,Sydney,25-34,False,572,503.0,1,68.32,68.32,Apparel,0.0,0,,0,0,1,1,1
+7a59d17942ad3f17,Tech Enthusiast,Adelaide,35-44,False,98,96.0,1,68.43,68.43,Electronics,0.053,0,,1,1,2,1,1
+ed391a98cb93f806,Bargain Hunter,Newcastle,18-24,False,1183,727.0,1,68.68,68.68,Apparel,0.0,0,,0,0,1,1,1
+7e8f3b3560da9924,Fashionista,Adelaide,18-24,False,1669,727.0,1,68.99,68.99,Apparel,0.0,0,,0,0,1,1,1
+c5f2e1162b0b84e8,Tech Enthusiast,Perth,35-44,True,1205,686.0,1,69.48,69.48,Electronics,0.136,0,,0,0,1,1,1
+97751f618d0f5580,Generalist,Sydney,25-34,False,207,183.0,1,69.85,69.85,Apparel,0.0,0,,0,0,2,1,1
+3ec81e2c01f15ddd,Generalist,Gold Coast,45-54,True,40,23.0,1,70.72,70.72,Apparel,0.065,0,,3,1,3,1,1
+5e13c7769321c20e,Home Maker,Hobart,35-44,False,141,133.0,2,70.94,35.47,Home,0.036,0,,0,0,2,1,1
+80397c96747b9d8f,Home Maker,Brisbane,35-44,True,1498,722.0,1,71.77,71.77,Apparel,0.037,0,,0,0,1,1,1
+41d9945435892093,Fashionista,Hobart,35-44,True,294,285.0,1,74.02,74.02,Apparel,0.0,0,,0,0,2,1,1
+2496d8cb69fb0802,Fashionista,Melbourne,18-24,False,1403,723.0,1,74.52,74.52,Apparel,0.0,0,,0,0,1,1,1
+11cfce3fe09fa63f,Tech Enthusiast,Perth,55-64,True,52,31.0,1,75.98,75.98,Electronics,0.0,0,,0,0,3,1,1
+e9a51ad994396cbd,Bargain Hunter,Sydney,25-34,False,1428,703.0,2,77.47,38.74,Apparel,0.0,1,0.847,0,0,1,1,1
+42fa008d8d15bfdd,Home Maker,Melbourne,55-64,True,469,292.0,2,78.99,39.49,Apparel,0.101,1,0.617,0,0,2,1,1
+471bf5bda93878a4,Tech Enthusiast,Sydney,35-44,False,1471,729.0,1,80.4,80.4,Electronics,0.0,0,,0,0,1,1,1
+e61111e2defb0852,Generalist,Brisbane,45-54,False,316,315.0,1,82.15,82.15,Apparel,0.0,0,,0,0,2,1,1
+4b40410930826b75,Generalist,Hobart,35-44,True,96,95.0,1,83.36,83.36,Electronics,0.0,0,,0,0,2,1,1
+52b45d9475b77d6b,Bargain Hunter,Melbourne,25-34,True,1493,699.0,2,83.57,41.79,Home,0.063,0,,0,0,1,1,1
+966c03926a42a444,Home Maker,Melbourne,35-44,True,222,173.0,2,85.07,42.54,Apparel,0.0,1,0.612,0,0,2,1,1
+1b7f8a7cfc496f4c,Home Maker,Brisbane,45-54,True,53,2.0,2,85.44,42.72,Home,0.0,0,,4,2,5,1,1
+c98370f0fd01e5ac,Generalist,Hobart,18-24,True,1364,687.0,2,86.04,43.02,Apparel,0.108,0,,0,0,1,1,1
+9435689311949b1a,Generalist,Canberra,18-24,True,119,33.0,3,87.0,29.0,Home,0.077,2,-0.663,1,0,3,1,1
+551f2f12aaf90faa,Home Maker,Canberra,45-54,True,1289,700.0,1,87.24,87.24,Home,0.0,0,,0,0,1,1,1
+a61fa85a27af5cb3,Bargain Hunter,Darwin,35-44,True,839,697.0,2,88.68,44.34,Apparel,0.04,0,,0,0,1,1,1
+81f2db12159e8b1e,Generalist,Sydney,45-54,True,150,124.0,2,88.83,44.42,Electronics,0.0,0,,0,0,2,1,1
+ac42689f51f8e7e6,Generalist,Sydney,25-34,True,329,301.0,1,89.63,89.63,Apparel,0.118,0,,0,0,2,1,1
+8b847e0dac5937ef,Home Maker,Sydney,35-44,True,32,14.0,1,90.11,90.11,Home,0.0,0,,1,1,3,1,1
+18611a1c5f1d25ca,Home Maker,Darwin,18-24,True,417,323.0,2,90.72,45.36,Apparel,0.0,0,,0,0,2,1,1
+c0b60d21e4b7348c,Fashionista,Adelaide,35-44,False,60,39.0,2,90.85,45.43,Electronics,0.0,0,,0,0,3,1,1
+9246eb02526516f7,Generalist,Newcastle,35-44,True,386,353.0,2,94.4,47.2,Apparel,0.0,0,,0,0,2,1,1
+a725b8f97567519d,Generalist,Perth,35-44,True,339,296.0,2,94.44,47.22,Apparel,0.091,0,,0,0,2,1,1
+ea38c53f0698bc33,Home Maker,Melbourne,25-34,False,1545,718.0,1,97.53,97.53,Apparel,0.171,0,,0,0,1,1,1
+272b875d28d80238,Home Maker,Brisbane,25-34,True,165,127.0,1,97.87,97.87,Home,0.0,0,,0,0,2,1,1
+511559ccfc55f37e,Fashionista,Brisbane,18-24,False,39,13.0,2,99.42,49.71,Apparel,0.0,0,,4,2,3,1,1
+0fa5ee127d00547f,Generalist,Darwin,45-54,True,64,21.0,1,99.46,99.46,Apparel,0.0,0,,2,1,3,1,1
+abc22f001ea5ca7a,Home Maker,Sydney,35-44,True,1646,498.0,4,100.88,25.22,Apparel,0.016,0,,0,0,1,1,1
+73558254a0902d9a,Tech Enthusiast,Melbourne,18-24,True,774,619.0,2,105.41,52.71,Apparel,0.155,0,,0,0,1,1,1
+caed44e7226c248c,Bargain Hunter,Brisbane,45-54,False,45,41.0,1,106.53,106.53,Apparel,0.0,0,,2,1,3,1,1
+bf0945dce564a7c0,Fashionista,Sydney,45-54,False,79,50.0,1,107.98,107.98,Apparel,0.0,0,,2,0,2,1,1
+76c546eba7fa9085,Generalist,Melbourne,35-44,True,444,378.0,2,108.76,54.38,Apparel,0.054,0,,0,0,1,1,1
+6743543299608754,Tech Enthusiast,Brisbane,25-34,True,64,3.0,1,109.13,109.13,Apparel,0.0,0,,1,1,5,1,1
+b38a2b7e90be3f84,Generalist,Newcastle,35-44,True,175,25.0,2,117.14,58.57,Home,0.0,0,,3,1,3,1,1
+e3c1206be4eb82fc,Tech Enthusiast,Gold Coast,18-24,True,95,32.0,1,119.73,119.73,Electronics,0.0,0,,1,0,3,1,1
+c005fa252326f18b,Bargain Hunter,Melbourne,25-34,False,937,671.0,1,121.84,121.84,Apparel,0.0,1,0.0,0,0,1,1,1
+600c2b96e1fb35e7,Fashionista,Perth,35-44,False,37,20.0,1,122.92,122.92,Apparel,0.003,0,,1,1,3,1,1
+7053c8f170d94665,Fashionista,Melbourne,18-24,False,31,3.0,1,125.8,125.8,Apparel,0.0,0,,2,2,5,1,1
+b5dc8e10bf4df118,Fashionista,Perth,18-24,True,74,2.0,3,127.44,42.48,Electronics,0.028,1,-0.96,4,2,5,1,1
+448a914424968328,Tech Enthusiast,Adelaide,45-54,True,1393,689.0,1,129.32,129.32,Electronics,0.152,0,,0,0,1,1,1
+19853dbca08bfa68,Tech Enthusiast,Melbourne,45-54,True,31,27.0,1,131.11,131.11,Electronics,0.0,0,,6,3,3,1,1
+6e0add95325f85d0,Fashionista,Melbourne,18-24,True,149,56.0,5,132.67,26.53,Home,0.047,1,0.928,1,1,2,1,1
+2e2242b211c90c99,Generalist,Sydney,25-34,True,217,3.0,4,133.11,33.28,Home,0.0,0,,1,1,5,1,1
+e5d5c104262ef529,Home Maker,Sydney,25-34,False,1099,481.0,2,136.16,68.08,Home,0.059,0,,0,0,1,1,1
+08b2a6d4dddea192,Home Maker,Perth,35-44,True,52,14.0,2,137.34,68.67,Apparel,0.029,0,,3,2,3,1,1
+204dd288353676cd,Fashionista,Canberra,35-44,False,1005,660.0,3,140.56,46.85,Apparel,0.004,0,,0,0,1,1,1
+1f4439694d700b66,Home Maker,Brisbane,25-34,True,389,349.0,2,141.82,70.91,Home,0.025,1,-0.863,0,0,2,1,1
+d74298bf35622c1a,Bargain Hunter,Hobart,35-44,False,1493,718.0,1,142.88,142.88,Home,0.054,0,,0,0,1,1,1
+5437d04ad3642993,Generalist,Sydney,25-34,True,118,54.0,2,143.66,71.83,Apparel,0.151,0,,0,0,2,1,1
+f9f5f55a14abbff2,Fashionista,Gold Coast,35-44,True,1043,501.0,3,151.26,50.42,Apparel,0.033,0,,0,0,1,1,1
+5c92a7c7b56b7afd,Generalist,Melbourne,25-34,True,917,696.0,3,152.39,50.8,Apparel,0.013,1,0.871,0,0,1,1,1
+95e2d0aebfcc0126,Home Maker,Melbourne,55-64,True,1642,688.0,2,154.81,77.41,Home,0.025,1,0.789,0,0,1,1,1
+1b00b9918da7049d,Bargain Hunter,Darwin,18-24,True,809,720.0,2,156.53,78.27,Electronics,0.068,0,,0,0,1,1,1
+7bf20a15bd3f53cd,Tech Enthusiast,Perth,25-34,True,797,550.0,2,158.23,79.11,Electronics,0.0,0,,0,0,1,1,1
+0b728f5e881c1b9a,Home Maker,Brisbane,35-44,True,1775,695.0,2,158.66,79.33,Home,0.0,0,,0,0,1,1,1
+252a760e8560eeb1,Fashionista,Melbourne,35-44,False,1496,583.0,3,160.55,53.52,Apparel,0.12,2,-0.389,0,0,1,1,1
+beb767dd2cf64695,Fashionista,Newcastle,25-34,True,1444,716.0,1,161.25,161.25,Apparel,0.192,1,-0.96,0,0,1,1,1
+1b1d7cb98b0f3278,Generalist,Perth,25-34,True,1308,400.0,3,165.26,55.09,Electronics,0.0,0,,0,0,1,1,1
+80926b63385a6201,Generalist,Adelaide,35-44,False,523,139.0,6,165.84,27.64,Home,0.0,0,,2,2,2,1,1
+31e829e281184b55,Bargain Hunter,Brisbane,45-54,True,1130,640.0,4,167.38,41.85,Home,0.101,1,0.645,0,0,1,1,1
+f50c722d08813a89,Bargain Hunter,Melbourne,55-64,False,1064,710.0,1,169.79,169.79,Apparel,0.243,0,,0,0,1,1,1
+7b345f133ce6ed93,Home Maker,Hobart,35-44,True,34,1.0,1,172.8,172.8,Apparel,0.025,0,,9,2,5,1,1
+623f56932d3fb2d2,Home Maker,Perth,45-54,True,62,7.0,1,176.72,176.72,Home,0.077,0,,2,1,4,1,1
+adda22f7c56979db,Generalist,Sydney,18-24,True,610,591.0,2,182.12,91.06,Electronics,0.025,0,,0,0,1,1,1
+72ee6d02b3eb6715,Tech Enthusiast,Melbourne,45-54,True,130,57.0,3,185.32,61.77,Electronics,0.05,0,,0,0,2,1,1
+37a942f6b13b5f86,Generalist,Melbourne,35-44,True,1772,699.0,4,185.35,46.34,Apparel,0.088,0,,0,0,1,1,1
+4b4411268b97ddb5,Fashionista,Darwin,25-34,False,1252,632.0,3,185.45,61.82,Electronics,0.045,0,,0,0,1,1,1
+9dd6ea2498bcf486,Generalist,Adelaide,18-24,True,1641,457.0,4,186.25,46.56,Home,0.0,0,,0,0,1,1,1
+5576b2f2cca97a32,Tech Enthusiast,Sydney,25-34,False,52,17.0,1,186.49,186.49,Apparel,0.0,0,,1,1,3,1,1
+7efdb25edfe1e0fb,Generalist,Darwin,45-54,True,1628,715.0,2,186.9,93.45,Apparel,0.12,0,,0,0,1,1,1
+9bf018e9050915fd,Fashionista,Sydney,25-34,True,513,486.0,4,187.06,46.77,Apparel,0.009,0,,0,0,1,1,1
+194589a589c46c2b,Tech Enthusiast,Perth,25-34,True,998,689.0,2,187.74,93.87,Electronics,0.169,1,-0.946,0,0,1,1,1
+40081d7ce656d46a,Tech Enthusiast,Brisbane,35-44,True,238,31.0,2,187.95,93.98,Electronics,0.02,2,-0.063,0,0,3,1,1
+dbc09fb2cc6fcbc7,Bargain Hunter,Canberra,25-34,True,1530,729.0,2,189.86,94.93,Home,0.013,0,,0,0,1,1,1
+ed2085d4410b33d8,Fashionista,Sydney,25-34,True,91,43.0,4,190.3,47.58,Apparel,0.061,1,0.881,0,0,3,1,1
+52b9d8852c37f04b,Generalist,Brisbane,25-34,False,1311,706.0,3,191.04,63.68,Home,0.071,0,,0,0,1,1,1
+17583432415a871a,Bargain Hunter,Perth,35-44,True,1490,435.0,3,191.29,63.76,Home,0.095,0,,0,0,1,1,1
+f2c2000da94b65cb,Tech Enthusiast,Newcastle,45-54,True,85,69.0,1,191.36,191.36,Apparel,0.0,1,-0.941,0,0,2,1,1
+dbd030562b37ffa0,Tech Enthusiast,Melbourne,25-34,False,126,74.0,2,192.49,96.25,Electronics,0.053,0,,1,0,2,1,1
+8ebe37b9800f123c,Home Maker,Brisbane,45-54,False,140,45.0,3,193.13,64.38,Home,0.103,0,,0,0,3,1,1
+d7640a093012cb42,Fashionista,Perth,45-54,True,387,195.0,2,194.1,97.05,Apparel,0.0,1,0.71,0,0,2,1,1
+1964e8d8224afafc,Bargain Hunter,Perth,25-34,True,461,430.0,3,195.7,65.23,Home,0.0,0,,0,0,1,1,1
+38f2637239d91d24,Tech Enthusiast,Melbourne,25-34,True,247,221.0,1,196.15,196.15,Electronics,0.14,0,,0,0,2,1,1
+a46bfe0411a30939,Home Maker,Brisbane,18-24,True,193,5.0,3,196.37,65.46,Home,0.018,0,,1,1,4,1,1
+d9bb02d595d59d86,Home Maker,Melbourne,35-44,True,60,49.0,1,196.47,196.47,Home,0.0,0,,3,0,3,1,1
+b50ba65b68788c6a,Fashionista,Adelaide,18-24,True,62,49.0,1,196.55,196.55,Apparel,0.0,0,,0,0,3,1,1
+75a92cba50070d0d,Home Maker,Brisbane,35-44,True,341,94.0,1,200.3,200.3,Apparel,0.0,0,,0,0,2,1,1
+29f882a27d8b94d4,Bargain Hunter,Sydney,25-34,True,111,40.0,6,201.18,33.53,Apparel,0.008,1,0.827,3,0,3,1,1
+be4e44e30719f9bb,Generalist,Sydney,18-24,True,132,2.0,4,201.22,50.31,Apparel,0.002,1,-0.361,4,2,5,1,1
+5797ef84ef475615,Fashionista,Melbourne,18-24,True,1760,720.0,1,202.94,202.94,Apparel,0.224,0,,0,0,1,1,1
+8da07758002ac306,Bargain Hunter,Sydney,55-64,True,59,56.0,1,204.17,204.17,Home,0.079,0,,3,0,2,1,1
+5e9a3af79c902d42,Home Maker,Gold Coast,45-54,True,168,15.0,4,206.34,51.59,Home,0.05,1,0.542,4,3,3,1,1
+3cf81ffd2ea50038,Bargain Hunter,Sydney,35-44,False,151,144.0,1,218.26,218.26,Apparel,0.0,0,,0,0,2,1,1
+eb46ec68183d88f2,Fashionista,Sydney,55-64,True,915,719.0,2,223.02,111.51,Apparel,0.134,1,0.422,0,0,1,1,1
+01c27ffb6e1d1b9a,Generalist,Melbourne,25-34,False,115,92.0,2,223.15,111.58,Apparel,0.002,0,,2,1,2,1,1
+5ef8c5c748395fff,Home Maker,Melbourne,35-44,False,119,61.0,2,224.4,112.2,Apparel,0.182,0,,2,1,2,1,1
+dfb5146dbb37cd3e,Home Maker,Sydney,45-54,True,1332,518.0,4,226.75,56.69,Home,0.015,0,,0,0,1,1,1
+c10cfc6ac247efe2,Generalist,Darwin,35-44,False,1565,717.0,3,228.87,76.29,Apparel,0.111,0,,0,0,1,1,1
+68699bf1bf8831ae,Generalist,Canberra,35-44,False,1806,639.0,2,231.92,115.96,Apparel,0.102,1,-0.582,0,0,1,1,1
+3ac254de0fc1e11f,Home Maker,Darwin,45-54,True,859,701.0,3,232.71,77.57,Apparel,0.081,0,,0,0,1,1,1
+2eaa70b09144522a,Tech Enthusiast,Brisbane,25-34,True,919,701.0,2,233.35,116.68,Electronics,0.097,1,-0.361,0,0,1,1,1
+45ae5d44b7b99b44,Bargain Hunter,Sydney,25-34,True,304,273.0,3,234.33,78.11,Apparel,0.002,0,,0,0,2,1,1
+ff4a6573a9fc6581,Fashionista,Perth,45-54,True,41,16.0,2,236.38,118.19,Home,0.009,0,,6,4,3,1,1
+328372c0beb4fc3a,Generalist,Canberra,25-34,True,1732,727.0,1,239.15,239.15,Apparel,0.0,0,,0,0,1,1,1
+8201db1f54d73c7e,Bargain Hunter,Perth,25-34,False,176,0.0,4,240.71,60.18,Apparel,0.074,1,0.873,1,1,5,1,1
+d7f4a585492191fa,Bargain Hunter,Brisbane,45-54,True,1264,652.0,3,243.96,81.32,Apparel,0.0,0,,0,0,1,1,1
+d5a0279bbce263f8,Fashionista,Sydney,55-64,True,1532,619.0,3,250.02,83.34,Apparel,0.08,1,-0.952,0,0,1,1,1
+77b37307600e52dd,Home Maker,Melbourne,25-34,True,1098,652.0,2,250.39,125.2,Apparel,0.007,2,-0.101,0,0,1,1,1
+d6ad6c51cf0d471c,Home Maker,Melbourne,45-54,True,212,48.0,3,250.47,83.49,Apparel,0.027,0,,0,0,3,1,1
+55c36b0c68a89856,Generalist,Brisbane,35-44,True,123,11.0,4,253.09,63.27,Electronics,0.022,1,0.361,3,2,4,1,1
+d76469041b8c108d,Fashionista,Melbourne,35-44,True,73,26.0,2,254.11,127.06,Apparel,0.0,0,,4,2,3,1,1
+ec50cadfd3d05daf,Home Maker,Sydney,25-34,True,1163,718.0,2,255.08,127.54,Home,0.0,0,,0,0,1,1,1
+0461077b4e9746fa,Home Maker,Sydney,35-44,True,149,45.0,3,258.28,86.09,Home,0.072,0,,1,0,3,1,1
+f82d3782b50e8ad0,Home Maker,Gold Coast,18-24,False,1774,700.0,2,261.77,130.89,Home,0.0,1,-0.935,0,0,1,1,1
+27ebab67b32a40cd,Fashionista,Sydney,25-34,True,915,696.0,3,261.79,87.26,Apparel,0.002,1,-0.832,0,0,1,1,1
+b4750663698bd1d7,Generalist,Adelaide,35-44,False,137,0.0,4,261.97,65.49,Home,0.013,0,,1,1,5,1,1
+c3aca6a84b5293b7,Generalist,Sydney,25-34,True,81,38.0,4,262.54,65.64,Apparel,0.082,0,,0,0,3,1,1
+18470a8838524c80,Home Maker,Canberra,25-34,True,37,29.0,2,265.14,132.57,Apparel,0.0,0,,2,1,3,1,1
+42ece84e9d63c084,Generalist,Sydney,45-54,True,292,17.0,3,269.51,89.84,Apparel,0.0,0,,2,2,3,1,1
+5924ea493b0fbbac,Generalist,Brisbane,25-34,True,1156,728.0,1,269.52,269.52,Electronics,0.22,0,,0,0,1,1,1
+23fb389f5d458d01,Tech Enthusiast,Perth,25-34,True,226,42.0,3,270.42,90.14,Apparel,0.0,0,,0,0,3,1,1
+e90a0a6783453780,Bargain Hunter,Melbourne,35-44,True,1149,691.0,3,272.47,90.82,Apparel,0.043,0,,0,0,1,1,1
+2d647b8454b511cd,Home Maker,Adelaide,35-44,True,456,33.0,3,274.61,91.54,Home,0.073,0,,0,0,3,1,1
+497eadf4695f6cc3,Fashionista,Darwin,35-44,False,165,165.0,1,277.26,277.26,Apparel,0.011,1,-0.535,0,0,2,1,1
+d136552676328419,Fashionista,Sydney,25-34,True,1174,705.0,4,280.16,70.04,Apparel,0.06,0,,0,0,1,1,1
+ba3b6993923d3a75,Generalist,Gold Coast,25-34,True,102,30.0,2,281.66,140.83,Electronics,0.0,1,0.955,3,0,3,1,1
+6dca9be02b9f0944,Home Maker,Canberra,35-44,True,38,7.0,6,283.19,47.2,Home,0.039,0,,5,4,4,1,1
+872de3964d2a42e5,Generalist,Melbourne,18-24,True,46,37.0,1,286.22,286.22,Home,0.0,0,,0,0,3,1,1
+8d2e3cc02befcbaf,Home Maker,Adelaide,55-64,True,1278,620.0,8,288.06,36.01,Home,0.075,3,-0.505,0,0,1,2,1
+e41d73e7c44a0cf9,Generalist,Adelaide,18-24,True,52,21.0,2,289.68,144.84,Apparel,0.0,0,,5,2,3,1,1
+87e291de0bd6435a,Home Maker,Darwin,25-34,True,1432,556.0,4,292.44,73.11,Home,0.045,1,0.637,0,0,1,1,1
+dd83ad50df3b6083,Generalist,Sydney,45-54,True,43,30.0,1,297.66,297.66,Home,0.0,0,,1,0,3,1,1
+4b4114f8e0396b60,Bargain Hunter,Darwin,25-34,True,86,14.0,5,298.92,59.78,Electronics,0.0,1,0.827,7,3,3,1,1
+e5649b844d04c3b4,Bargain Hunter,Melbourne,35-44,True,236,46.0,5,299.05,59.81,Apparel,0.038,1,0.816,3,0,3,1,1
+846bea5301f64642,Home Maker,Sydney,45-54,True,1552,167.0,9,299.08,33.23,Electronics,0.035,1,0.737,1,0,2,2,1
+e50f49c1617b2079,Fashionista,Perth,45-54,True,65,25.0,2,302.23,151.12,Apparel,0.0,1,-0.818,4,3,3,1,1
+12dff123a083540f,Fashionista,Sydney,45-54,False,266,266.0,1,303.36,303.36,Apparel,0.0,0,,0,0,2,1,1
+305164eecfa3b197,Fashionista,Adelaide,25-34,True,100,50.0,4,304.24,76.06,Apparel,0.081,0,,3,0,2,1,1
+a8d53112481d1217,Generalist,Sydney,55-64,True,227,40.0,2,305.21,152.6,Electronics,0.034,0,,1,0,3,1,1
+133a317f73e2265e,Fashionista,Sydney,55-64,True,188,12.0,3,306.46,102.15,Apparel,0.0,1,-0.832,1,1,4,1,1
+70ffc490467d6ff2,Bargain Hunter,Adelaide,45-54,True,217,27.0,4,312.2,78.05,Apparel,0.051,1,-0.905,3,2,3,1,1
+2f12fba887fa63b0,Fashionista,Hobart,35-44,True,72,44.0,3,313.46,104.49,Apparel,0.0,1,0.637,2,0,3,1,1
+8fc7b3923638c69a,Home Maker,Perth,45-54,True,84,4.0,3,314.15,104.72,Home,0.0,0,,3,1,4,1,1
+7af2fbd964fa4222,Tech Enthusiast,Newcastle,18-24,True,1045,611.0,2,314.95,157.48,Apparel,0.041,0,,0,0,1,1,1
+c688c854f4f4e9cd,Generalist,Hobart,25-34,False,92,45.0,3,326.91,108.97,Electronics,0.025,0,,0,0,3,1,1
+26f14a3c97d61a38,Generalist,Melbourne,35-44,False,473,278.0,6,330.5,55.08,Apparel,0.023,3,-0.239,0,0,2,1,1
+e45fb7ad0afde252,Home Maker,Melbourne,18-24,True,276,129.0,3,331.25,110.42,Home,0.006,0,,1,1,2,1,1
+f2a161bed05fb883,Generalist,Sydney,55-64,True,1793,726.0,1,332.35,332.35,Electronics,0.127,0,,0,0,1,1,1
+f24eee28842cd940,Generalist,Melbourne,18-24,True,330,293.0,2,344.75,172.38,Home,0.095,1,-0.962,0,0,2,1,1
+a373092212838411,Home Maker,Hobart,18-24,True,205,4.0,3,345.63,115.21,Home,0.005,0,,1,1,4,1,1
+84ee08003a6dfba5,Bargain Hunter,Sydney,35-44,True,236,2.0,3,349.93,116.64,Electronics,0.032,1,0.929,2,1,5,1,1
+810b39e9a2ba8c5d,Fashionista,Sydney,35-44,True,195,17.0,3,350.53,116.84,Apparel,0.049,0,,1,1,3,1,1
+70b5e854853f7fa4,Generalist,Melbourne,35-44,True,70,7.0,4,350.69,87.67,Apparel,0.0,1,0.887,3,2,4,1,1
+ea29ccf21179bb27,Bargain Hunter,Darwin,35-44,False,118,32.0,4,350.88,87.72,Apparel,0.0,1,0.44,2,0,3,1,1
+02dd4758ef054404,Fashionista,Melbourne,25-34,False,62,59.0,2,356.77,178.39,Apparel,0.0,0,,0,0,2,1,1
+ef6ba29edf07d1e2,Home Maker,Melbourne,45-54,True,1253,692.0,1,356.85,356.85,Electronics,0.091,0,,0,0,1,1,1
+5b73a9988d67e2a8,Home Maker,Sydney,18-24,False,1042,669.0,5,358.42,71.68,Home,0.067,2,-0.476,0,0,1,1,1
+93696d9fc21f0b80,Home Maker,Sydney,18-24,True,1482,195.0,1,358.66,358.66,Apparel,0.006,1,-0.951,0,0,2,1,1
+239aeaeed53b17bf,Fashionista,Hobart,35-44,True,71,1.0,3,358.73,119.58,Apparel,0.026,0,,4,3,5,1,1
+c7d6e342ac581985,Generalist,Brisbane,25-34,True,167,20.0,4,360.06,90.02,Apparel,0.038,2,-0.932,2,1,3,1,1
+31ceb43fde6e0d87,Fashionista,Hobart,35-44,True,1344,8.0,6,360.85,60.14,Apparel,0.024,2,0.863,1,1,4,1,1
+f476fb089d17203c,Fashionista,Sydney,18-24,True,1427,699.0,2,361.25,180.63,Apparel,0.011,1,-0.402,0,0,1,1,1
+e23209a70d35c393,Bargain Hunter,Perth,35-44,True,780,455.0,5,361.83,72.37,Apparel,0.004,2,0.035,0,0,1,1,1
+6d0b18a85d2a21cb,Fashionista,Sydney,45-54,False,407,400.0,2,362.28,181.14,Apparel,0.18,0,,0,0,1,1,1
+ad6f2cc165be6258,Generalist,Newcastle,25-34,False,61,31.0,3,365.83,121.94,Apparel,0.016,0,,1,0,3,1,1
+cba9ac35e965796f,Tech Enthusiast,Gold Coast,35-44,True,1738,691.0,3,368.13,122.71,Electronics,0.177,0,,0,0,1,1,1
+1821bad9b2b9d31d,Home Maker,Newcastle,18-24,True,87,7.0,3,368.5,122.83,Home,0.023,0,,5,4,4,1,1
+07715cce7ba850df,Bargain Hunter,Darwin,18-24,True,113,24.0,2,370.39,185.2,Apparel,0.018,0,,2,2,3,1,1
+6fbf88bfc0f91f9e,Generalist,Brisbane,35-44,False,41,34.0,1,373.0,373.0,Apparel,0.0,0,,0,0,3,1,1
+8d7b152ecd4d502b,Home Maker,Melbourne,18-24,True,1550,705.0,3,374.93,124.98,Home,0.027,1,0.0,0,0,1,1,1
+a6dae4fdd4c672a5,Generalist,Darwin,55-64,True,638,417.0,9,377.63,41.96,Apparel,0.004,1,-0.658,0,0,1,2,1
+d6fd845262b91b24,Generalist,Melbourne,45-54,True,50,13.0,3,379.11,126.37,Apparel,0.024,1,-0.908,6,2,3,1,1
+233c4489cf42267f,Generalist,Brisbane,18-24,True,63,47.0,3,383.75,127.92,Apparel,0.057,1,0.013,0,0,3,1,1
+6f104c93b52f69f2,Home Maker,Sydney,35-44,True,183,126.0,3,386.0,128.67,Home,0.014,1,0.542,0,0,2,1,1
+4c53dbe7ec36d9dc,Fashionista,Gold Coast,25-34,True,1192,688.0,2,386.93,193.47,Apparel,0.0,0,,0,0,1,1,1
+cbbd9e6707b4dd03,Generalist,Sydney,35-44,True,914,675.0,3,387.53,129.18,Electronics,0.07,2,-0.484,0,0,1,1,1
+c177c79800b58472,Fashionista,Adelaide,45-54,False,160,109.0,5,388.96,77.79,Apparel,0.0,1,0.796,0,0,2,1,1
+c8957437bc8c0123,Generalist,Perth,25-34,True,1606,677.0,4,394.01,98.5,Home,0.093,0,,0,0,1,1,1
+7cee585293cc8f6d,Bargain Hunter,Melbourne,25-34,True,1224,649.0,4,394.67,98.67,Home,0.063,1,-0.459,0,0,1,1,1
+e5146dbc68112be0,Bargain Hunter,Sydney,45-54,True,1100,696.0,4,398.67,99.67,Electronics,0.094,0,,0,0,1,1,1
+a7bc41437f8c6f0d,Tech Enthusiast,Melbourne,25-34,True,67,28.0,3,399.12,133.04,Electronics,0.082,0,,3,1,3,1,1
+97b9096bf7e8db0b,Tech Enthusiast,Adelaide,35-44,True,1389,659.0,1,400.06,400.06,Apparel,0.02,0,,0,0,1,1,1
+443bda1b965d860d,Fashionista,Canberra,35-44,False,214,115.0,3,400.13,133.38,Apparel,0.0,3,-0.514,0,0,2,1,1
+8577ea9299824a25,Home Maker,Perth,25-34,True,494,298.0,4,402.62,100.66,Electronics,0.082,0,,0,0,2,1,1
+0108efdcfaa065ae,Generalist,Melbourne,18-24,True,200,49.0,3,404.1,134.7,Apparel,0.058,0,,0,0,3,1,1
+84928e0fea677c3f,Tech Enthusiast,Sydney,65+,True,102,77.0,1,405.86,405.86,Electronics,0.0,0,,1,0,2,1,1
+1635529fdb2e826e,Home Maker,Canberra,45-54,False,337,264.0,2,407.35,203.68,Home,0.039,0,,0,0,2,1,1
+6aa39e6e01b503e5,Bargain Hunter,Newcastle,18-24,True,992,710.0,3,407.44,135.81,Home,0.094,0,,0,0,1,1,1
+6bcba69808145029,Generalist,Canberra,45-54,True,673,671.0,1,408.6,408.6,Electronics,0.0,0,,0,0,1,1,1
+725d480448a4ddfc,Tech Enthusiast,Perth,25-34,True,918,708.0,1,409.1,409.1,Electronics,0.099,0,,0,0,1,1,1
+b164e789acbb6f77,Home Maker,Adelaide,55-64,True,608,546.0,4,412.25,103.06,Home,0.003,0,,0,0,1,1,1
+1ce087bf960b9d06,Tech Enthusiast,Sydney,35-44,True,69,46.0,3,415.95,138.65,Electronics,0.0,0,,1,0,3,1,1
+dcccd066c216f570,Fashionista,Sydney,45-54,False,1432,658.0,5,416.77,83.35,Apparel,0.051,0,,0,0,1,1,1
+3889115ea2b73dcc,Generalist,Sydney,55-64,True,46,4.0,5,417.23,83.45,Home,0.023,1,-0.44,13,6,4,1,1
+c52cecda87e879a7,Fashionista,Adelaide,45-54,False,30,2.0,3,418.25,139.42,Apparel,0.0,0,,11,6,5,1,1
+81e165af9c4bc930,Bargain Hunter,Adelaide,45-54,True,1640,726.0,1,418.34,418.34,Electronics,0.079,0,,0,0,1,1,1
+9eb9160d4b71c6e2,Fashionista,Melbourne,45-54,True,127,32.0,2,425.55,212.78,Apparel,0.0,0,,1,0,3,1,1
+1c00a646fa881fbd,Fashionista,Melbourne,35-44,False,1210,666.0,3,433.9,144.63,Home,0.075,0,,0,0,1,1,1
+3d1f995e48170658,Bargain Hunter,Darwin,35-44,False,592,439.0,2,434.28,217.14,Apparel,0.056,0,,0,0,1,1,1
+95aa6ddb54f6f8a3,Fashionista,Brisbane,25-34,True,570,567.0,1,435.11,435.11,Apparel,0.013,1,0.494,0,0,1,1,1
+25097c7cab1a29ab,Bargain Hunter,Brisbane,18-24,True,949,338.0,7,435.96,62.28,Home,0.055,2,-0.883,0,0,2,1,1
+46abd124e7e60199,Generalist,Perth,25-34,True,1601,661.0,4,438.5,109.63,Electronics,0.082,1,0.612,0,0,1,1,1
+e6854814c7bdd974,Fashionista,Hobart,35-44,False,679,647.0,2,443.58,221.79,Apparel,0.019,0,,0,0,1,1,1
+bf88acecc87d5e90,Generalist,Newcastle,18-24,True,201,158.0,1,444.51,444.51,Apparel,0.017,0,,1,0,2,1,1
+c73cc0809fd073fe,Bargain Hunter,Sydney,35-44,True,966,701.0,3,446.56,148.85,Apparel,0.093,0,,0,0,1,1,1
+5a4ba1073c426a9f,Generalist,Hobart,35-44,True,556,468.0,7,446.59,63.8,Home,0.03,2,-0.783,0,0,1,1,1
+89949c2a2df649d5,Home Maker,Melbourne,18-24,True,133,89.0,3,448.18,149.39,Home,0.0,0,,0,0,2,1,1
+427454bed787cc98,Fashionista,Sydney,55-64,True,1313,695.0,3,449.95,149.98,Apparel,0.008,1,-0.743,0,0,1,1,1
+8e00783980aacddd,Home Maker,Sydney,45-54,False,311,295.0,5,450.15,90.03,Home,0.125,1,0.735,0,0,2,1,1
+9ccc87ba010dde54,Tech Enthusiast,Sydney,35-44,False,337,79.0,4,454.68,113.67,Home,0.027,0,,3,1,2,1,1
+587f51fdf9059cbb,Fashionista,Sydney,18-24,True,127,3.0,7,455.93,65.13,Apparel,0.005,0,,4,2,5,1,1
+3365f76fdab1edce,Home Maker,Gold Coast,35-44,True,766,699.0,3,459.72,153.24,Electronics,0.106,0,,0,0,1,1,1
+cd1a35ed46e0ecbc,Fashionista,Melbourne,25-34,False,362,300.0,3,460.35,153.45,Apparel,0.094,0,,0,0,2,1,1
+d869fe5644a72c8d,Home Maker,Canberra,55-64,True,166,14.0,3,463.42,154.47,Home,0.013,0,,4,3,3,1,1
+4b8b1c381c794c23,Fashionista,Gold Coast,45-54,True,1470,584.0,7,464.05,66.29,Apparel,0.026,1,0.862,0,0,1,1,1
+5b66c5b43e6ffcac,Fashionista,Brisbane,35-44,False,93,49.0,1,465.12,465.12,Electronics,0.0,0,,0,0,3,1,1
+dc97aa4ee0586109,Fashionista,Sydney,35-44,False,901,1.0,4,465.62,116.41,Apparel,0.0,0,,1,1,5,1,1
+4d83d683c3260b99,Home Maker,Brisbane,45-54,False,1039,687.0,5,471.72,94.34,Home,0.032,1,0.0,0,0,1,1,1
+a24c6923d39f99ca,Generalist,Adelaide,35-44,True,1723,469.0,6,472.06,78.68,Apparel,0.054,2,0.786,0,0,1,1,1
+edc157bba60c0889,Generalist,Melbourne,35-44,False,1093,496.0,4,472.43,118.11,Electronics,0.008,0,,0,0,1,1,1
+7b8366c43d141514,Fashionista,Sydney,45-54,True,1423,189.0,5,473.35,94.67,Electronics,0.075,2,-0.926,0,0,2,1,1
+2040ca4d1f88bc77,Fashionista,Canberra,18-24,True,176,25.0,5,478.01,95.6,Home,0.001,1,-0.285,3,2,3,1,1
+250511663ee20314,Fashionista,Adelaide,45-54,True,103,0.0,4,479.62,119.91,Apparel,0.082,0,,1,1,5,1,1
+16ce84a063d79909,Tech Enthusiast,Sydney,25-34,True,34,0.0,3,479.67,159.89,Electronics,0.002,0,,3,3,5,1,1
+404bcb91198e3dfd,Generalist,Melbourne,25-34,True,1065,664.0,3,481.93,160.64,Apparel,0.089,0,,0,0,1,1,1
+07e7ce6debbe3a17,Bargain Hunter,Melbourne,25-34,True,136,26.0,7,482.11,68.87,Electronics,0.027,1,-0.896,4,1,3,1,1
+bf97a594ea9279f7,Fashionista,Newcastle,35-44,True,1576,716.0,1,482.48,482.48,Apparel,0.187,0,,0,0,1,1,1
+4ad033f975bbaaaf,Home Maker,Sydney,45-54,False,1328,728.0,1,483.09,483.09,Electronics,0.197,0,,0,0,1,1,1
+7680162cd6aeb98b,Fashionista,Sydney,45-54,True,56,4.0,2,483.83,241.92,Apparel,0.028,0,,4,4,4,1,1
+1d7aa5ca8b0f6e1c,Fashionista,Brisbane,55-64,False,284,56.0,7,484.84,69.26,Apparel,0.012,0,,1,0,2,1,1
+9b3a5ef8aeb8ef12,Bargain Hunter,Sydney,35-44,False,822,135.0,10,485.65,48.57,Apparel,0.021,4,0.828,0,0,2,2,1
+e2772e6ed9d847ba,Fashionista,Sydney,25-34,False,1359,94.0,6,486.74,81.12,Apparel,0.026,0,,2,0,2,1,1
+6a9909ef2834cd31,Generalist,Adelaide,35-44,True,528,527.0,1,487.04,487.04,Home,0.068,0,,0,0,1,1,1
+03172ef2d656d566,Bargain Hunter,Gold Coast,35-44,True,1225,648.0,5,493.81,98.76,Apparel,0.064,1,0.83,0,0,1,1,1
+3cae974c40034cf3,Bargain Hunter,Sydney,35-44,False,1146,728.0,1,495.64,495.64,Electronics,0.185,1,0.0,0,0,1,1,1
+fc191db52947d74e,Home Maker,Sydney,25-34,True,1644,358.0,4,496.31,124.08,Home,0.006,1,0.0,0,0,2,1,1
+9d2778f7403427ae,Home Maker,Brisbane,25-34,True,74,25.0,6,498.29,83.05,Home,0.082,1,0.886,5,3,3,1,1
+ac329a50ebedb5b0,Home Maker,Canberra,18-24,True,78,6.0,4,501.87,125.47,Apparel,0.0,0,,5,3,4,1,1
+34282182aa18aaec,Fashionista,Brisbane,25-34,True,106,61.0,3,505.29,168.43,Apparel,0.072,0,,1,0,2,1,1
+6a6442b272046330,Fashionista,Sydney,18-24,True,406,293.0,3,507.08,169.03,Apparel,0.032,1,-0.847,0,0,2,1,1
+3a4c474b80fe12ca,Home Maker,Brisbane,35-44,True,815,712.0,1,509.63,509.63,Home,0.0,1,-0.928,0,0,1,1,1
+ac0406e5bf7595f0,Bargain Hunter,Sydney,25-34,True,1748,609.0,6,509.74,84.96,Home,0.075,2,0.402,0,0,1,1,1
+cb42edecd5d0b056,Bargain Hunter,Sydney,35-44,True,955,672.0,4,512.3,128.07,Electronics,0.063,0,,0,0,1,1,1
+73a81dbf55acd4a7,Generalist,Melbourne,25-34,True,1434,592.0,3,514.83,171.61,Home,0.025,2,-0.039,0,0,1,1,1
+5d80763e91d0158a,Bargain Hunter,Hobart,35-44,True,35,19.0,3,515.46,171.82,Home,0.0,0,,4,4,3,1,1
+cbb19d217576a5c8,Generalist,Melbourne,45-54,False,425,120.0,6,520.97,86.83,Apparel,0.085,1,-0.965,0,0,2,1,1
+dd421a0a06b4f433,Tech Enthusiast,Melbourne,35-44,True,1338,680.0,4,521.61,130.4,Electronics,0.064,3,-0.815,0,0,1,1,1
+efcaba1ed53e2b50,Home Maker,Darwin,18-24,True,1073,582.0,5,521.63,104.33,Home,0.04,1,-0.938,0,0,1,1,1
+366af213c622b129,Generalist,Sydney,35-44,True,1346,695.0,2,521.82,260.91,Apparel,0.041,0,,0,0,1,1,1
+62de1016fefd661f,Fashionista,Adelaide,18-24,True,1026,680.0,2,522.32,261.16,Electronics,0.127,0,,0,0,1,1,1
+ec054f9231295aaa,Bargain Hunter,Hobart,35-44,False,332,272.0,4,526.99,131.75,Home,0.031,0,,0,0,2,1,1
+262102516cd13e40,Home Maker,Perth,45-54,True,1262,728.0,1,527.16,527.16,Home,0.046,0,,0,0,1,1,1
+0c397cabb4a86267,Generalist,Brisbane,25-34,False,348,50.0,5,529.14,105.83,Apparel,0.032,0,,1,0,2,1,1
+089d9089d14d1231,Generalist,Gold Coast,35-44,True,61,29.0,2,529.73,264.87,Apparel,0.007,0,,1,1,3,1,1
+f8d4bea7a9bf6399,Fashionista,Melbourne,55-64,True,36,0.0,4,531.51,132.88,Apparel,0.01,1,-0.962,4,3,5,1,1
+e2dbbc9a48e353a4,Generalist,Sydney,35-44,True,1565,697.0,5,534.57,106.91,Home,0.059,0,,0,0,1,1,1
+d20f287af40f8e2d,Generalist,Sydney,45-54,True,1180,599.0,10,534.61,53.46,Apparel,0.015,3,-0.928,0,0,1,2,1
+938b3aefd93f8863,Fashionista,Melbourne,35-44,True,191,16.0,5,536.55,107.31,Apparel,0.009,0,,3,2,3,1,1
+83fb58ad639d0535,Tech Enthusiast,Darwin,45-54,True,1374,721.0,1,537.13,537.13,Electronics,0.091,1,0.935,0,0,1,1,1
+b3334c5ab3ace0ff,Home Maker,Melbourne,35-44,True,302,84.0,5,537.98,107.6,Home,0.012,1,0.422,0,0,2,1,1
+666654c67cbd9477,Tech Enthusiast,Brisbane,35-44,True,279,218.0,2,539.0,269.5,Home,0.0,0,,0,0,2,1,1
+6f521b0775b2a297,Home Maker,Adelaide,35-44,True,647,519.0,8,541.97,67.75,Home,0.045,0,,0,0,1,2,1
+e27ea6b71702d1c7,Home Maker,Sydney,35-44,False,104,15.0,4,545.71,136.43,Home,0.063,1,0.0,3,2,3,1,1
+3d5c3cc0f3f46ab1,Fashionista,Brisbane,45-54,True,822,673.0,3,547.33,182.44,Electronics,0.009,0,,0,0,1,1,1
+21d67761114e854e,Home Maker,Hobart,45-54,True,476,172.0,9,548.85,60.98,Home,0.031,0,,0,0,2,2,1
+b8a4eecb465a6920,Home Maker,Melbourne,55-64,True,1398,701.0,1,551.13,551.13,Electronics,0.129,0,,0,0,1,1,1
+1ce07682a12d185c,Fashionista,Darwin,35-44,False,144,32.0,5,553.21,110.64,Apparel,0.005,0,,0,0,3,1,1
+8596df02072acd82,Home Maker,Sydney,25-34,True,69,2.0,4,555.45,138.86,Home,0.004,0,,2,2,5,1,1
+e87f46db96889041,Home Maker,Perth,55-64,True,482,464.0,3,556.14,185.38,Apparel,0.0,1,-0.34,0,0,1,1,1
+6671f24778c5593b,Generalist,Darwin,25-34,False,1144,729.0,1,557.22,557.22,Home,0.032,0,,0,0,1,1,1
+fad78e63c837c20d,Fashionista,Melbourne,45-54,False,604,89.0,6,558.43,93.07,Apparel,0.057,0,,0,0,2,1,1
+6f2effab0f424ec9,Fashionista,Melbourne,18-24,True,760,707.0,2,560.31,280.15,Apparel,0.051,0,,0,0,1,1,1
+dfb9e2257f0c7225,Home Maker,Adelaide,25-34,True,218,177.0,6,560.49,93.42,Home,0.029,0,,0,0,2,1,1
+a8e1b25723f04542,Fashionista,Brisbane,35-44,True,70,30.0,3,560.61,186.87,Electronics,0.02,0,,0,0,3,1,1
+1ea19154b47870a2,Tech Enthusiast,Melbourne,35-44,True,107,81.0,4,561.83,140.46,Apparel,0.057,1,-0.952,0,0,2,1,1
+1cb9774e1c2e7413,Fashionista,Brisbane,35-44,True,208,12.0,8,564.23,70.53,Apparel,0.026,1,0.538,6,3,3,2,1
+8d0978f326788153,Fashionista,Adelaide,25-34,True,708,670.0,2,565.01,282.51,Electronics,0.054,0,,0,0,1,1,1
+f15beba2a67de34f,Generalist,Adelaide,25-34,True,238,16.0,9,565.1,62.79,Apparel,0.022,0,,5,3,3,2,1
+333e47e2137a05dd,Tech Enthusiast,Darwin,25-34,True,342,9.0,2,576.66,288.33,Electronics,0.031,0,,1,1,4,1,1
+cf8d66f659cecec1,Fashionista,Sydney,45-54,False,1757,494.0,4,583.5,145.88,Apparel,0.057,1,0.872,0,0,1,1,1
+c9e8c4d13795c681,Bargain Hunter,Brisbane,35-44,True,106,15.0,5,586.71,117.34,Apparel,0.0,4,-0.675,1,1,3,1,1
+a74cd2f554f6df99,Generalist,Adelaide,35-44,True,591,448.0,2,587.59,293.8,Apparel,0.005,0,,0,0,1,1,1
+eeb88b4cbe359dbe,Home Maker,Sydney,35-44,True,1750,680.0,2,587.74,293.87,Home,0.008,0,,0,0,1,1,1
+737f0568a5ffd970,Fashionista,Gold Coast,45-54,True,309,262.0,4,589.04,147.26,Apparel,0.0,2,-0.69,0,0,2,1,1
+9330487290a0c6de,Tech Enthusiast,Perth,35-44,True,1554,672.0,4,589.43,147.36,Electronics,0.09,0,,0,0,1,1,1
+6030b5035a80eda6,Home Maker,Sydney,25-34,True,823,616.0,11,595.8,54.16,Home,0.038,0,,0,0,1,2,1
+d99ca6d24e22b378,Generalist,Perth,35-44,True,1509,16.0,10,598.8,59.88,Home,0.019,1,0.869,2,2,3,2,1
+62e1598297c1d33b,Fashionista,Hobart,35-44,False,151,126.0,5,600.61,120.12,Apparel,0.012,0,,0,0,2,1,1
+43528bf89e930d9f,Home Maker,Brisbane,35-44,False,255,242.0,2,602.25,301.13,Home,0.0,0,,0,0,2,1,1
+c32ded48307eef13,Bargain Hunter,Darwin,18-24,True,44,1.0,5,603.92,120.78,Apparel,0.003,2,-0.688,7,4,5,1,1
+48eef5eefd465724,Generalist,Darwin,35-44,True,290,59.0,5,607.41,121.48,Electronics,0.003,1,0.416,0,0,2,1,1
+21770969ece9de11,Bargain Hunter,Brisbane,45-54,False,1288,729.0,1,607.74,607.74,Electronics,0.02,1,0.818,0,0,1,1,1
+ff35368a208165cd,Fashionista,Adelaide,35-44,True,57,8.0,2,609.26,304.63,Home,0.019,1,0.91,5,4,4,1,1
+db59a4551b651796,Generalist,Perth,18-24,True,105,17.0,7,611.88,87.41,Apparel,0.005,1,-0.865,6,2,3,1,1
+32751e7b42cd1ab2,Fashionista,Melbourne,45-54,True,1153,579.0,6,615.92,102.65,Apparel,0.009,0,,0,0,1,1,1
+06631e489c72a0d8,Tech Enthusiast,Sydney,55-64,True,65,0.0,4,618.16,154.54,Electronics,0.039,1,0.83,3,3,5,1,1
+5f5ed364896894e8,Generalist,Perth,35-44,True,131,26.0,6,621.17,103.53,Home,0.013,2,-0.906,9,3,3,1,1
+00c34d80b0086ed3,Bargain Hunter,Sydney,35-44,True,130,51.0,4,621.35,155.34,Home,0.044,2,-0.739,5,3,2,1,1
+92875d88b350e134,Generalist,Adelaide,25-34,False,1729,627.0,7,623.4,89.06,Home,0.029,1,0.625,0,0,1,1,1
+3a136f49177620a7,Fashionista,Sydney,45-54,True,1215,686.0,2,624.33,312.17,Apparel,0.094,0,,0,0,1,1,1
+c8d95a0540e1f67b,Generalist,Melbourne,18-24,True,120,3.0,7,629.16,89.88,Apparel,0.005,1,0.741,7,4,5,1,1
+8f1c09d8192412f2,Home Maker,Darwin,35-44,False,1608,681.0,4,629.83,157.46,Home,0.006,1,-0.834,0,0,1,1,1
+93ea7d5384b23325,Generalist,Melbourne,25-34,False,1687,596.0,7,632.27,90.32,Apparel,0.008,1,0.0,0,0,1,1,1
+515a30bc23f26313,Generalist,Sydney,45-54,True,75,20.0,1,633.08,633.08,Electronics,0.0,0,,2,1,3,1,1
+19e0dbdc4d27caa0,Bargain Hunter,Melbourne,25-34,True,124,9.0,6,633.7,105.62,Apparel,0.073,3,-0.227,2,2,4,1,1
+93b61c7e27de9322,Generalist,Adelaide,35-44,True,1604,606.0,7,634.3,90.61,Apparel,0.05,4,-0.603,0,0,1,1,1
+c0464dbc57e2b76f,Tech Enthusiast,Melbourne,25-34,True,137,131.0,1,636.1,636.1,Apparel,0.032,0,,0,0,2,1,1
+7b7ae599fc21f3c1,Fashionista,Canberra,45-54,True,368,10.0,4,637.61,159.4,Apparel,0.002,0,,2,1,4,1,1
+9655f36ea8921269,Tech Enthusiast,Melbourne,45-54,True,475,434.0,3,637.7,212.57,Electronics,0.005,0,,0,0,1,1,1
+c21c842c16eda966,Home Maker,Sydney,25-34,False,570,82.0,13,638.96,49.15,Home,0.052,1,0.599,0,0,2,2,1
+5f7bfa7ef3c740bb,Generalist,Melbourne,35-44,False,1476,244.0,5,641.16,128.23,Apparel,0.061,0,,0,0,2,1,1
+444f25e3ff05b0d8,Fashionista,Sydney,35-44,False,1545,175.0,9,648.12,72.01,Apparel,0.081,1,-0.818,1,0,2,2,1
+239a06a8f162952c,Fashionista,Hobart,35-44,True,1147,556.0,7,649.87,92.84,Apparel,0.04,0,,0,0,1,1,1
+a59f2df7aeeff607,Generalist,Sydney,25-34,True,308,21.0,3,656.02,218.67,Apparel,0.001,0,,2,2,3,1,1
+0387b9c088f04827,Generalist,Melbourne,45-54,True,1644,697.0,7,658.84,94.12,Apparel,0.082,0,,0,0,1,1,1
+559b94c210f1cbd2,Fashionista,Sydney,35-44,True,725,89.0,3,661.71,220.57,Apparel,0.001,0,,2,0,2,1,1
+c11bacb3f4ad56f9,Generalist,Perth,35-44,True,1575,700.0,4,663.09,165.77,Electronics,0.119,1,-0.791,0,0,1,1,1
+204f363fdd9ea348,Generalist,Newcastle,25-34,True,1133,576.0,3,665.26,221.75,Electronics,0.003,1,-0.881,0,0,1,1,1
+c1368c1a359cd79e,Home Maker,Melbourne,35-44,True,1604,604.0,3,667.06,222.35,Home,0.001,0,,0,0,1,1,1
+fc40d127e9854f5e,Fashionista,Hobart,35-44,False,619,565.0,2,668.71,334.36,Apparel,0.0,0,,0,0,1,1,1
+502027090b97da33,Tech Enthusiast,Canberra,45-54,True,102,38.0,3,670.46,223.49,Electronics,0.048,0,,1,0,3,1,1
+730387abd30c6d18,Generalist,Sydney,35-44,True,1783,315.0,4,672.87,168.22,Apparel,0.038,0,,0,0,2,1,1
+8d706cfe8e63b964,Generalist,Perth,35-44,True,241,43.0,5,673.62,134.72,Apparel,0.007,0,,1,0,3,1,1
+ae4f7a647b9955d4,Home Maker,Gold Coast,35-44,False,314,85.0,5,673.67,134.73,Home,0.018,0,,1,0,2,1,1

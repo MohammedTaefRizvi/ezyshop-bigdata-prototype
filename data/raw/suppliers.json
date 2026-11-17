@@ -1,0 +1,275 @@
+[
+  {
+    "supplier_id": "S001",
+    "name": "Novi Supply 1",
+    "country": "Australia",
+    "lead_time_days": 4,
+    "reliability": 0.86,
+    "contact": {
+      "email": "orders@supplier1.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S002",
+    "name": "Orbit Supply 2",
+    "country": "Australia",
+    "lead_time_days": 4,
+    "reliability": 0.98,
+    "contact": {
+      "email": "orders@supplier2.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S003",
+    "name": "Zentro Supply 3",
+    "country": "Australia",
+    "lead_time_days": 5,
+    "reliability": 0.95,
+    "contact": {
+      "email": "orders@supplier3.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S004",
+    "name": "Novi Supply 4",
+    "country": "Australia",
+    "lead_time_days": 6,
+    "reliability": 0.94,
+    "contact": {
+      "email": "orders@supplier4.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S005",
+    "name": "Orbit Supply 5",
+    "country": "Australia",
+    "lead_time_days": 12,
+    "reliability": 0.84,
+    "contact": {
+      "email": "orders@supplier5.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S006",
+    "name": "Apexa Supply 6",
+    "country": "Australia",
+    "lead_time_days": 5,
+    "reliability": 0.94,
+    "contact": {
+      "email": "orders@supplier6.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S007",
+    "name": "Southern Co Supply 7",
+    "country": "Australia",
+    "lead_time_days": 5,
+    "reliability": 0.86,
+    "contact": {
+      "email": "orders@supplier7.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S008",
+    "name": "Kora Supply 8",
+    "country": "Australia",
+    "lead_time_days": 13,
+    "reliability": 0.96,
+    "contact": {
+      "email": "orders@supplier8.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S009",
+    "name": "Vantage Supply 9",
+    "country": "Australia",
+    "reliability": 0.82,
+    "contact": {
+      "email": "orders@supplier9.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S010",
+    "name": "Southern Co Supply 10",
+    "country": "China",
+    "lead_time_days": 21,
+    "reliability": 0.96,
+    "contact": {
+      "email": "orders@supplier10.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S011",
+    "name": "Harbour Supply 11",
+    "country": "Australia",
+    "lead_time_days": 5,
+    "reliability": 0.89,
+    "contact": {
+      "email": "orders@supplier11.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S012",
+    "name": "Southern Co Supply 12",
+    "country": "Vietnam",
+    "lead_time_days": 28,
+    "reliability": 0.97,
+    "contact": {
+      "email": "orders@supplier12.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S013",
+    "name": "Kora Supply 13",
+    "country": "Vietnam",
+    "lead_time_days": 45,
+    "reliability": 0.99,
+    "contact": {
+      "email": "orders@supplier13.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S014",
+    "name": "Orbit Supply 14",
+    "country": "Australia",
+    "lead_time_days": 14,
+    "reliability": 0.87,
+    "contact": {
+      "email": "orders@supplier14.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S015",
+    "name": "Zentro Supply 15",
+    "country": "Vietnam",
+    "lead_time_days": 33,
+    "reliability": 0.89,
+    "contact": {
+      "email": "orders@supplier15.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S016",
+    "name": "Harbour Supply 16",
+    "country": "Australia",
+    "lead_time_days": 4,
+    "reliability": 0.91,
+    "contact": {
+      "email": "orders@supplier16.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S017",
+    "name": "Harbour Supply 17",
+    "country": "Vietnam",
+    "lead_time_days": 44,
+    "reliability": 0.9,
+    "contact": {
+      "email": "orders@supplier17.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S018",
+    "name": "Willow Supply 18",
+    "country": "Australia",
+    "lead_time_days": 5,
+    "reliability": 0.95,
+    "contact": {
+      "email": "orders@supplier18.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S019",
+    "name": "Vantage Supply 19",
+    "country": "China",
+    "lead_time_days": 29,
+    "reliability": 0.93,
+    "contact": {
+      "email": "orders@supplier19.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S020",
+    "name": "Vantage Supply 20",
+    "country": "Australia",
+    "lead_time_days": 13,
+    "reliability": 0.81,
+    "contact": {
+      "email": "orders@supplier20.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S021",
+    "name": "Novi Supply 21",
+    "country": "Australia",
+    "lead_time_days": 7,
+    "reliability": 0.88,
+    "contact": {
+      "email": "orders@supplier21.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S022",
+    "name": "Novi Supply 22",
+    "country": "Australia",
+    "lead_time_days": 9,
+    "reliability": 0.84,
+    "contact": {
+      "email": "orders@supplier22.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S023",
+    "name": "Lumen Supply 23",
+    "country": "Australia",
+    "reliability": 0.83,
+    "contact": {
+      "email": "orders@supplier23.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S024",
+    "name": "Apexa Supply 24",
+    "country": "Australia",
+    "lead_time_days": 7,
+    "reliability": 0.86,
+    "contact": {
+      "email": "orders@supplier24.example.com",
+      "phone": null
+    }
+  },
+  {
+    "supplier_id": "S025",
+    "name": "Lumen Supply 25",
+    "country": "India",
+    "lead_time_days": 36,
+    "reliability": 0.97,
+    "contact": {
+      "email": "orders@supplier25.example.com",
+      "phone": null
+    }
+  }
+]

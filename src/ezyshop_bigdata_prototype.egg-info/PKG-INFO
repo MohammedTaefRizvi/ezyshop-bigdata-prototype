@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ezyshop-bigdata-prototype
+Version: 1.0.0
+Summary: EzyShop Big Data lakehouse prototype (DAT801A Assessment 3)
+Requires-Python: >=3.11
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pyarrow
+Requires-Dist: duckdb
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit
+Requires-Dist: plotly
+Requires-Dist: matplotlib
+Requires-Dist: pytest

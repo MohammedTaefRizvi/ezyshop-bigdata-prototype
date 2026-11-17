@@ -1,0 +1,401 @@
+product_id,product_name,category,subcategory,list_price,units,revenue,return_rate,review_count,avg_rating,avg_sentiment,negative_share,top_complaint,views_120d
+P00392,Zentro Ultrabook 621,Electronics,Laptops,2145.8,5063.0,10360112.81,0.028,555,3.32,0.205,0.315,price,2684
+P00269,Southern Co Laptop 205,Electronics,Laptops,2320.8,1394.0,3098853.92,0.039,153,3.05,0.037,0.379,delivery,868
+P00290,Willow Laptop 948,Electronics,Laptops,2195.63,1263.0,2633952.03,0.043,147,2.76,-0.188,0.537,price,814
+P00188,Apexa Ultrabook 918,Electronics,Laptops,1696.5,980.0,1575943.77,0.02,91,3.3,0.222,0.297,delivery,559
+P00218,Vantage Laptop 686,Electronics,Laptops,633.08,2581.0,1553985.28,0.02,253,3.75,0.41,0.206,price,1417
+P00209,Novi Ultrabook 121,Electronics,Laptops,1639.85,879.0,1373798.56,0.048,100,2.93,-0.07,0.51,price,540
+P00084,Apexa Earbuds 311,Electronics,Audio,453.95,2681.0,1160066.3,0.034,291,3.11,0.083,0.388,delivery,1583
+P00037,Novi Ultrabook 504,Electronics,Laptops,2626.32,448.0,1124262.69,0.02,54,3.69,0.421,0.185,delivery,295
+P00002,Zentro Laptop 890,Electronics,Laptops,2787.24,407.0,1074962.45,0.024,45,3.6,0.269,0.311,packaging,294
+P00364,Kora Ultrabook 783,Electronics,Laptops,1556.72,676.0,997824.03,0.009,81,3.57,0.345,0.235,delivery,460
+P00205,Harbour Smartphone 943,Electronics,Phones,1544.04,625.0,916205.33,0.026,64,2.89,-0.108,0.422,price,367
+P00109,Willow Ultrabook 361,Electronics,Laptops,1973.57,484.0,910976.6,0.018,50,3.54,0.364,0.2,delivery,320
+P00292,Orbit Smartphone 733,Electronics,Phones,1518.41,631.0,910403.35,0.031,67,3.06,0.003,0.418,quality,407
+P00301,Orbit Cookware Set 686,Home,Kitchen,228.38,4046.0,898859.83,0.041,401,2.9,-0.025,0.421,delivery,1931
+P00098,Lumen Laptop 200,Electronics,Laptops,601.54,1559.0,892031.29,0.035,181,3.09,0.027,0.403,quality,976
+P00176,Lumen Phone 408,Electronics,Phones,1458.34,618.0,857667.03,0.024,50,2.84,-0.107,0.5,price,364
+P00140,Kora Laptop 246,Electronics,Laptops,734.28,1061.0,739333.72,0.054,124,2.47,-0.272,0.556,price,707
+P00122,Harbour Sneakers 116,Apparel,Footwear,191.36,3803.0,699984.15,0.048,373,2.76,-0.132,0.517,price,1836
+P00281,Kora Smartphone 283,Electronics,Phones,556.5,1282.0,681310.92,0.026,134,3.65,0.312,0.239,delivery,747
+P00085,Kora Phone 984,Electronics,Phones,1351.48,519.0,669515.67,0.03,50,3.94,0.404,0.2,price,357
+P00129,Kora Ultrabook 338,Electronics,Laptops,755.24,896.0,643340.37,0.03,99,3.19,0.114,0.333,battery,641
+P00064,Vantage Toaster 986,Home,Kitchen,79.33,8094.0,624952.13,0.02,704,3.69,0.348,0.246,price,3925
+P00130,Zentro Coat 920,Apparel,Womenswear,156.88,4126.0,624044.57,0.038,375,3.15,0.05,0.4,price,1825
+P00389,Harbour Ultrabook 842,Electronics,Laptops,2410.97,257.0,587303.7,0.012,28,3.14,0.051,0.393,battery,161
+P00008,Harbour Toaster 314,Home,Kitchen,229.07,2629.0,586404.83,0.052,257,2.66,-0.155,0.541,price,1264
+P00213,Willow Soundbar 941,Electronics,Audio,380.81,1612.0,585823.49,0.044,177,2.74,-0.14,0.537,customer_service,864
+P00363,Southern Co Laptop 871,Electronics,Laptops,852.04,721.0,585352.11,0.036,83,3.0,-0.07,0.506,delivery,505
+P00337,Novi Ultrabook 792,Electronics,Laptops,2035.53,299.0,581150.05,0.026,26,3.35,0.1,0.423,customer_service,205
+P00239,Novi Smartphone 902,Electronics,Phones,882.59,664.0,559135.88,0.066,71,2.24,-0.456,0.704,price,451
+P00086,Southern Co Laptop 369,Electronics,Laptops,1641.75,342.0,534047.77,0.052,38,2.74,-0.112,0.5,battery,229
+P00125,Vantage Phone 340,Electronics,Phones,961.7,558.0,512884.78,0.031,45,3.29,0.19,0.333,customer_service,433
+P00270,Orbit Smartphone 607,Electronics,Phones,611.4,866.0,504101.87,0.016,87,3.62,0.356,0.218,battery,543
+P00128,Novi Speaker 455,Electronics,Audio,445.02,1177.0,498998.1,0.04,130,3.27,0.131,0.362,price,727
+P00167,Orbit Chair 433,Home,Furniture,880.64,551.0,470220.22,0.021,39,3.9,0.542,0.103,delivery,336
+P00028,Vantage Smartphone 487,Electronics,Phones,692.87,707.0,466832.2,0.033,89,3.38,0.186,0.303,price,448
+P00379,Harbour Jacket 526,Apparel,Menswear,68.99,6546.0,435978.38,0.036,570,2.93,-0.056,0.461,price,2982
+P00381,Orbit Dress 423,Apparel,Womenswear,192.89,2203.0,408924.76,0.032,183,3.28,0.135,0.366,price,1123
+P00136,Willow Phone 746,Electronics,Phones,503.48,789.0,377220.89,0.031,89,3.17,0.155,0.315,delivery,490
+P00186,Vantage Sandals 321,Apparel,Footwear,200.3,1964.0,376979.89,0.018,163,3.66,0.364,0.221,customer_service,1313
+P00092,Harbour Sandals 560,Apparel,Footwear,239.15,1641.0,376930.45,0.033,153,3.57,0.278,0.281,price,803
+P00268,Willow Soundbar 268,Electronics,Audio,405.86,969.0,375768.45,0.036,105,3.24,0.189,0.343,delivery,651
+P00069,Novi Phone 765,Electronics,Phones,1051.23,371.0,370383.0,0.034,44,3.16,0.113,0.386,battery,299
+P00089,Orbit Earbuds 953,Electronics,Audio,131.11,2806.0,350832.76,0.03,273,3.45,0.219,0.322,price,1522
+P00052,Orbit Phone 548,Electronics,Phones,470.45,778.0,348742.01,0.044,83,3.06,0.023,0.47,delivery,426
+P00039,Kora Headphones 706,Electronics,Audio,226.88,1617.0,348307.1,0.036,186,3.2,0.147,0.371,price,871
+P00158,Kora Runners 323,Apparel,Footwear,108.04,3278.0,341085.2,0.031,282,3.45,0.17,0.319,size_fit,1552
+P00246,Orbit Sofa 996,Home,Furniture,373.91,919.0,333182.65,0.036,82,3.0,-0.003,0.463,customer_service,507
+P00395,Novi Smartphone 478,Electronics,Phones,595.6,587.0,332805.67,0.029,59,3.25,0.131,0.373,price,340
+P00367,Zentro Cookware Set 658,Home,Kitchen,244.39,1351.0,321206.21,0.061,154,2.33,-0.361,0.656,price,629
+P00164,Apexa Smartphone 206,Electronics,Phones,264.34,1249.0,315202.25,0.024,123,3.5,0.282,0.293,delivery,676
+P00014,Vantage Chair 649,Home,Furniture,1415.44,229.0,313822.88,0.026,20,2.5,-0.3,0.6,customer_service,195
+P00240,Apexa Ultrabook 258,Electronics,Laptops,1150.7,279.0,305513.76,0.032,29,3.41,0.179,0.276,price,251
+P00073,Apexa Sofa 473,Home,Furniture,572.87,548.0,305068.15,0.048,51,2.16,-0.426,0.667,price,399
+P00071,Lumen Headphones 955,Electronics,Audio,408.6,762.0,297858.28,0.017,64,3.89,0.503,0.141,delivery,449
+P00350,Southern Co Ultrabook 180,Electronics,Laptops,2089.33,147.0,293289.64,0.04,16,3.5,0.22,0.313,price,126
+P00124,Harbour Jeans 456,Apparel,Menswear,67.49,4442.0,288089.57,0.009,407,4.03,0.518,0.143,delivery,1916
+P00083,Willow Toaster 552,Home,Kitchen,391.71,748.0,284165.84,0.02,58,3.19,0.032,0.483,delivery,451
+P00280,Harbour Bookshelf 670,Home,Furniture,1028.95,284.0,283925.0,0.041,21,3.52,0.269,0.286,quality,149
+P00230,Southern Co Laptop 738,Electronics,Laptops,2150.08,138.0,282894.99,0.014,14,3.86,0.411,0.214,quality,135
+P00150,Orbit Smartphone 587,Electronics,Phones,785.52,366.0,273465.84,0.005,31,4.19,0.713,0.032,price,253
+P00161,Orbit Laptop 424,Electronics,Laptops,1371.26,203.0,266658.55,0.005,16,3.63,0.488,0.125,customer_service,147
+P00018,Harbour Smartphone 230,Electronics,Phones,723.45,382.0,262757.97,0.028,33,3.52,0.308,0.242,customer_service,189
+P00196,Willow Soundbar 979,Electronics,Audio,392.54,674.0,251823.48,0.027,59,3.66,0.352,0.237,price,488
+P00349,Orbit Dress 287,Apparel,Womenswear,216.9,1155.0,241810.34,0.034,105,3.07,-0.02,0.429,price,541
+P00155,Kora Laptop 259,Electronics,Laptops,700.35,356.0,239077.93,0.066,48,2.4,-0.386,0.688,delivery,273
+P00040,Southern Co Runners 249,Apparel,Footwear,54.35,4455.0,232988.73,0.051,437,2.45,-0.322,0.625,price,1947
+P00105,Novi Blender 938,Home,Kitchen,341.43,673.0,223173.68,0.023,74,3.74,0.319,0.284,quality,368
+P00011,Zentro Shirt 726,Apparel,Menswear,31.16,7342.0,220165.37,0.029,678,3.3,0.159,0.327,price,3448
+P00394,Southern Co Boots 502,Apparel,Footwear,151.87,1496.0,218902.07,0.012,125,3.93,0.489,0.144,delivery,653
+P00376,Willow Soundbar 370,Electronics,Audio,437.7,521.0,217944.14,0.023,53,3.7,0.292,0.264,packaging,422
+P00332,Harbour Speaker 997,Electronics,Audio,418.73,546.0,217570.11,0.029,67,3.6,0.303,0.269,price,420
+P00017,Southern Co Skirt 588,Apparel,Womenswear,209.71,1065.0,216039.37,0.025,97,3.49,0.223,0.33,delivery,513
+P00315,Vantage Jeans 936,Apparel,Menswear,85.75,2591.0,213928.02,0.033,221,3.12,0.015,0.403,price,1327
+P00380,Kora Toaster 127,Home,Kitchen,284.41,770.0,212212.13,0.031,66,3.09,0.066,0.409,customer_service,407
+P00193,Zentro Ultrabook 861,Electronics,Laptops,1188.92,184.0,209702.68,0.011,10,3.9,0.603,0.1,price,140
+P00271,Willow Smartphone 940,Electronics,Phones,771.72,275.0,202092.76,0.021,29,2.41,-0.404,0.69,packaging,182
+P00131,Orbit Speaker 679,Electronics,Audio,142.75,1400.0,191051.89,0.03,131,3.53,0.222,0.336,delivery,776
+P00081,Kora Sneakers 598,Apparel,Footwear,45.36,4335.0,189284.69,0.048,378,2.48,-0.312,0.63,price,1930
+P00338,Orbit Blender 382,Home,Kitchen,309.44,622.0,187878.84,0.019,50,3.72,0.345,0.24,price,339
+P00339,Orbit Ultrabook 665,Electronics,Laptops,906.78,213.0,183977.98,0.059,21,2.86,0.117,0.333,customer_service,171
+P00145,Apexa Blouse 705,Apparel,Womenswear,199.56,958.0,183880.08,0.052,97,2.66,-0.256,0.619,price,539
+P00333,Orbit Sandals 553,Apparel,Footwear,211.53,897.0,182425.24,0.018,52,3.19,0.057,0.423,customer_service,516
+P00310,Novi Headphones 304,Electronics,Audio,199.27,957.0,181764.12,0.022,99,3.81,0.366,0.242,price,585
+P00116,Orbit Sofa 213,Home,Furniture,456.08,406.0,180294.25,0.057,45,2.42,-0.262,0.667,delivery,309
+P00378,Orbit Jacket 297,Apparel,Menswear,21.1,8405.0,171203.29,0.017,757,3.73,0.385,0.209,delivery,3265
+P00304,Vantage Skirt 264,Apparel,Womenswear,73.09,2402.0,169202.35,0.029,233,3.43,0.217,0.3,price,1127
+P00314,Harbour Hoodie 667,Apparel,Menswear,131.24,1305.0,165516.53,0.038,131,2.9,-0.098,0.489,price,653
+P00362,Apexa Ultrabook 865,Electronics,Laptops,2465.44,69.0,164070.46,0.0,10,3.8,0.531,0.1,delivery,69
+P00123,Orbit Ultrabook 854,Electronics,Laptops,856.8,200.0,163727.54,0.029,19,3.74,0.473,0.211,price,192
+P00259,Southern Co Phone 972,Electronics,Phones,403.15,425.0,163124.94,0.032,47,2.57,-0.274,0.596,quality,249
+P00285,Willow Dress 749,Apparel,Womenswear,148.01,1138.0,162105.19,0.032,85,3.38,0.145,0.341,price,580
+P00300,Willow Runners 662,Apparel,Footwear,109.34,1536.0,161433.63,0.023,136,3.43,0.212,0.301,price,751
+P00153,Zentro Soundbar 127,Electronics,Audio,119.73,1390.0,158892.83,0.026,134,3.66,0.336,0.224,packaging,729
+P00282,Willow Speaker 136,Electronics,Audio,536.52,288.0,147745.52,0.021,26,3.77,0.415,0.231,customer_service,222
+P00279,Lumen Bookshelf 320,Home,Furniture,856.86,177.0,146847.15,0.048,13,2.77,-0.075,0.462,quality,100
+P00013,Novi Sneakers 114,Apparel,Footwear,158.21,958.0,145666.8,0.034,93,3.4,0.173,0.355,packaging,460
+P00133,Willow Blouse 499,Apparel,Womenswear,130.74,1148.0,144509.07,0.019,100,4.0,0.47,0.15,customer_service,611
+P00036,Zentro Speaker 207,Electronics,Audio,203.57,730.0,142232.92,0.057,91,2.46,-0.212,0.549,price,466
+P00051,Lumen Soundbar 374,Electronics,Audio,156.94,950.0,142031.62,0.032,115,3.24,0.094,0.365,quality,633
+P00212,Novi Coat 417,Apparel,Womenswear,100.26,1429.0,138214.49,0.024,126,3.89,0.439,0.19,quality,761
+P00115,Kora Speaker 842,Electronics,Audio,272.17,524.0,136162.48,0.026,53,3.49,0.18,0.396,packaging,427
+P00015,Novi Shirt 297,Apparel,Menswear,77.47,1763.0,131528.74,0.045,172,2.64,-0.164,0.523,price,886
+P00060,Orbit Ultrabook 758,Electronics,Laptops,715.3,189.0,130095.88,0.021,16,3.75,0.314,0.188,packaging,175
+P00227,Zentro Phone 956,Electronics,Phones,518.45,263.0,129583.13,0.025,36,3.42,0.301,0.278,delivery,145
+P00030,Orbit Sandals 552,Apparel,Footwear,224.28,594.0,127853.69,0.066,51,1.88,-0.625,0.824,price,350
+P00238,Novi Kettle 626,Home,Kitchen,31.18,4145.0,125866.12,0.033,361,3.34,0.185,0.327,price,1919
+P00357,Zentro Toaster 290,Home,Kitchen,40.14,3227.0,125585.83,0.018,277,3.84,0.457,0.188,price,1604
+P00108,Novi Case 656,Electronics,Accessories,83.36,1587.0,125407.06,0.02,172,3.47,0.256,0.302,price,1022
+P00194,Kora Chair 540,Home,Furniture,394.73,320.0,123658.48,0.034,24,3.33,0.238,0.292,customer_service,274
+P00365,Zentro Sandals 195,Apparel,Footwear,172.51,736.0,122464.51,0.025,70,3.07,0.025,0.443,quality,464
+P00294,Kora Ultrabook 169,Electronics,Laptops,688.96,182.0,120201.33,0.054,17,2.35,-0.365,0.706,price,135
+P00206,Vantage Earbuds 895,Electronics,Audio,83.24,1505.0,119532.08,0.027,164,3.6,0.346,0.238,battery,925
+P00075,Zentro Smartphone 594,Electronics,Phones,522.33,238.0,118703.68,0.029,21,3.71,0.313,0.286,customer_service,155
+P00199,Lumen Speaker 425,Electronics,Audio,80.4,1516.0,116078.18,0.02,158,3.77,0.449,0.152,price,951
+P00291,Kora Chair 448,Home,Furniture,824.38,144.0,115369.49,0.024,13,3.77,0.467,0.154,quality,148
+P00331,Novi Toaster 428,Home,Kitchen,201.08,586.0,114321.51,0.058,70,2.61,-0.142,0.457,price,343
+P00112,Vantage Earbuds 294,Electronics,Audio,203.51,587.0,113577.29,0.032,57,3.4,0.177,0.316,price,438
+P00303,Harbour Coat 863,Apparel,Womenswear,57.15,2054.0,112975.02,0.018,191,3.87,0.38,0.215,price,996
+P00335,Lumen Earbuds 505,Electronics,Audio,152.55,755.0,109618.75,0.021,60,3.72,0.408,0.2,packaging,475
+P00400,Southern Co Jacket 598,Apparel,Menswear,37.81,2976.0,108261.9,0.026,267,3.3,0.123,0.356,price,1378
+P00134,Willow Adapter 817,Electronics,Accessories,85.92,1299.0,106086.72,0.043,130,3.11,0.039,0.408,delivery,791
+P00117,Novi Blender 814,Home,Kitchen,158.44,682.0,104959.09,0.019,68,3.96,0.469,0.162,packaging,426
+P00099,Zentro Ultrabook 347,Electronics,Laptops,601.14,180.0,103478.44,0.049,18,3.0,-0.035,0.444,price,143
+P00091,Zentro Speaker 387,Electronics,Audio,66.05,1645.0,103062.17,0.044,195,2.53,-0.299,0.61,price,811
+P00208,Lumen Sneakers 550,Apparel,Footwear,112.44,928.0,100329.46,0.026,70,3.07,0.019,0.414,size_fit,473
+P00001,Southern Co Phone 763,Electronics,Phones,437.87,239.0,100206.93,0.037,21,3.57,0.164,0.381,price,154
+P00342,Lumen Lamp 712,Home,Decor,95.72,1075.0,100172.15,0.025,87,3.34,0.151,0.345,delivery,518
+P00351,Zentro Boots 312,Apparel,Footwear,161.95,635.0,98744.28,0.02,55,3.95,0.46,0.127,size_fit,404
+P00026,Apexa Earbuds 608,Electronics,Audio,188.5,550.0,98520.26,0.021,59,3.68,0.375,0.22,delivery,436
+P00154,Apexa Skirt 208,Apparel,Womenswear,191.22,535.0,98225.66,0.058,62,2.37,-0.312,0.629,delivery,333
+P00377,Apexa Cushion 364,Home,Decor,24.9,4058.0,98071.36,0.032,370,3.26,0.118,0.351,price,1998
+P00249,Southern Co Jacket 360,Apparel,Menswear,59.82,1676.0,96762.44,0.012,150,4.02,0.47,0.16,price,819
+P00273,Vantage Smartphone 756,Electronics,Phones,423.85,236.0,96095.05,0.029,43,3.7,0.395,0.209,delivery,177
+P00325,Lumen Desk 315,Home,Furniture,98.2,998.0,95295.15,0.029,97,3.55,0.296,0.258,price,587
+P00340,Kora Cushion 366,Home,Decor,45.19,2165.0,94783.06,0.028,188,3.31,0.173,0.346,price,1083
+P00174,Kora Cushion 386,Home,Decor,121.39,796.0,93795.44,0.025,82,3.56,0.374,0.244,price,468
+P00345,Willow Kettle 407,Home,Kitchen,33.39,2888.0,93679.11,0.032,276,3.28,0.181,0.33,price,1330
+P00020,Harbour Sneakers 233,Apparel,Footwear,232.64,418.0,93134.63,0.011,30,3.57,0.206,0.3,quality,210
+P00148,Willow Blouse 164,Apparel,Womenswear,196.55,472.0,89779.24,0.02,36,3.0,-0.132,0.556,price,276
+P00229,Apexa Runners 105,Apparel,Footwear,68.72,1330.0,87953.07,0.031,121,3.52,0.245,0.298,packaging,684
+P00056,Kora Cookware Set 106,Home,Kitchen,114.85,778.0,86948.58,0.033,61,3.39,0.229,0.344,price,406
+P00211,Apexa Boots 259,Apparel,Footwear,72.58,1242.0,86619.95,0.017,111,3.92,0.452,0.198,price,707
+P00175,Kora Speaker 691,Electronics,Audio,139.43,651.0,86027.97,0.044,82,2.98,-0.073,0.524,price,400
+P00041,Willow Jeans 280,Apparel,Menswear,175.75,511.0,86011.35,0.007,40,4.03,0.568,0.125,quality,258
+P00252,Orbit Chair 422,Home,Furniture,450.1,196.0,85936.29,0.041,13,3.69,0.248,0.308,customer_service,140
+P00027,Southern Co Jeans 654,Apparel,Menswear,83.05,1066.0,85327.27,0.017,91,3.77,0.384,0.242,delivery,630
+P00059,Apexa Soundbar 660,Electronics,Audio,281.62,318.0,85299.52,0.013,36,3.61,0.278,0.25,packaging,220
+P00160,Vantage Kettle 541,Home,Kitchen,87.24,1004.0,85244.0,0.012,85,4.15,0.603,0.106,packaging,474
+P00168,Zentro Cookware Set 406,Home,Kitchen,343.58,255.0,85168.78,0.032,30,3.53,0.237,0.3,customer_service,146
+P00047,Orbit Hoodie 867,Apparel,Menswear,34.16,2576.0,84713.94,0.06,237,2.29,-0.425,0.667,price,1262
+P00082,Lumen Hoodie 408,Apparel,Menswear,80.64,1082.0,84335.62,0.014,96,3.98,0.512,0.146,delivery,605
+P00119,Kora Shirt 614,Apparel,Menswear,72.26,1195.0,83449.45,0.061,90,2.5,-0.261,0.6,price,572
+P00289,Zentro Blouse 586,Apparel,Womenswear,160.04,522.0,81097.2,0.034,39,3.21,0.061,0.359,packaging,290
+P00096,Zentro Sandals 154,Apparel,Footwear,82.15,1008.0,79927.98,0.02,81,3.54,0.247,0.309,price,574
+P00326,Vantage Sneakers 502,Apparel,Footwear,183.93,448.0,79295.71,0.016,39,3.82,0.508,0.179,packaging,229
+P00147,Vantage Adapter 194,Electronics,Accessories,88.33,932.0,78135.2,0.039,105,3.11,0.062,0.381,delivery,645
+P00162,Zentro Lamp 533,Home,Decor,131.81,603.0,77306.92,0.021,56,3.88,0.465,0.196,packaging,302
+P00245,Zentro Sandals 965,Apparel,Footwear,50.26,1577.0,76326.05,0.056,147,2.4,-0.33,0.626,price,772
+P00352,Zentro Earbuds 530,Electronics,Audio,121.43,657.0,75686.38,0.015,69,3.62,0.365,0.275,quality,513
+P00003,Novi Headphones 698,Electronics,Audio,385.77,204.0,74646.64,0.024,20,3.35,0.107,0.25,price,140
+P00234,Southern Co Skirt 607,Apparel,Womenswear,42.54,1787.0,73514.31,0.03,156,3.73,0.352,0.224,quality,1005
+P00031,Apexa Kettle 566,Home,Kitchen,227.82,319.0,71013.57,0.045,17,1.88,-0.664,0.882,price,203
+P00215,Apexa Blender 612,Home,Kitchen,312.76,233.0,70595.04,0.021,14,3.29,0.332,0.214,price,155
+P00277,Lumen Charger 616,Electronics,Accessories,17.03,4343.0,70505.09,0.015,429,3.95,0.464,0.182,price,2391
+P00302,Willow Headphones 181,Electronics,Audio,102.62,716.0,69667.1,0.019,64,3.8,0.389,0.25,delivery,429
+P00397,Willow Chair 680,Home,Furniture,210.59,337.0,68815.53,0.041,29,2.59,-0.267,0.552,delivery,209
+P00065,Apexa Boots 166,Apparel,Footwear,249.47,282.0,67809.88,0.017,18,3.94,0.359,0.167,size_fit,161
+P00198,Lumen Chair 679,Home,Furniture,161.77,431.0,67764.61,0.059,34,3.18,0.037,0.441,delivery,214
+P00088,Apexa Jacket 811,Apparel,Menswear,68.68,1021.0,67465.71,0.023,88,3.42,0.172,0.364,delivery,616
+P00197,Apexa Coat 194,Apparel,Womenswear,125.13,547.0,66218.84,0.017,41,4.0,0.502,0.146,size_fit,247
+P00107,Apexa Jeans 718,Apparel,Menswear,69.85,986.0,65993.81,0.013,84,4.01,0.453,0.19,delivery,539
+P00258,Kora Ultrabook 605,Electronics,Laptops,834.99,82.0,65724.15,0.024,5,3.6,0.414,0.2,price,62
+P00062,Willow Coat 759,Apparel,Womenswear,39.92,1677.0,64523.14,0.046,150,2.75,-0.139,0.513,customer_service,815
+P00287,Zentro Phone 359,Electronics,Phones,281.08,239.0,64263.51,0.0,23,4.26,0.675,0.043,delivery,166
+P00274,Novi Blouse 516,Apparel,Womenswear,69.67,950.0,63993.4,0.033,65,2.71,-0.264,0.6,quality,527
+P00004,Harbour Case 181,Electronics,Accessories,50.3,1327.0,63686.34,0.014,138,3.93,0.513,0.13,delivery,794
+P00191,Southern Co Rug 495,Home,Decor,140.61,465.0,63655.14,0.025,45,3.18,0.131,0.356,customer_service,277
+P00260,Southern Co Coat 147,Apparel,Womenswear,99.46,664.0,63398.83,0.034,52,3.13,0.075,0.365,size_fit,386
+P00295,Zentro Bookshelf 850,Home,Furniture,295.76,219.0,63357.11,0.021,18,3.56,0.205,0.333,customer_service,159
+P00201,Novi Kettle 508,Home,Kitchen,15.39,4217.0,63017.16,0.026,375,3.31,0.184,0.331,price,1880
+P00141,Novi Coat 753,Apparel,Womenswear,45.14,1445.0,63009.36,0.036,116,3.09,0.028,0.388,price,792
+P00152,Southern Co Cushion 366,Home,Decor,73.21,878.0,62413.0,0.022,75,3.24,0.142,0.347,price,506
+P00170,Vantage Candle 290,Home,Decor,85.78,746.0,62175.84,0.045,77,3.03,0.07,0.416,price,380
+P00320,Zentro Candle 238,Home,Decor,133.17,476.0,61688.74,0.027,40,3.45,0.336,0.225,price,244
+P00050,Orbit Speaker 790,Electronics,Audio,147.78,430.0,60269.07,0.025,51,3.49,0.248,0.294,customer_service,302
+P00063,Novi Dress 367,Apparel,Womenswear,45.91,1358.0,60135.59,0.014,106,3.73,0.422,0.16,size_fit,702
+P00144,Lumen Dress 140,Apparel,Womenswear,37.26,1673.0,60071.97,0.052,133,2.09,-0.55,0.759,price,831
+P00355,Novi Hoodie 971,Apparel,Menswear,99.41,627.0,59797.33,0.008,58,4.05,0.555,0.069,delivery,303
+P00313,Vantage Adapter 912,Electronics,Accessories,50.06,1256.0,59589.24,0.027,114,3.61,0.361,0.228,delivery,851
+P00010,Vantage Candle 853,Home,Decor,66.23,921.0,59325.96,0.023,84,3.55,0.242,0.286,price,517
+P00080,Willow Kettle 220,Home,Kitchen,81.3,730.0,57694.06,0.067,94,2.35,-0.339,0.628,delivery,435
+P00049,Vantage Runners 892,Apparel,Footwear,79.45,755.0,57666.99,0.022,73,3.47,0.29,0.26,delivery,428
+P00233,Zentro Rug 778,Home,Decor,45.71,1222.0,54179.63,0.026,101,3.5,0.253,0.317,packaging,685
+P00241,Zentro Desk 409,Home,Furniture,995.93,55.0,53844.86,0.042,3,3.0,-0.246,0.667,price,44
+P00214,Kora Cookware Set 820,Home,Kitchen,191.51,289.0,53716.11,0.004,21,3.76,0.318,0.286,price,176
+P00305,Zentro Chair 245,Home,Furniture,542.76,101.0,53564.88,0.0,13,3.62,0.381,0.231,quality,84
+P00371,Vantage Blender 402,Home,Kitchen,88.87,600.0,51997.76,0.018,50,3.7,0.351,0.22,price,375
+P00336,Southern Co Sandals 197,Apparel,Footwear,191.49,282.0,51764.75,0.024,32,3.38,0.234,0.25,customer_service,195
+P00248,Southern Co Hoodie 253,Apparel,Menswear,117.58,455.0,51713.57,0.059,47,2.87,-0.045,0.447,price,294
+P00007,Novi Sneakers 240,Apparel,Footwear,42.8,1247.0,51415.76,0.019,100,3.73,0.398,0.22,customer_service,660
+P00055,Harbour Toaster 721,Home,Kitchen,16.32,3222.0,51073.9,0.019,300,3.67,0.358,0.26,price,1525
+P00151,Lumen Sofa 195,Home,Furniture,168.07,309.0,50532.64,0.022,31,2.87,-0.155,0.419,price,232
+P00220,Orbit Jacket 836,Apparel,Menswear,65.36,799.0,50177.09,0.028,71,3.08,0.015,0.408,price,426
+P00139,Novi Blender 403,Home,Kitchen,73.6,693.0,49592.82,0.007,54,4.06,0.553,0.111,customer_service,382
+P00360,Apexa Blouse 458,Apparel,Womenswear,152.32,335.0,49359.86,0.025,25,3.28,0.099,0.4,price,224
+P00322,Vantage Coat 257,Apparel,Womenswear,109.27,466.0,49073.19,0.034,40,3.53,0.19,0.35,delivery,234
+P00079,Vantage Blouse 154,Apparel,Womenswear,107.38,469.0,48499.2,0.029,48,3.52,0.209,0.313,quality,244
+P00242,Novi Kettle 338,Home,Kitchen,50.58,970.0,47886.44,0.036,89,3.47,0.272,0.258,quality,513
+P00334,Lumen Chair 114,Home,Furniture,101.48,482.0,47682.95,0.026,34,3.32,0.151,0.324,price,263
+P00019,Lumen Chair 583,Home,Furniture,193.51,252.0,47606.58,0.022,28,3.43,0.32,0.214,price,148
+P00264,Lumen Earbuds 104,Electronics,Audio,141.2,347.0,46650.96,0.02,38,3.39,0.209,0.263,price,259
+P00178,Lumen Cushion 773,Home,Decor,112.11,427.0,46547.0,0.044,46,2.83,-0.05,0.435,price,216
+P00185,Orbit Kettle 823,Home,Kitchen,16.04,2960.0,46167.23,0.037,255,2.88,-0.081,0.451,price,1456
+P00074,Kora Adapter 368,Electronics,Accessories,83.35,578.0,45849.91,0.015,61,3.74,0.388,0.23,customer_service,339
+P00204,Zentro Earbuds 657,Electronics,Audio,125.69,384.0,45843.77,0.025,25,3.08,0.051,0.48,price,260
+P00022,Zentro Shirt 373,Apparel,Menswear,36.85,1291.0,45824.77,0.02,118,3.85,0.402,0.22,packaging,803
+P00391,Novi Sandals 178,Apparel,Footwear,45.71,1022.0,44869.41,0.024,82,3.59,0.291,0.28,customer_service,654
+P00048,Harbour Adapter 785,Electronics,Accessories,52.88,856.0,43052.31,0.013,96,3.68,0.376,0.208,price,539
+P00087,Zentro Blender 411,Home,Kitchen,44.92,981.0,42780.08,0.039,85,3.05,0.066,0.365,price,513
+P00181,Zentro Cushion 630,Home,Decor,45.79,926.0,41351.92,0.035,89,3.06,-0.042,0.427,packaging,539
+P00127,Kora Case 484,Electronics,Accessories,72.29,595.0,41053.36,0.025,65,3.28,0.193,0.338,price,374
+P00012,Vantage Lamp 865,Home,Decor,55.07,762.0,40939.36,0.04,78,2.95,-0.071,0.5,delivery,440
+P00095,Vantage Cable 142,Electronics,Accessories,36.05,1183.0,40681.65,0.054,119,2.3,-0.405,0.655,delivery,663
+P00255,Kora Cable 361,Electronics,Accessories,41.01,1042.0,40517.59,0.024,111,3.61,0.308,0.261,customer_service,637
+P00390,Zentro Sofa 180,Home,Furniture,148.83,277.0,40194.91,0.026,18,2.17,-0.479,0.667,price,182
+P00329,Zentro Boots 428,Apparel,Footwear,71.98,580.0,40108.32,0.018,47,3.98,0.475,0.149,price,334
+P00262,Novi Bookshelf 711,Home,Furniture,89.57,455.0,39385.97,0.018,47,3.6,0.367,0.234,price,235
+P00066,Novi Blouse 821,Apparel,Womenswear,75.77,533.0,38831.24,0.018,51,3.82,0.493,0.059,delivery,306
+P00029,Willow Speaker 826,Electronics,Audio,106.22,381.0,38702.58,0.023,40,3.75,0.376,0.25,packaging,241
+P00324,Kora Blouse 594,Apparel,Womenswear,27.14,1460.0,38141.13,0.028,137,3.34,0.2,0.299,quality,693
+P00341,Vantage Headphones 665,Electronics,Audio,67.86,587.0,38038.99,0.028,54,3.26,0.177,0.333,quality,364
+P00034,Zentro Shirt 767,Apparel,Menswear,39.86,989.0,37959.15,0.018,84,4.06,0.475,0.167,quality,508
+P00189,Southern Co Cookware Set 791,Home,Kitchen,94.8,412.0,37917.76,0.018,29,3.34,0.256,0.31,delivery,203
+P00386,Southern Co Lamp 504,Home,Decor,36.31,1074.0,37849.24,0.038,114,3.32,0.195,0.307,packaging,594
+P00149,Apexa Jeans 482,Apparel,Menswear,39.04,1002.0,37744.52,0.064,93,2.3,-0.47,0.71,packaging,500
+P00261,Zentro Soundbar 928,Electronics,Audio,115.79,340.0,37690.28,0.031,24,3.29,0.121,0.375,price,216
+P00399,Harbour Hoodie 200,Apparel,Menswear,90.87,432.0,37539.7,0.013,29,3.9,0.477,0.138,quality,271
+P00179,Vantage Cushion 254,Home,Decor,42.17,911.0,37354.91,0.028,81,3.42,0.243,0.333,quality,527
+P00195,Orbit Headphones 462,Electronics,Audio,98.86,385.0,36341.74,0.021,46,4.02,0.547,0.174,packaging,238
+P00319,Apexa Adapter 758,Electronics,Accessories,64.04,591.0,36021.58,0.028,60,3.48,0.28,0.283,price,363
+P00166,Lumen Jeans 268,Apparel,Menswear,64.35,578.0,35798.56,0.02,54,3.3,0.141,0.37,price,383
+P00120,Orbit Sneakers 658,Apparel,Footwear,109.13,340.0,35781.82,0.041,27,2.52,-0.265,0.519,price,214
+P00347,Harbour Candle 620,Home,Decor,81.73,450.0,35759.8,0.057,34,3.15,0.081,0.441,delivery,224
+P00366,Lumen Shirt 574,Apparel,Menswear,137.28,268.0,35479.39,0.014,27,3.78,0.473,0.148,delivery,197
+P00344,Willow Skirt 709,Apparel,Womenswear,27.98,1300.0,35105.13,0.037,126,2.78,-0.201,0.548,price,843
+P00159,Novi Toaster 166,Home,Kitchen,25.96,1385.0,34974.07,0.021,109,3.85,0.471,0.174,packaging,996
+P00106,Novi Cookware Set 657,Home,Kitchen,21.85,1643.0,34945.79,0.048,169,2.45,-0.294,0.562,price,906
+P00138,Southern Co Dress 640,Apparel,Womenswear,53.35,675.0,34855.0,0.03,48,3.79,0.366,0.229,price,347
+P00165,Willow Blouse 164,Apparel,Womenswear,43.24,825.0,34478.96,0.027,83,3.69,0.338,0.217,quality,452
+P00023,Lumen Cushion 973,Home,Decor,52.31,676.0,34478.49,0.043,59,2.69,-0.228,0.559,price,409
+P00102,Lumen Boots 305,Apparel,Footwear,143.71,248.0,34228.25,0.059,21,3.57,0.495,0.095,price,115
+P00382,Apexa Lamp 770,Home,Decor,104.52,339.0,34208.76,0.04,32,2.81,-0.166,0.563,packaging,207
+P00284,Willow Adapter 205,Electronics,Accessories,80.13,449.0,34167.52,0.009,39,4.23,0.633,0.051,delivery,270
+P00217,Apexa Headphones 178,Electronics,Audio,46.15,777.0,34137.59,0.029,88,3.32,0.148,0.352,price,417
+P00042,Willow Chair 502,Home,Furniture,121.16,279.0,33051.92,0.046,20,2.65,-0.158,0.5,price,157
+P00396,Apexa Hoodie 321,Apparel,Menswear,28.02,1224.0,33013.71,0.026,126,3.3,0.16,0.349,delivery,701
+P00142,Novi Blouse 892,Apparel,Womenswear,121.82,280.0,32917.99,0.06,31,2.16,-0.424,0.645,packaging,175
+P00369,Orbit Cable 848,Electronics,Accessories,42.54,807.0,32802.16,0.024,88,3.82,0.463,0.17,price,476
+P00046,Lumen Cookware Set 543,Home,Kitchen,110.24,306.0,32743.75,0.008,27,3.67,0.381,0.185,quality,164
+P00222,Vantage Blouse 774,Apparel,Womenswear,67.0,501.0,32418.46,0.023,41,3.2,-0.044,0.537,price,313
+P00137,Harbour Rug 412,Home,Decor,29.12,1137.0,32253.18,0.026,105,3.59,0.327,0.286,price,590
+P00368,Zentro Boots 552,Apparel,Footwear,62.49,532.0,32189.4,0.022,41,3.05,0.05,0.415,customer_service,310
+P00388,Kora Lamp 226,Home,Decor,47.92,686.0,31853.17,0.033,56,3.43,0.248,0.268,packaging,337
+P00237,Orbit Jacket 855,Apparel,Menswear,56.17,586.0,31619.55,0.018,45,3.87,0.39,0.178,price,300
+P00200,Apexa Cable 873,Electronics,Accessories,75.98,438.0,31551.53,0.02,51,3.75,0.38,0.176,quality,242
+P00253,Orbit Jeans 440,Apparel,Menswear,51.62,632.0,31409.23,0.019,58,3.9,0.423,0.207,price,401
+P00266,Southern Co Speaker 244,Electronics,Audio,83.18,395.0,31274.11,0.037,51,3.22,0.105,0.333,price,231
+P00078,Lumen Sneakers 616,Apparel,Footwear,51.68,598.0,29825.75,0.01,51,3.96,0.476,0.157,size_fit,306
+P00398,Novi Charger 376,Electronics,Accessories,66.93,454.0,28930.11,0.011,51,4.1,0.521,0.157,price,265
+P00156,Zentro Sneakers 504,Apparel,Footwear,86.75,343.0,28545.23,0.034,41,3.78,0.45,0.195,quality,216
+P00265,Orbit Candle 988,Home,Decor,24.49,1191.0,28285.03,0.043,114,3.2,0.081,0.368,price,586
+P00251,Apexa Sneakers 982,Apparel,Footwear,72.96,397.0,27873.27,0.024,29,3.79,0.341,0.241,price,228
+P00210,Southern Co Blouse 754,Apparel,Womenswear,25.13,1144.0,27846.9,0.019,80,3.79,0.279,0.288,delivery,562
+P00354,Lumen Dress 930,Apparel,Womenswear,52.61,548.0,27837.08,0.013,51,4.14,0.587,0.078,size_fit,226
+P00203,Lumen Coat 357,Apparel,Womenswear,50.96,568.0,27832.48,0.015,54,3.44,0.19,0.296,packaging,291
+P00308,Southern Co Sandals 492,Apparel,Footwear,103.56,276.0,27709.48,0.017,21,3.95,0.53,0.095,packaging,151
+P00067,Apexa Dress 149,Apparel,Womenswear,143.77,193.0,26559.12,0.072,22,2.41,-0.344,0.682,price,112
+P00375,Southern Co Soundbar 639,Electronics,Audio,86.32,321.0,26470.64,0.045,40,2.65,-0.244,0.625,packaging,243
+P00236,Orbit Toaster 254,Home,Kitchen,135.13,200.0,26462.82,0.06,10,2.1,-0.37,0.6,delivery,114
+P00103,Lumen Charger 544,Electronics,Accessories,100.94,271.0,26230.91,0.058,31,3.1,0.072,0.387,packaging,194
+P00223,Lumen Sneakers 662,Apparel,Footwear,79.64,337.0,25822.65,0.018,35,3.46,0.183,0.314,quality,230
+P00359,Novi Coat 561,Apparel,Womenswear,27.65,967.0,25703.36,0.042,81,2.73,-0.155,0.556,price,608
+P00306,Apexa Hoodie 251,Apparel,Menswear,97.7,273.0,25617.28,0.043,18,3.44,0.283,0.222,price,169
+P00169,Novi Adapter 691,Electronics,Accessories,23.42,1148.0,25544.05,0.044,151,2.67,-0.236,0.563,delivery,652
+P00183,Lumen Skirt 332,Apparel,Womenswear,53.22,498.0,25451.55,0.016,48,3.38,0.13,0.354,delivery,352
+P00126,Willow Coat 562,Apparel,Womenswear,54.66,461.0,24216.58,0.034,49,3.47,0.119,0.265,size_fit,214
+P00100,Kora Cushion 801,Home,Decor,32.16,771.0,24051.33,0.037,80,2.54,-0.252,0.588,price,429
+P00090,Harbour Blouse 911,Apparel,Womenswear,141.06,177.0,24004.78,0.013,16,3.81,0.483,0.125,size_fit,109
+P00257,Kora Blender 550,Home,Kitchen,20.7,1189.0,23922.41,0.03,89,3.38,0.149,0.36,price,609
+P00035,Vantage Hoodie 473,Apparel,Menswear,123.13,199.0,23572.62,0.029,21,3.52,0.25,0.333,customer_service,144
+P00288,Zentro Shirt 966,Apparel,Menswear,37.5,644.0,23352.06,0.048,61,3.2,0.042,0.393,price,343
+P00327,Kora Kettle 263,Home,Kitchen,34.02,705.0,23269.75,0.033,64,3.08,0.065,0.422,quality,348
+P00057,Southern Co Jeans 741,Apparel,Menswear,93.73,256.0,23070.51,0.023,26,4.27,0.563,0.115,price,174
+P00097,Willow Jacket 540,Apparel,Menswear,31.52,746.0,22622.37,0.035,67,3.36,0.185,0.343,price,446
+P00286,Willow Jeans 457,Apparel,Menswear,69.58,331.0,22206.09,0.045,34,3.29,0.17,0.294,delivery,214
+P00121,Lumen Blouse 218,Apparel,Womenswear,22.58,1015.0,22021.69,0.03,87,3.01,-0.036,0.46,delivery,517
+P00275,Harbour Runners 202,Apparel,Footwear,54.31,418.0,21673.53,0.014,37,4.11,0.588,0.135,quality,232
+P00358,Orbit Cookware Set 346,Home,Kitchen,37.07,598.0,21525.59,0.02,57,3.93,0.543,0.123,packaging,407
+P00021,Willow Kettle 216,Home,Kitchen,59.28,365.0,21007.28,0.05,44,3.0,0.022,0.386,price,241
+P00298,Willow Cookware Set 144,Home,Kitchen,33.51,638.0,20828.6,0.05,73,2.41,-0.319,0.644,price,287
+P00353,Vantage Blouse 220,Apparel,Womenswear,93.3,223.0,20112.26,0.035,25,3.4,0.12,0.36,price,126
+P00387,Novi Toaster 852,Home,Kitchen,29.77,680.0,19765.94,0.041,61,2.85,-0.133,0.492,price,340
+P00235,Kora Lamp 108,Home,Decor,11.96,1693.0,19689.86,0.025,152,3.6,0.303,0.289,price,827
+P00016,Vantage Earbuds 182,Electronics,Audio,63.93,320.0,19520.71,0.037,34,3.24,0.151,0.353,customer_service,215
+P00317,Lumen Jacket 578,Apparel,Menswear,100.9,198.0,19266.11,0.006,20,3.4,0.325,0.25,size_fit,127
+P00038,Kora Dress 734,Apparel,Womenswear,104.03,188.0,18816.73,0.049,16,2.75,-0.149,0.438,delivery,135
+P00005,Apexa Shirt 507,Apparel,Menswear,21.32,918.0,18766.24,0.04,80,2.8,-0.177,0.513,price,451
+P00006,Vantage Dress 918,Apparel,Womenswear,32.17,608.0,18751.3,0.029,48,3.83,0.443,0.229,packaging,336
+P00077,Southern Co Adapter 673,Electronics,Accessories,74.36,263.0,18660.77,0.034,36,3.44,0.214,0.306,price,171
+P00045,Harbour Sofa 273,Home,Furniture,91.19,209.0,18489.63,0.022,18,3.5,0.18,0.333,delivery,140
+P00250,Kora Hoodie 625,Apparel,Menswear,47.9,396.0,18292.45,0.026,30,3.83,0.352,0.233,quality,253
+P00309,Southern Co Cable 928,Electronics,Accessories,33.48,566.0,18122.12,0.023,54,3.85,0.417,0.222,price,381
+P00009,Harbour Bookshelf 970,Home,Furniture,94.61,195.0,18064.37,0.074,15,1.73,-0.734,0.867,packaging,159
+P00297,Kora Cushion 697,Home,Decor,18.08,1023.0,17939.44,0.021,105,3.67,0.343,0.229,customer_service,498
+P00094,Novi Jeans 158,Apparel,Menswear,34.34,541.0,17908.82,0.043,38,3.0,0.024,0.395,price,327
+P00256,Southern Co Toaster 410,Home,Kitchen,44.65,395.0,17172.84,0.018,46,3.65,0.301,0.283,packaging,218
+P00323,Orbit Charger 449,Electronics,Accessories,32.83,545.0,17090.46,0.036,68,3.44,0.246,0.279,delivery,378
+P00372,Willow Adapter 925,Electronics,Accessories,60.12,297.0,16953.54,0.039,36,3.44,0.087,0.361,delivery,220
+P00104,Vantage Cushion 142,Home,Decor,15.03,1145.0,16704.22,0.051,114,2.88,-0.066,0.5,customer_service,677
+P00278,Kora Blouse 951,Apparel,Womenswear,25.23,678.0,16472.68,0.033,57,3.12,0.019,0.421,price,362
+P00247,Novi Boots 521,Apparel,Footwear,84.77,200.0,16202.02,0.04,19,3.53,0.243,0.263,delivery,102
+P00032,Lumen Lamp 164,Home,Decor,13.69,1213.0,16127.12,0.029,108,3.19,0.095,0.398,price,597
+P00110,Willow Candle 642,Home,Decor,34.24,479.0,15847.78,0.026,38,3.08,0.106,0.316,packaging,273
+P00228,Orbit Blouse 298,Apparel,Womenswear,31.72,511.0,15565.43,0.021,41,3.34,0.103,0.39,price,343
+P00157,Zentro Adapter 616,Electronics,Accessories,58.41,279.0,15430.34,0.043,33,3.0,-0.056,0.485,quality,196
+P00346,Apexa Toaster 488,Home,Kitchen,64.74,246.0,15409.23,0.047,19,3.21,0.128,0.263,quality,156
+P00135,Lumen Blouse 509,Apparel,Womenswear,32.65,486.0,15316.31,0.041,47,3.19,0.177,0.298,price,298
+P00132,Kora Lamp 766,Home,Decor,40.56,382.0,15147.81,0.028,29,3.28,0.171,0.31,price,208
+P00207,Vantage Soundbar 617,Electronics,Audio,54.15,293.0,15056.13,0.013,30,3.7,0.353,0.267,delivery,241
+P00143,Willow Lamp 530,Home,Decor,17.29,896.0,15026.41,0.028,86,2.87,-0.053,0.477,delivery,482
+P00054,Harbour Sneakers 404,Apparel,Footwear,55.76,268.0,14310.32,0.055,25,3.72,0.269,0.28,customer_service,189
+P00343,Apexa Toaster 980,Home,Kitchen,27.24,537.0,14194.78,0.06,47,2.49,-0.318,0.574,price,283
+P00146,Zentro Charger 365,Electronics,Accessories,18.73,785.0,14054.91,0.016,71,3.63,0.338,0.197,delivery,518
+P00190,Harbour Cable 662,Electronics,Accessories,18.85,775.0,13983.84,0.02,85,3.82,0.444,0.176,packaging,449
+P00202,Orbit Cushion 796,Home,Decor,14.54,987.0,13956.69,0.029,94,3.4,0.221,0.309,delivery,608
+P00272,Lumen Soundbar 814,Electronics,Audio,55.12,259.0,13684.62,0.019,25,3.68,0.411,0.12,quality,177
+P00231,Willow Speaker 434,Electronics,Audio,45.73,312.0,13532.94,0.009,30,4.1,0.572,0.067,delivery,210
+P00232,Apexa Jacket 781,Apparel,Menswear,50.18,279.0,13434.82,0.042,25,3.28,0.032,0.36,customer_service,170
+P00318,Vantage Boots 278,Apparel,Footwear,51.13,267.0,13113.35,0.021,26,3.65,0.322,0.231,customer_service,111
+P00177,Willow Hoodie 624,Apparel,Menswear,88.74,152.0,13069.01,0.015,20,4.25,0.599,0.1,delivery,98
+P00180,Willow Cookware Set 763,Home,Kitchen,52.15,250.0,12722.29,0.059,15,2.53,-0.199,0.533,packaging,150
+P00328,Lumen Blouse 316,Apparel,Womenswear,51.21,260.0,12619.57,0.013,25,3.88,0.522,0.12,price,148
+P00061,Willow Runners 474,Apparel,Footwear,112.64,114.0,12407.69,0.05,13,2.69,-0.15,0.538,price,84
+P00276,Harbour Jeans 515,Apparel,Menswear,21.84,582.0,12236.14,0.026,60,3.52,0.248,0.3,price,368
+P00033,Novi Cable 608,Electronics,Accessories,11.48,1102.0,12051.19,0.033,104,3.32,0.163,0.356,customer_service,821
+P00070,Orbit Hoodie 310,Apparel,Menswear,22.27,564.0,11977.05,0.04,42,3.14,0.01,0.429,price,288
+P00383,Southern Co Cookware Set 468,Home,Kitchen,31.26,384.0,11706.66,0.03,32,3.06,-0.058,0.5,price,234
+P00393,Lumen Coat 376,Apparel,Womenswear,90.79,133.0,11682.32,0.027,9,3.67,0.276,0.333,packaging,82
+P00184,Novi Charger 689,Electronics,Accessories,52.52,228.0,11362.27,0.021,13,3.0,-0.111,0.462,quality,128
+P00172,Willow Coat 155,Apparel,Womenswear,39.22,296.0,11156.21,0.04,28,2.64,-0.262,0.571,price,150
+P00356,Lumen Dress 266,Apparel,Womenswear,32.35,342.0,10722.76,0.018,27,4.26,0.729,0.037,,187
+P00293,Orbit Rug 351,Home,Decor,34.42,316.0,10556.93,0.068,35,1.69,-0.685,0.857,price,186
+P00373,Kora Jeans 692,Apparel,Menswear,43.35,251.0,10479.02,0.009,37,3.41,0.08,0.378,price,147
+P00267,Apexa Case 316,Electronics,Accessories,34.35,316.0,10335.93,0.019,33,3.82,0.417,0.242,delivery,260
+P00283,Southern Co Adapter 449,Electronics,Accessories,21.17,505.0,10105.45,0.041,51,3.33,0.194,0.333,quality,352
+P00192,Novi Case 886,Electronics,Accessories,27.02,388.0,9983.75,0.025,42,3.71,0.372,0.238,quality,244
+P00044,Lumen Cable 262,Electronics,Accessories,14.54,699.0,9706.3,0.013,75,4.03,0.471,0.173,price,372
+P00182,Willow Lamp 681,Home,Decor,31.13,320.0,9700.4,0.018,30,2.83,-0.215,0.6,price,197
+P00113,Orbit Charger 874,Electronics,Accessories,22.02,461.0,9622.93,0.038,64,2.91,-0.122,0.5,delivery,272
+P00053,Novi Kettle 997,Home,Kitchen,21.44,461.0,9599.53,0.034,50,2.6,-0.241,0.58,price,276
+P00299,Zentro Blender 233,Home,Kitchen,18.61,502.0,9040.1,0.026,30,4.07,0.554,0.167,packaging,294
+P00058,Harbour Coat 784,Apparel,Womenswear,62.85,148.0,8983.14,0.024,14,3.5,0.281,0.357,price,98
+P00330,Lumen Adapter 431,Electronics,Accessories,21.23,441.0,8901.7,0.022,36,2.97,-0.107,0.5,price,240
+P00118,Willow Toaster 114,Home,Kitchen,15.21,554.0,8212.92,0.034,53,3.25,0.147,0.358,price,304
+P00296,Novi Candle 285,Home,Decor,15.32,541.0,8070.1,0.034,51,3.43,0.207,0.314,price,392
+P00321,Kora Cushion 269,Home,Decor,22.01,370.0,7899.07,0.05,22,2.45,-0.241,0.591,quality,212
+P00312,Orbit Jeans 154,Apparel,Menswear,56.86,144.0,7878.13,0.024,12,4.25,0.629,0.083,,87
+P00307,Orbit Shirt 629,Apparel,Menswear,30.22,271.0,7835.3,0.051,24,2.96,0.017,0.417,size_fit,160
+P00093,Willow Hoodie 764,Apparel,Menswear,21.64,362.0,7496.61,0.007,27,3.7,0.423,0.185,packaging,292
+P00316,Kora Case 830,Electronics,Accessories,28.76,271.0,7434.87,0.066,32,2.84,-0.207,0.5,quality,171
+P00385,Zentro Jeans 434,Apparel,Menswear,95.18,79.0,7291.5,0.015,7,4.43,0.659,0.143,,47
+P00101,Apexa Rug 637,Home,Decor,20.24,368.0,7212.84,0.016,31,4.23,0.637,0.097,customer_service,220
+P00348,Orbit Case 103,Electronics,Accessories,16.98,438.0,7096.92,0.022,39,3.33,0.195,0.359,quality,312
+P00163,Kora Case 962,Electronics,Accessories,15.02,488.0,7006.33,0.014,58,4.0,0.527,0.155,packaging,301
+P00068,Novi Adapter 707,Electronics,Accessories,13.12,554.0,6935.64,0.034,53,3.47,0.237,0.283,packaging,337
+P00384,Apexa Skirt 124,Apparel,Womenswear,34.78,205.0,6859.62,0.017,17,3.76,0.353,0.176,size_fit,157
+P00311,Southern Co Coat 115,Apparel,Womenswear,22.59,317.0,6856.88,0.057,31,2.55,-0.287,0.581,price,241
+P00225,Novi Adapter 154,Electronics,Accessories,15.46,463.0,6830.01,0.051,57,2.89,-0.095,0.509,quality,321
+P00243,Orbit Adapter 129,Electronics,Accessories,16.66,416.0,6598.8,0.021,37,3.78,0.325,0.297,packaging,223
+P00114,Kora Blouse 248,Apparel,Womenswear,20.93,321.0,6431.65,0.021,31,3.1,-0.006,0.419,delivery,167
+P00171,Apexa Case 777,Electronics,Accessories,29.69,226.0,6365.41,0.053,26,3.15,0.085,0.346,delivery,136
+P00025,Apexa Kettle 529,Home,Kitchen,16.96,382.0,6282.08,0.064,34,2.26,-0.355,0.647,packaging,207
+P00024,Lumen Candle 628,Home,Decor,18.03,333.0,5812.28,0.044,24,2.88,-0.158,0.458,quality,147
+P00224,Vantage Candle 177,Home,Decor,13.8,429.0,5751.8,0.022,46,3.85,0.398,0.261,quality,245
+P00219,Novi Lamp 158,Home,Decor,15.76,365.0,5594.12,0.019,41,3.15,0.145,0.341,price,206
+P00111,Vantage Hoodie 233,Apparel,Menswear,44.26,133.0,5586.53,0.026,17,3.24,0.176,0.294,price,102
+P00263,Kora Case 235,Electronics,Accessories,10.68,520.0,5274.45,0.043,61,2.92,0.007,0.41,customer_service,381
+P00370,Willow Candle 762,Home,Decor,19.51,266.0,5045.71,0.049,28,3.07,-0.006,0.357,quality,140
+P00244,Novi Dress 203,Apparel,Womenswear,25.87,194.0,4862.99,0.024,21,4.0,0.506,0.095,quality,124
+P00226,Willow Candle 687,Home,Decor,14.5,326.0,4601.79,0.025,30,3.3,0.054,0.4,packaging,181
+P00043,Orbit Toaster 137,Home,Kitchen,19.69,228.0,4387.83,0.058,29,2.66,-0.106,0.448,delivery,122
+P00361,Vantage Cushion 489,Home,Decor,15.5,276.0,4138.37,0.004,20,3.8,0.597,0.1,customer_service,181
+P00216,Novi Kettle 579,Home,Kitchen,25.29,163.0,3990.96,0.014,24,3.63,0.329,0.25,delivery,110
+P00254,Willow Adapter 396,Electronics,Accessories,26.45,146.0,3683.74,0.026,16,3.81,0.36,0.25,packaging,95
+P00221,Southern Co Case 628,Electronics,Accessories,26.65,142.0,3594.09,0.054,16,2.13,-0.516,0.75,quality,78
+P00072,Harbour Hoodie 460,Apparel,Menswear,21.34,168.0,3458.01,0.007,14,4.0,0.51,0.071,delivery,83
+P00173,Lumen Charger 808,Electronics,Accessories,13.78,200.0,2623.91,0.02,19,3.37,0.037,0.368,customer_service,123
+P00076,Zentro Case 407,Electronics,Accessories,12.35,217.0,2543.1,0.037,28,3.14,-0.07,0.5,packaging,128
+P00187,Orbit Jacket 788,Apparel,Menswear,26.58,76.0,1942.93,0.033,6,3.17,0.163,0.333,size_fit,54
+P00374,Willow Case 470,Electronics,Accessories,12.63,103.0,1248.15,0.01,15,3.6,0.436,0.133,delivery,86
